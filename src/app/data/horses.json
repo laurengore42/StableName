@@ -9,7 +9,8 @@
     "c": "G",
     "l": "BBBB",
     "b": "AES",
-    "p": null
+    "p": null,
+    "a": "Retired from serious competition 2021, no longer completely sound."
   },
   {
     "n": "Arctic Soul",
@@ -21,7 +22,9 @@
     "c": "B",
     "l": "BBBB",
     "b": "TB",
-    "p": null
+    "p": null,
+    "z": 2022,
+    "a": "OTTB, over hurdles in Ireland. Bites at slightest provocation, AKA 'Sharkface'. Cause of death: collapsed after winning Weston, suspected heart attack."
   },
   {
     "n": "Chilli Morning",
@@ -33,6 +36,8 @@
     "c": "Ch",
     "l": "CBSS",
     "b": "DSP",
+    "z": 2020,
+    "a": "Legendary eventing sire. One of only two stallions to ever win a 5*. Cause of death: sudden collapse in paddock.",
     "p": null
   },
   {
