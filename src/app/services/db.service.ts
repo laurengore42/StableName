@@ -17,7 +17,7 @@ export class DbService {
         // load whatever's in datablock.json,
         // then add new or updated show entries from an input file
         // and print it out so it can be saved as the new datablock.json
-        // this.datablock = new Datablock(http, 'assets/input.txt', '2019_CI_0065_C_S_01_01', '5LBy', RegexPattern.Eventing);
+        // this.datablock = new Datablock(http, 'assets/input.txt', '2022_Badminton', '5LBn', RegexPattern.Eventing);
     }
 
     get Riders(): Rider[] {
