@@ -3,6 +3,7 @@ import { HttpClient } from '@angular/common/http';
 
 import { Datablock, Rider, Horse, Score, Competition, EventSeries } from 'src/app/models';
 import { Photo } from '../models/photo';
+import { RegexPattern } from '../enums';
 
 @Injectable({
     providedIn: 'root'
