@@ -476,7 +476,7 @@
     "t": "CAN"
   },
   {
-    "n": "Padraig Mccarthy",
+    "n": "Padraig McCarthy",
     "f": "10101347",
     "g": "M",
     "b": 1977,
@@ -519,7 +519,8 @@
     "t": "RUS"
   },
   {
-    "n": "Samantha Birch",
+    "n": "Sammi Birch",
+    "m": "Samantha Birch",
     "f": "10009560",
     "g": "F",
     "b": 0,
@@ -1167,7 +1168,8 @@
     "t": "NZL"
   },
   {
-    "n": "Becky Woolven",
+    "n": "Becky Heappey",
+    "m": "Becky Woolven",
     "f": "10067769",
     "g": "F",
     "b": 1991,
@@ -1506,7 +1508,8 @@
     "t": "GBR"
   },
   {
-    "n": "Kirsty Johnston",
+    "n": "Kirsty Chabert",
+    "m": "Kirsty Johnston",
     "f": "10030498",
     "g": "F",
     "b": 0,
@@ -1549,7 +1552,7 @@
     "g": "M",
     "b": 1963,
     "t": "AUS",
-    "a": "Writes a blog at BillLevett.com. Good singing voice, has done panto. Used to drive cattle in Australia."
+    "a": "Writes a blog at BillLevett.com, with loads of photos of the horses and reports on events. Good singing voice, has done panto. Used to drive cattle in Australia."
   },
   {
     "n": "Vittoria Panizzon",
@@ -6804,8 +6807,8 @@
     "t": "GBR"
   },
   {
-    "n": "Susannah Berry",
-    "m": "",
+    "n": "Susie Berry",
+    "m": "Susannah Berry",
     "f": "10076361",
     "g": "",
     "b": 0,
@@ -7253,12 +7256,13 @@
     "t": "IRL"
   },
   {
-    "n": "Kyle Roddy",
+    "n": "Kylie Roddy",
     "m": "",
     "f": "10004742",
     "g": "",
     "b": 0,
-    "t": "GBR"
+    "t": "GBR",
+    "a": "Keeps getting misprinted as 'Kyle'. Definitely a girl. Also teaches - yard website is authentically hideous."
   },
   {
     "n": "Hayley Parker",
@@ -7398,7 +7402,7 @@
   },
   {
     "n": "Mike Winter",
-    "m": "",
+    "m": "Michael Winter",
     "f": "10005041",
     "g": "",
     "b": 0,
@@ -7927,6 +7931,150 @@
     "g": "",
     "b": 0,
     "t": "ITA",
+    "a": ""
+  },
+  {
+    "n": "Ridername",
+    "m": "",
+    "f": "10098666",
+    "g": "",
+    "b": 0,
+    "t": "XXX",
+    "a": ""
+  },
+  {
+    "n": "Helen Wilson",
+    "m": "",
+    "f": "10004321",
+    "g": "",
+    "b": 0,
+    "t": "GBR",
+    "a": ""
+  },
+  {
+    "n": "Christoph Wahler",
+    "m": "",
+    "f": "10036633",
+    "g": "",
+    "b": 0,
+    "t": "GER",
+    "a": ""
+  },
+  {
+    "n": "Sofia Sjoborg",
+    "m": "",
+    "f": "10105783",
+    "g": "",
+    "b": 0,
+    "t": "SWE",
+    "a": ""
+  },
+  {
+    "n": "Mollie Summerland",
+    "m": "",
+    "f": "10089079",
+    "g": "",
+    "b": 0,
+    "t": "GBR",
+    "a": ""
+  },
+  {
+    "n": "Alice Casburn",
+    "m": "",
+    "f": "10169595",
+    "g": "",
+    "b": 0,
+    "t": "GBR",
+    "a": ""
+  },
+  {
+    "n": "James Rushbrooke",
+    "m": "",
+    "f": "10100301",
+    "g": "",
+    "b": 0,
+    "t": "GBR",
+    "a": ""
+  },
+  {
+    "n": "Luc Château",
+    "m": "",
+    "f": "10060608",
+    "g": "",
+    "b": 0,
+    "t": "FRA",
+    "a": ""
+  },
+  {
+    "n": "Karl Slezak",
+    "m": "",
+    "f": "10004641",
+    "g": "",
+    "b": 0,
+    "t": "CAN",
+    "a": ""
+  },
+  {
+    "n": "Rosie Fry",
+    "m": "",
+    "f": "10035072",
+    "g": "",
+    "b": 0,
+    "t": "GBR",
+    "a": ""
+  },
+  {
+    "n": "Bubby Upton",
+    "m": "",
+    "f": "10106331",
+    "g": "",
+    "b": 0,
+    "t": "GBR",
+    "a": ""
+  },
+  {
+    "n": "Thomas Carlile",
+    "m": "",
+    "f": "10026280",
+    "g": "",
+    "b": 0,
+    "t": "FRA",
+    "a": ""
+  },
+  {
+    "n": "Cyrielle Lefevre",
+    "m": "",
+    "f": "10087626",
+    "g": "",
+    "b": 0,
+    "t": "FRA",
+    "a": ""
+  },
+  {
+    "n": "Jean Lou Bigot",
+    "m": "",
+    "f": "10022462",
+    "g": "",
+    "b": 0,
+    "t": "FRA",
+    "a": ""
+  },
+  {
+    "n": "Emily Hamel",
+    "m": "",
+    "f": "10035705",
+    "g": "",
+    "b": 0,
+    "t": "USA",
+    "a": ""
+  },
+  {
+    "n": "Lauren Innes",
+    "m": "",
+    "f": "10043109",
+    "g": "",
+    "b": 0,
+    "t": "NZL",
     "a": ""
   }
 ]
