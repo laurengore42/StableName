@@ -72,9 +72,10 @@
   },
   {
     "n": "Caroline Clarke",
+    "m": "Dr Caroline Clarke",
     "f": "10099026",
     "g": "F",
-    "b": 0,
+    "b": 1995,
     "t": "GBR",
     "a": "Day job as a dentist. Was encouraged by seeing fellow dentist Henrich Romeike at Badminton 2007. Won the CCI2* at Blair in 2016 while still a dentistry student."
   },
@@ -216,7 +217,7 @@
     "n": "Joris Vanspringel",
     "f": "10004575",
     "g": "M",
-    "b": 0,
+    "b": 1963,
     "t": "BEL"
   },
   {
@@ -481,7 +482,7 @@
     "g": "M",
     "b": 1977,
     "t": "IRL",
-    "a": "PhD in Irish insolvency law. Moved from showjumping to eventing when he met his wife, who came to see a horse he was selling. She bought it."
+    "a": "PhD in Irish insolvency law. Moved from showjumping to eventing when he met his wife, who came to see a horse he was selling. She bought it. They run MGH Sport Horses together."
   },
   {
     "n": "Andrey Mitin",
@@ -523,7 +524,7 @@
     "m": "Samantha Birch",
     "f": "10009560",
     "g": "F",
-    "b": 0,
+    "b": 1978,
     "t": "AUS"
   },
   {
@@ -737,7 +738,7 @@
     "n": "Arthur Duffort",
     "f": "10027348",
     "g": "M",
-    "b": 0,
+    "b": 1988,
     "t": "FRA"
   },
   {
@@ -761,7 +762,7 @@
     "n": "Cedric Lyard",
     "f": "10000172",
     "g": "M",
-    "b": 0,
+    "b": 1972,
     "t": "FRA"
   },
   {
@@ -771,7 +772,7 @@
     "g": "M",
     "b": 1982,
     "t": "GBR",
-    "a": "Dad inherited Grandma's horse-drawn milk float, and ended up riding at Burghley as an amateur. Oliver is the first pro in the family."
+    "a": "Dad inherited Grandma's horse-drawn milk float, and ended up riding at Burghley as an amateur. Oliver is the first pro in the family. Old-fashioned, rails about frangible pin penalties."
   },
   {
     "n": "Francis Whittington",
@@ -785,7 +786,8 @@
     "f": "10004583",
     "g": "M",
     "b": 1976,
-    "t": "IRL"
+    "t": "IRL",
+    "a": "Biggest compliment to a horse is 'blood'. Prefers willingness in a horse to raw talent. Likes chocolate too much, cuts down before big events."
   },
   {
     "n": "Gilles Pons",
@@ -866,12 +868,13 @@
     "n": "Elizabeth Power",
     "f": "10004059",
     "g": "F",
-    "b": 0,
-    "t": "IRL"
+    "b": 1985,
+    "t": "IRL",
+    "a": "Father is Con Power, a national showjumper."
   },
   {
     "n": "Paul Tapner",
-    "m": "Tappers",
+    "m": "Tappers, Tapperz",
     "f": "10005184",
     "g": "M",
     "b": 1975,
@@ -913,7 +916,7 @@
     "m": "Rosalind Canter",
     "f": "10011524",
     "g": "F",
-    "b": 0,
+    "b": 1986,
     "t": "GBR",
     "a": "Only 5'2\" and can't run fast enough to trot up Allstar B."
   },
@@ -939,7 +942,7 @@
     "g": "M",
     "b": 1984,
     "t": "GBR",
-    "a": "Wears brightly coloured trousers at trot-ups. Was apprenticed to William Fox-Pitt. Shattered both elbows falling from Shannondale Santiago at Wellington August 2013."
+    "a": "Wears brightly coloured trousers at trot-ups. Was apprenticed to William Fox-Pitt. Shattered both elbows falling from Shannondale Santiago at Wellington August 2013. Head girl Jess Errington blogs at The Gaitpost."
   },
   {
     "n": "Dani Evans",
@@ -1248,7 +1251,7 @@
     "n": "Austin O'Connor",
     "f": "10000186",
     "g": "M",
-    "b": 0,
+    "b": 1974,
     "t": "IRL"
   },
   {
@@ -1269,14 +1272,14 @@
     "n": "Sarah Ennis",
     "f": "10005414",
     "g": "F",
-    "b": 0,
+    "b": 1975,
     "t": "IRL"
   },
   {
     "n": "Cathal Daniels",
     "f": "10089471",
     "g": "M",
-    "b": 0,
+    "b": 1997,
     "t": "IRL"
   },
   {
@@ -1348,7 +1351,7 @@
     "n": "Sarah Way",
     "f": "10016361",
     "g": "F",
-    "b": 0,
+    "b": 1988,
     "t": "GBR"
   },
   {
@@ -1512,8 +1515,9 @@
     "m": "Kirsty Johnston",
     "f": "10030498",
     "g": "F",
-    "b": 0,
-    "t": "GBR"
+    "b": 1989,
+    "t": "GBR",
+    "a": "Runs the Opposition stud near Salisbury, founded with the TRAK stallion Fleetwater Opposition by father John Johnston. Mum Debbie rode GP dressage. Married to fellow competitor Arthur Chabert (FRA)."
   },
   {
     "n": "Hanne Wind Ramsgaard",
@@ -1799,7 +1803,7 @@
     "n": "Sam Watson",
     "f": "10007367",
     "g": "M",
-    "b": 0,
+    "b": 1986,
     "t": "IRL",
     "a": "Founded EquiRatings with Diarm Byrne. Co-hosts on the EquiRatings Eventing Podcast."
   },
@@ -3421,10 +3425,12 @@
   },
   {
     "n": "Lucy McCarthy",
+    "m": "Lucy Wiegersma",
     "f": "10004850",
     "g": "",
     "b": 0,
-    "t": "GBR"
+    "t": "GBR",
+    "a": "Married to Padraig McCarthy."
   },
   {
     "n": "Abigail Kate Walters",
@@ -3646,8 +3652,8 @@
   {
     "n": "Libby Seed",
     "f": "10080768",
-    "g": "",
-    "b": 0,
+    "g": "F",
+    "b": 1998,
     "t": "GBR"
   },
   {
@@ -3667,8 +3673,8 @@
   {
     "n": "Hector Payne",
     "f": "10043953",
-    "g": "",
-    "b": 0,
+    "g": "M",
+    "b": 1992,
     "t": "GBR"
   },
   {
@@ -3681,8 +3687,8 @@
   {
     "n": "Katrin Khoddam-Hazrati",
     "f": "10011591",
-    "g": "",
-    "b": 0,
+    "g": "F",
+    "b": 1986,
     "t": "AUT"
   },
   {
@@ -3724,8 +3730,8 @@
   {
     "n": "Maxime Livio",
     "f": "10011305",
-    "g": "",
-    "b": 0,
+    "g": "M",
+    "b": 1988,
     "t": "FRA"
   },
   {
@@ -4066,8 +4072,8 @@
   {
     "n": "Sharon Polding",
     "f": "10011916",
-    "g": "",
-    "b": 0,
+    "g": "F",
+    "b": 1972,
     "t": "GBR",
     "a": "Accounts manager for a telecoms company."
   },
@@ -4083,8 +4089,8 @@
   {
     "n": "Jo Rimmer",
     "f": "10004532",
-    "g": "",
-    "b": 0,
+    "g": "F",
+    "b": 1970,
     "t": "GBR"
   },
   {
@@ -4092,7 +4098,8 @@
     "f": "10042982",
     "g": "M",
     "b": 1993,
-    "t": "GBR"
+    "t": "GBR",
+    "a": "Not the Canadian YouTuber. Grew up on a dairy farm; his yard is now based there. Mum Maggie also evented. Sells dad's ice-cream as a side hustle."
   },
   {
     "n": "Marie Caroline Barbier",
@@ -4297,7 +4304,7 @@
     "n": "Hazel Shannon",
     "f": "10075067",
     "g": "F",
-    "b": 0,
+    "b": 1993,
     "t": "AUS"
   },
   {
@@ -4354,9 +4361,10 @@
   {
     "n": "Amanda Pottinger",
     "f": "10032362",
-    "g": "",
-    "b": 0,
-    "t": "NZL"
+    "g": "F",
+    "b": 1992,
+    "t": "NZL",
+    "a": "Mother is Olympic eventer Tinks Pottinger."
   },
   {
     "n": "Hayley Frielick",
@@ -4438,7 +4446,7 @@
   {
     "n": "Bundy Philpott",
     "f": "10003754",
-    "g": "",
+    "g": "F",
     "b": 0,
     "t": "NZL"
   },
@@ -4691,7 +4699,7 @@
     "n": "Will Faudree",
     "f": "10005691",
     "g": "M",
-    "b": 0,
+    "b": 1981,
     "t": "USA",
     "a": "Broke his neck falling from Hans Dampf at Five Points September 2015. Got a skull and crossbones tattoo for his comeback. Likes Captain Hook."
   },
@@ -4769,7 +4777,7 @@
     "n": "Tiana Coudray",
     "f": "10012564",
     "g": "F",
-    "b": 0,
+    "b": 1988,
     "t": "USA"
   },
   {
@@ -5008,8 +5016,8 @@
     "n": "Selina Milnes",
     "m": "Selina Elliott",
     "f": "10005435",
-    "g": "",
-    "b": 0,
+    "g": "F",
+    "b": 1975,
     "t": "GBR"
   },
   {
@@ -5506,7 +5514,7 @@
     "n": "Aistis Vitkauskas",
     "m": "",
     "f": "10007111",
-    "g": "",
+    "g": "M",
     "b": 0,
     "t": "LTU"
   },
@@ -5738,8 +5746,8 @@
     "n": "Gireg Le Coz",
     "m": "",
     "f": "10034043",
-    "g": "",
-    "b": 0,
+    "g": "M",
+    "b": 1989,
     "t": "FRA"
   },
   {
@@ -5802,8 +5810,8 @@
     "n": "Ugo Provasi",
     "m": "",
     "f": "10011304",
-    "g": "",
-    "b": 0,
+    "g": "M",
+    "b": 1984,
     "t": "FRA"
   },
   {
@@ -6802,16 +6810,16 @@
     "n": "Felicity Collins",
     "m": "",
     "f": "10099960",
-    "g": "",
-    "b": 0,
+    "g": "F",
+    "b": 1998,
     "t": "GBR"
   },
   {
     "n": "Susie Berry",
     "m": "Susannah Berry",
     "f": "10076361",
-    "g": "",
-    "b": 0,
+    "g": "F",
+    "b": 1996,
     "t": "IRL"
   },
   {
@@ -6819,8 +6827,9 @@
     "m": "",
     "f": "10035898",
     "g": "M",
-    "b": 0,
-    "t": "FRA"
+    "b": 1989,
+    "t": "FRA",
+    "a": "Married to Kirsty née Johnston of the Opposition stud."
   },
   {
     "n": "Jodie Seddon",
@@ -7259,8 +7268,8 @@
     "n": "Kylie Roddy",
     "m": "",
     "f": "10004742",
-    "g": "",
-    "b": 0,
+    "g": "F",
+    "b": 1982,
     "t": "GBR",
     "a": "Keeps getting misprinted as 'Kyle'. Definitely a girl. Also teaches - yard website is authentically hideous."
   },
@@ -7380,8 +7389,8 @@
     "n": "Fiona Kashel",
     "m": "",
     "f": "10004136",
-    "g": "",
-    "b": 0,
+    "g": "F",
+    "b": 1983,
     "t": "GBR"
   },
   {
@@ -7404,8 +7413,8 @@
     "n": "Mike Winter",
     "m": "Michael Winter",
     "f": "10005041",
-    "g": "",
-    "b": 0,
+    "g": "M",
+    "b": 1975,
     "t": "CAN"
   },
   {
@@ -7577,7 +7586,7 @@
     "t": "GBR"
   },
   {
-    "n": "Amy O' Connor",
+    "n": "Amy O'Connor",
     "m": "",
     "f": "10010902",
     "g": "",
@@ -7877,7 +7886,7 @@
     "m": "Schrammo, Dominic Schramm",
     "f": "10012819",
     "g": "M",
-    "b": 0,
+    "b": 1988,
     "t": "AUS",
     "a": "Owns a dog called Vegemite and married to a Texan woman called Jimmie. Made some training videos as 'Evention TV'."
   },
@@ -7886,7 +7895,7 @@
     "m": "",
     "f": "10004971",
     "g": "M",
-    "b": 0,
+    "b": 1984,
     "t": "USA"
   },
   {
@@ -7934,20 +7943,20 @@
     "a": ""
   },
   {
-    "n": "Ridername",
+    "n": "Rose Nesbitt",
     "m": "",
     "f": "10098666",
-    "g": "",
-    "b": 0,
-    "t": "XXX",
+    "g": "F",
+    "b": 1997,
+    "t": "GBR",
     "a": ""
   },
   {
     "n": "Helen Wilson",
     "m": "",
     "f": "10004321",
-    "g": "",
-    "b": 0,
+    "g": "F",
+    "b": 1980,
     "t": "GBR",
     "a": ""
   },
@@ -7955,8 +7964,8 @@
     "n": "Christoph Wahler",
     "m": "",
     "f": "10036633",
-    "g": "",
-    "b": 0,
+    "g": "M",
+    "b": 1994,
     "t": "GER",
     "a": ""
   },
@@ -7964,8 +7973,8 @@
     "n": "Sofia Sjoborg",
     "m": "",
     "f": "10105783",
-    "g": "",
-    "b": 0,
+    "g": "F",
+    "b": 1998,
     "t": "SWE",
     "a": ""
   },
@@ -7973,8 +7982,8 @@
     "n": "Mollie Summerland",
     "m": "",
     "f": "10089079",
-    "g": "",
-    "b": 0,
+    "g": "F",
+    "b": 1998,
     "t": "GBR",
     "a": ""
   },
@@ -7982,17 +7991,17 @@
     "n": "Alice Casburn",
     "m": "",
     "f": "10169595",
-    "g": "",
-    "b": 0,
+    "g": "F",
+    "b": 2002,
     "t": "GBR",
-    "a": ""
+    "a": "First competitor at Badminton born after the millennium, I think. Mother is eventer Caroline Casburn."
   },
   {
     "n": "James Rushbrooke",
     "m": "",
     "f": "10100301",
-    "g": "",
-    "b": 0,
+    "g": "M",
+    "b": 1997,
     "t": "GBR",
     "a": ""
   },
@@ -8009,8 +8018,8 @@
     "n": "Karl Slezak",
     "m": "",
     "f": "10004641",
-    "g": "",
-    "b": 0,
+    "g": "M",
+    "b": 1982,
     "t": "CAN",
     "a": ""
   },
@@ -8018,17 +8027,17 @@
     "n": "Rosie Fry",
     "m": "",
     "f": "10035072",
-    "g": "",
-    "b": 0,
+    "g": "F",
+    "b": 1991,
     "t": "GBR",
     "a": ""
   },
   {
     "n": "Bubby Upton",
-    "m": "",
+    "m": "Isabelle Upton",
     "f": "10106331",
-    "g": "",
-    "b": 0,
+    "g": "F",
+    "b": 1999,
     "t": "GBR",
     "a": ""
   },
@@ -8036,8 +8045,8 @@
     "n": "Thomas Carlile",
     "m": "",
     "f": "10026280",
-    "g": "",
-    "b": 0,
+    "g": "M",
+    "b": 1988,
     "t": "FRA",
     "a": ""
   },
@@ -8045,8 +8054,8 @@
     "n": "Cyrielle Lefevre",
     "m": "",
     "f": "10087626",
-    "g": "",
-    "b": 0,
+    "g": "F",
+    "b": 1988,
     "t": "FRA",
     "a": ""
   },
@@ -8054,8 +8063,8 @@
     "n": "Jean Lou Bigot",
     "m": "",
     "f": "10022462",
-    "g": "",
-    "b": 0,
+    "g": "M",
+    "b": 1966,
     "t": "FRA",
     "a": ""
   },
@@ -8063,8 +8072,8 @@
     "n": "Emily Hamel",
     "m": "",
     "f": "10035705",
-    "g": "",
-    "b": 0,
+    "g": "F",
+    "b": 1987,
     "t": "USA",
     "a": ""
   },
@@ -8072,8 +8081,8 @@
     "n": "Lauren Innes",
     "m": "",
     "f": "10043109",
-    "g": "",
-    "b": 0,
+    "g": "F",
+    "b": 1991,
     "t": "NZL",
     "a": ""
   }
