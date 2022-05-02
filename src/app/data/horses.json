@@ -1655,7 +1655,7 @@
     "d": 2003,
     "l": "BBBB",
     "b": "SHBGB",
-    "a": "Sire is a Thoroughbred, dam is 1/4 Shire.",
+    "a": "Sire is a Thoroughbred, dam is 1/4 Shire. Slightly Roman-nosed, and too small for Tim to ride when Jonelle was pregnant. Faster round Badminton than the 100% TBs, and unpleasant to hack as she doesn't want to stay in trot. 'Unladylike', according to the Prices' old website, and likes mud.",
     "p": null
   },
   {
@@ -1878,7 +1878,7 @@
     "d": 2004,
     "l": "BBBB",
     "b": "OLDBG",
-    "a": "Frightened of crowds, 'bit of a nutcase'.",
+    "a": "Frightened of crowds, 'bit of a nutcase'. Sarah has had him since he was four. In 2020: 'He's not sixteen, he's four four times over.' Showjumping lines back to Galoubet A.",
     "p": null
   },
   {
@@ -2214,7 +2214,7 @@
     "s": "Fernando",
     "c": "B",
     "x": "G",
-    "h": 17.1,
+    "h": 17.2,
     "d": 2006,
     "l": "BBBC",
     "b": "HOLST",
@@ -8297,16 +8297,17 @@
     "p": null
   },
   {
-    "n": "Cosma",
+    "n": "DSP Cosma",
     "f": "104MX60",
     "s": "",
-    "c": "",
-    "x": "",
-    "h": 0,
-    "d": 0,
-    "l": "",
-    "b": "DSP",
-    "p": null
+    "c": "Ch",
+    "x": "M",
+    "h": 16.2,
+    "d": 2009,
+    "l": "SSBB",
+    "b": "BRAND",
+    "p": null,
+    "a": "Bought unseen as a yearling, after Katrin rode a full brother. Also showjumps, scopey and can sometimes over-jump. 'A crazy chestnut mare with a big heart.'"
   },
   {
     "n": "Cool Chica",
@@ -9450,13 +9451,14 @@
     "n": "Findonfirecracker",
     "f": "104CO06",
     "s": "Dizzy",
-    "c": "",
-    "x": "",
-    "h": 0,
-    "d": 0,
-    "l": "",
+    "c": "Ch",
+    "x": "M",
+    "h": 16.0,
+    "d": 2007,
+    "l": "BFHB",
     "b": "SHBGB",
-    "p": null
+    "p": null,
+    "a": "Rider-owned. 'A loving, sweet-natured, sensitive horse who loves to compete, especially jump'. Sharon's best friend. Didn't event til she was 6, as Sharon was raising a baby."
   },
   {
     "n": "Corvette 31",
@@ -9756,7 +9758,7 @@
     "d": 2003,
     "l": "BBBB",
     "b": "KWPN",
-    "a": "Was dyed pink in late 2015 by Emma Hyslop-Webb for a breast cancer charity.",
+    "a": "Emma's owned him since he was three. Was dyed pink in late 2015 for a breast cancer charity.",
     "p": null
   },
   {
@@ -10164,7 +10166,8 @@
     "d": 2005,
     "l": "BBBB",
     "b": "TB",
-    "p": null
+    "p": null,
+    "a": "Australian Thoroughbred, never raced as he didn't look any good at it. Prefix is because Terry Snow bought Clifford to let Hazel keep the ride."
   },
   {
     "n": "Im Bruce",
@@ -22281,12 +22284,13 @@
     "s": "Boly",
     "c": "B",
     "x": "G",
-    "h": 16.3,
+    "h": 17.2,
     "d": 2006,
     "l": "BBBF",
     "z": 0,
     "b": "KWPN",
-    "p": null
+    "p": null,
+    "a": "Named for being 'small and tubby'. These days, 'a big, sexy, athletic lunatic'. Reared a lot as a youngster - very hard to handle, but Dom says he's changed his ways and we shouldn't focus on his past."
   },
   {
     "n": "Ophelia",
@@ -22403,7 +22407,8 @@
     "l": "BBCB",
     "z": 0,
     "b": "KWPN",
-    "p": null
+    "p": null,
+    "a": "Hadn't evented before Matt bought him. 'Bit of a cheeky monkey', thinks he's funny. Sire was Wizzerd WV."
   },
   {
     "n": "Leamore Master Plan",
@@ -22888,9 +22893,9 @@
     "c": "Br",
     "x": "M",
     "h": 16.0,
-    "d": 0,
+    "d": 2010,
     "l": "BBCB",
-    "z": 2010,
+    "z": 0,
     "b": "HOLST",
     "a": "Bought off a Facebook post from a showjumper, aged 5."
   },
@@ -22931,7 +22936,7 @@
     "l": "BBBB",
     "z": 0,
     "b": "BWP",
-    "a": "Bought unbroken at two and produced by Ben. Has a share-buying system for 500 fans to get premium blog posts and course walks, but no ownership."
+    "a": "Bought unbroken at two and produced by Ben."
   },
   {
     "n": "My Ernie",
@@ -23015,37 +23020,40 @@
     "n": "Valmy Biats",
     "f": "105TA10",
     "s": "",
-    "c": "",
-    "x": "",
-    "h": 0,
-    "d": 0,
-    "l": "",
+    "c": "B",
+    "x": "G",
+    "h": 16.3,
+    "d": 2009,
+    "l": "BBFB",
     "z": 0,
-    "a": ""
+    "b": "SF",
+    "a": "Same dam as William's Oslo Biats. Gets tense, Emily has had to ride him differently to her others which were almost too relaxed."
   },
   {
-    "n": "Topspin",
+    "n": "Topspin II",
     "f": "105NH16",
-    "s": "",
-    "c": "",
-    "x": "",
-    "h": 0,
-    "d": 0,
-    "l": "",
+    "s": "Spin",
+    "c": "B",
+    "x": "G",
+    "h": 17.1,
+    "d": 2008,
+    "l": "FBFS",
     "z": 0,
-    "a": ""
+    "b": "AES",
+    "a": "Second-generation homebred, showjumped with Alice's mum Caroline in his early career. Has done puissance. A big, long-striding horse, looks slow but very adjustable. Alice says if he doesn't spook going into the arena, she worries about his form."
   },
   {
     "n": "Milchem Eclipse",
     "f": "106BY09",
     "s": "",
-    "c": "",
-    "x": "",
-    "h": 0,
-    "d": 0,
-    "l": "",
+    "c": "B",
+    "x": "G",
+    "h": 16.2,
+    "d": 2012,
+    "l": "BBBB",
     "z": 0,
-    "a": ""
+    "b": "ISH",
+    "a": "Bought aged 4 in Ireland, of unknown breeding."
   },
   {
     "n": "Troubadour Camphoux",
@@ -23062,14 +23070,15 @@
   {
     "n": "John The Bull",
     "f": "105SY56",
-    "s": "",
-    "c": "",
-    "x": "",
-    "h": 0,
-    "d": 0,
-    "l": "",
+    "s": "John",
+    "c": "LCh",
+    "x": "G",
+    "h": 16.1,
+    "d": 2011,
+    "l": "BBCF",
     "z": 0,
-    "a": ""
+    "b": "ISH",
+    "a": "Originally produced by Jonty Evans."
   },
   {
     "n": "Vitorio Du Montet",
@@ -23110,24 +23119,25 @@
   {
     "n": "Fernhill Wishes",
     "f": "104LJ04",
-    "s": "",
-    "c": "",
-    "x": "",
-    "h": 0,
-    "d": 0,
-    "l": "",
+    "s": "Choc",
+    "c": "B",
+    "x": "G",
+    "h": 17.0,
+    "d": 2009,
+    "l": "BBBB",
     "z": 0,
-    "a": ""
+    "b": "ISH",
+    "a": "Bought in Ireland as a four year old. 'A pretty laid-back dude' - 'was the laziest horse I've ever ridden' when first bought. Now based in Florida, so wakes up a bit anywhere colder. Loves cheering crowds, goes nuts on victory laps."
   },
   {
-    "n": "True Blue Too",
+    "n": "True Blue Too II",
     "f": "105UF74",
     "s": "",
-    "c": "",
+    "c": "B",
     "x": "",
     "h": 0,
     "d": 0,
-    "l": "",
+    "l": "BBBB",
     "z": 0,
     "a": ""
   },
