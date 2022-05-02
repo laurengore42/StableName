@@ -20,7 +20,7 @@ export class ScorelistComponent implements OnInit {
         this.scoresShow = entries
             .map(s => new ScoreHorseRider(
                 s,
-                this.datablock.horses.find(h => h.Fei === s.Horse.Fei), this.datablock.riders.find(r => r.Fei === s.Rider.Fei)
+                this.datablock.horses.find(h => h.Fei === s.Horse.Fei), this.datablock.riders.find(r => r.Fei === s.Rider.Fei), this.datablock.photos.find(p => p.Fei === s.Horse.Fei)
             ))
             .sort(ScoreHorseRider.sortByResult);
 

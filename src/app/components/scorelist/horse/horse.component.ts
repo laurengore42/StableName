@@ -1,5 +1,5 @@
 import { Component, Input, OnInit } from '@angular/core';
-import { Horse, EventSeries, Competition, Score } from 'src/app/models';
+import { Horse, Photo, EventSeries, Competition, Score } from 'src/app/models';
 
 @Component({
   selector: 'sn-scorelist-horse',
@@ -9,15 +9,22 @@ import { Horse, EventSeries, Competition, Score } from 'src/app/models';
 
 export class ScorelistHorseComponent implements OnInit {
   @Input() horse: Horse;
+  @Input() photo: Photo;
   @Input() position: string;
   @Input() ridername: string;
   @Input() outcome: string;
   public dnf: boolean;
+  public photoDisplay: string;
 
   constructor() { }
 
   ngOnInit() {
     this.dnf = this.position === 'EL' || this.position === 'WD' || this.position === 'RET' || this.position === 'DSQ';
+
+    this.photoDisplay = '';
+    if (this.photo && this.photo.Photo) {
+        this.photoDisplay = this.photo.Photo;
+    }
   }
 
   openDataPages(): void {

@@ -1,15 +1,18 @@
 import { Score } from './score';
 import { Horse } from './horse';
 import { Rider } from './rider';
+import { Photo } from './photo';
 
 export class ScoreHorseRider {
     public score: Score;
     public horse: Horse;
+    public photo: Photo;
     public rider: Rider;
 
-    constructor(score: Score, horse: Horse, rider: Rider) {
+    constructor(score: Score, horse: Horse, rider: Rider, photo: Photo) {
       this.score = score;
       this.horse = horse;
+      this.photo = photo;
       this.rider = rider;
     }
 
