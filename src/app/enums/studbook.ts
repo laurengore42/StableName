@@ -54,6 +54,7 @@ export enum Studbook {
     MIPAAF = 'Italian Horse',
     NRPS = 'Dutch Sport Horse',
     NWB = 'Norwegian Warmblood',
+    NZWB = 'New Zealand Warmblood',
     OLDBG = 'Oldenburg',
     OS = 'Oldenburg',
     'P.R.E.' = 'Pura Raza Española',
