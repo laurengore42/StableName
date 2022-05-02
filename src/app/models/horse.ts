@@ -6,8 +6,16 @@ export class Height {
     public Inches: number;
 
     constructor(decimal: number) {
-        this.Hands = Math.floor(decimal);
-        this.Inches = Math.floor(10 * (decimal - Math.floor(decimal)));
+        if (decimal > 0) {
+            var wholeHands = Math.floor(decimal);
+            var partHands = decimal - wholeHands;
+
+            // this has to be rounded because of Javascript floating point handling
+            var displayPartHands = Math.round(10 * partHands);
+    
+            this.Hands = wholeHands;
+            this.Inches = displayPartHands;
+        }
     }
 }
 
