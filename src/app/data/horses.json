@@ -11076,7 +11076,7 @@
     "d": 2004,
     "l": "BBBB",
     "b": "TRAK",
-    "a": "Adorable long ears. Has a non-competing horse friend called PJ, who he refuses to be without at home. A happy, calm hacker.",
+    "a": "Adorable long ears. Has a non-competing horse friend called PJ, who he refuses to be without at home. A happy, calm hacker. Retired after Kentucky 2022.",
     "p": null
   },
   {
@@ -16616,7 +16616,7 @@
   {
     "n": "Pawlow",
     "f": "IRL03614",
-    "s": "",
+    "s": "Ernie",
     "c": "",
     "x": "",
     "h": 0,
@@ -18463,7 +18463,7 @@
     "x": "G",
     "h": 16.2,
     "d": 2009,
-    "l": "",
+    "l": "BBBB",
     "z": 0,
     "b": "OLDBG",
     "p": null,
@@ -22993,7 +22993,7 @@
     "x": "G",
     "h": 16.3,
     "d": 2011,
-    "l": "",
+    "l": "FCSB",
     "z": 0,
     "b": "HANN",
     "a": "Produced through 2018 by Andreas Dibowski. Still a bit green."
@@ -23302,14 +23302,15 @@
   {
     "n": "Global Fision M",
     "f": "105HV96",
-    "s": "",
-    "c": "",
-    "x": "",
-    "h": 0,
-    "d": 0,
+    "s": "Flipper",
+    "c": "B",
+    "x": "G",
+    "h": 16.2,
+    "d": 2010,
     "l": "",
     "z": 0,
-    "a": ""
+    "b": "KWPN",
+    "a": "Rider-owned. Easy to do, loves to jump but has been given some BD shows to get his dressage better. Sire is a SF jumper, Flipper's stable name is after him."
   },
   {
     "n": "Opposition Loire",
