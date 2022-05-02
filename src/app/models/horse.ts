@@ -7,11 +7,11 @@ export class Height {
 
     constructor(decimal: number) {
         if (decimal > 0) {
-            var wholeHands = Math.floor(decimal);
-            var partHands = decimal - wholeHands;
+            const wholeHands = Math.floor(decimal);
+            const partHands = decimal - wholeHands;
 
             // this has to be rounded because of Javascript floating point handling
-            var displayPartHands = Math.round(10 * partHands);
+            const displayPartHands = Math.round(10 * partHands);
     
             this.Hands = wholeHands;
             this.Inches = displayPartHands;
