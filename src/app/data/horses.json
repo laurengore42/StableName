@@ -37,7 +37,7 @@
     "l": "CBSS",
     "b": "DSP",
     "z": 2020,
-    "a": "Legendary eventing sire. One of only two stallions to ever win a 5*. Cause of death: sudden collapse in paddock.",
+    "a": "Legendary eventing sire. First ever stallion to win Badminton. Cause of death: sudden collapse in paddock.",
     "p": null
   },
   {
@@ -933,7 +933,7 @@
     "l": "BFBB",
     "b": "ISH",
     "p": null,
-    "a": "Started by Piggy, then moved around a bit til Paul Tapner retired and offered Piggy the ride back. A bit fragile, ties-up."
+    "a": "Started by Piggy, then moved around a bit til Paul Tapner retired and offered Piggy the ride back. Doesn't give her best at one-days. A bit fragile, ties-up and has soft feet."
   },
   {
     "n": "Talent",
@@ -1451,7 +1451,8 @@
     "d": 2008,
     "l": "BBCC",
     "b": "ISH",
-    "p": null
+    "p": null,
+    "a": "An Andrew Nicholson ride towards the end of Nicholson's 5* career. Oliver says he's beautifully produced."
   },
   {
     "n": "Frog Rock",
@@ -1527,7 +1528,7 @@
     "n": "Soladoun",
     "f": "104BF55",
     "s": "",
-    "c": "",
+    "c": "G",
     "x": "",
     "h": 0,
     "d": 0,
@@ -1699,7 +1700,8 @@
     "d": 2010,
     "l": "CBCB",
     "b": "ISH",
-    "p": null
+    "p": null,
+    "a": "Oliver says he's 17hh but his registration disagrees."
   },
   {
     "n": "Miss Cooley",
@@ -1747,7 +1749,8 @@
     "d": 2005,
     "l": "CBFF",
     "b": "KWPN",
-    "p": null
+    "p": null,
+    "a": "Ros's World Champion and king of the yard. Loves big events, a good boy who wouldn't hurt a fly. By a Selle Francis showjumper, the Galoubet A line."
   },
   {
     "n": "Cillnabradden Evo",
@@ -1796,7 +1799,8 @@
     "d": 2007,
     "l": "CCBC",
     "b": "SF",
-    "p": null
+    "p": null,
+    "a": "Bought in France, ridden initially by Sammi Birch. 'Unbelievably sharp', hard to catch, can't be jumped at home because he bolts and has to be loaded last because he gets excited. Loves competing, showing off, and crowds."
   },
   {
     "n": "Mr Chunky",
@@ -2105,13 +2109,14 @@
   {
     "n": "MGH Grafton Street",
     "f": "104AJ73",
-    "s": "",
+    "s": "Squirrel",
     "c": "B",
     "x": "G",
     "h": 16.2,
     "d": 2008,
     "l": "BBCC",
-    "p": null
+    "p": null,
+    "a": "Previous name Bannerfarm Rocket. Started by Padraig McCarthy, then briefly by Andrew Nicholson."
   },
   {
     "n": "Billy Walk On",
@@ -2123,7 +2128,8 @@
     "d": 2009,
     "l": "CBBF",
     "b": "AES",
-    "p": null
+    "p": null,
+    "a": "A big horse, described as lanky at 12."
   },
   {
     "n": "Collien P2",
@@ -2608,7 +2614,7 @@
     "h": 16.3,
     "d": 2009,
     "l": "BBBB",
-    "a": "Out of a Thoroughbred. William Fox-Pitt won Pau on his sire, the Selle Francais Oslo Biats.",
+    "a": "Out of a Thoroughbred. William Fox-Pitt won Pau on his sire, the Selle Francais Oslo Biats. Owned by the Oratorio II syndicate. Started by Laura Collett but he was too big for her.",
     "p": null
   },
   {
@@ -2632,7 +2638,8 @@
     "h": 16.1,
     "d": 2007,
     "l": "FFBB",
-    "a": "Named for his close-set eyes. Bought by Caroline Powell as a newly broke 4-year-old, when she was 16.",
+    "b": "ISH",
+    "a": "Named for his close-set eyes. Bought by Caroline Clarke as a newly broke 4-year-old, when she was 16.",
     "p": null
   },
   {
@@ -8592,7 +8599,7 @@
     "d": 2004,
     "l": "BBBB",
     "b": "KWPN",
-    "a": "When his showjumping wasn't much good, was broken to drive.",
+    "a": "When his showjumping wasn't much good, was broken to drive. 'Like a pet, wanders around the yard without a headcollar.'",
     "p": null
   },
   {
@@ -9490,7 +9497,7 @@
     "h": 15.1,
     "d": 2006,
     "l": "BBFB",
-    "a": "Everyone's favourite little golden pony. Has his own Facebook page. Unknown heritage but probably has Connemara.",
+    "a": "Everyone's favourite little golden pony. Has his own Facebook page. Unknown heritage but probably has Connemara - has no idea he's 15.1.",
     "p": null
   },
   {
@@ -10250,6 +10257,7 @@
     "h": 0,
     "d": 0,
     "l": "",
+    "b": "TB",
     "p": null
   },
   {
@@ -10399,12 +10407,14 @@
     "n": "Tresca NZPH",
     "f": "103UP46",
     "s": "",
-    "c": "",
-    "x": "",
-    "h": 0,
-    "d": 0,
-    "l": "",
-    "p": null
+    "c": "B",
+    "x": "G",
+    "h": 16.3,
+    "d": 2006,
+    "l": "BBCC",
+    "p": null,
+    "b": "NZWB",
+    "a": "Broke his pelvis as a young horse, before Emily bought him at 4. 'Not an oil painting, but a really good jumper.'"
   },
   {
     "n": "Wenlock Aquifer",
@@ -10615,7 +10625,8 @@
     "d": 2008,
     "l": "BBFB",
     "b": "ZANG",
-    "p": null
+    "p": null,
+    "a": "Bought from Portugal. Timid at first, has built confidence. Nosy and has a central stall at the barn so he can see what's going on. Likes carrots and sweet potatoes."
   },
   {
     "n": "Vermiculus",
@@ -12096,7 +12107,7 @@
     "d": 1997,
     "l": "BBBB",
     "z": 2014,
-    "a": "By the Trakehner stallion Fleetwater Opposition out of a Thoroughbred. 'The ugliest foal you've ever seen' with an enormous head and mismatched front feet.<br />Cause of death: seizure.",
+    "a": "By the TRAK stallion Fleetwater Opposition out of a Thoroughbred. 'The ugliest foal you've ever seen' with an enormous head and mismatched front feet. Cause of death: seizure.",
     "p": null
   },
   {
@@ -18361,14 +18372,15 @@
     "n": "Colorado Blue",
     "f": "104YC94",
     "s": "",
-    "c": "",
-    "x": "",
-    "h": 0,
-    "d": 0,
-    "l": "",
+    "c": "G",
+    "x": "G",
+    "h": 16.3,
+    "d": 2009,
+    "l": "BBBB",
     "b": "SHBGB",
     "z": 0,
-    "p": null
+    "p": null,
+    "a": "Son of Jaguar Mail. Owned by the Salty syndicate."
   },
   {
     "n": "Tzinga D'auzay",
@@ -18482,7 +18494,8 @@
     "l": "HHSS",
     "b": "SHBGB",
     "z": 0,
-    "p": null
+    "p": null,
+    "a": ""
   },
   {
     "n": "Sambo",
@@ -19616,7 +19629,7 @@
     "p": null
   },
   {
-    "n": "Shadd'oc",
+    "n": "Shadd'OC",
     "f": "103QD48",
     "s": "",
     "c": "",
@@ -22392,7 +22405,8 @@
     "l": "FFFF",
     "z": 0,
     "b": "ISH",
-    "p": null
+    "p": null,
+    "a": "By Master Imp."
   },
   {
     "n": "Ray Price W",
@@ -22728,7 +22742,7 @@
     "d": 2010,
     "l": "BBCS",
     "z": 0,
-    "a": ""
+    "a": "Won Burghley Young Horse at 5."
   },
   {
     "n": "Classic VI",
@@ -22740,7 +22754,7 @@
     "d": 2009,
     "l": "BBBB",
     "z": 0,
-    "a": ""
+    "a": "Sired by Calvaro. Bought by Kirsty Chabert as a 5 year old."
   },
   {
     "n": "Fallulah",
@@ -22752,43 +22766,45 @@
     "d": 2009,
     "l": "BBCF",
     "z": 0,
-    "a": ""
+    "a": "5* debut in 2021. Was briefly an Emily Philp ride. Padraig says she's sweet and easy to do."
   },
   {
     "n": "Cesar V",
     "f": "103VI07",
-    "s": "",
-    "c": "",
-    "x": "",
-    "h": 0,
-    "d": 0,
-    "l": "",
+    "s": "Cesar",
+    "c": "B",
+    "x": "G",
+    "h": 16.3,
+    "d": 2008,
+    "l": "BBCF",
     "z": 0,
-    "a": ""
+    "b": "OLDBG",
+    "a": "Joseph: 'A handsome gentleman with a laid back attitude.' Owned by the Way Forward syndicate."
   },
   {
     "n": "Ferro Point",
     "f": "105GP31",
-    "s": "",
-    "c": "",
-    "x": "",
-    "h": 0,
-    "d": 0,
-    "l": "",
+    "s": "Ferro",
+    "c": "B",
+    "x": "M",
+    "h": 16.1,
+    "d": 2010,
+    "l": "BBBB",
     "z": 0,
-    "a": ""
+    "a": "Badminton debut 2022. Nice gallop, tricky in the first phase. David: 'The nimble lady of the yard – an elegant picture with a really swanky walk.'"
   },
   {
     "n": "JL Dublin",
     "f": "105PQ61",
-    "s": "",
-    "c": "",
-    "x": "",
-    "h": 0,
-    "d": 0,
-    "l": "",
+    "s": "Dubs",
+    "c": "DkB",
+    "x": "G",
+    "h": 16.3,
+    "d": 2011,
+    "l": "BBBC",
     "z": 0,
-    "a": "JL prefix stands for his owners' names as BE already registered a Dublin."
+    "b": "HOLST",
+    "a": "Nicola's European champion. JL prefix stands for his owners' names as BE already registered a Dublin. Can get overexcited and noisy in the warmup."
   },
   {
     "n": "Carden Earl Grey",
@@ -22800,7 +22816,8 @@
     "d": 2006,
     "l": "BBSS",
     "z": 0,
-    "a": ""
+    "b": "AES",
+    "a": "Owned by the Eael Grey Tea Partygoers syndicate."
   },
   {
     "n": "Artful Trinity",
@@ -22817,62 +22834,67 @@
   {
     "n": "Commander VG",
     "f": "105VR97",
-    "s": "",
-    "c": "",
-    "x": "",
-    "h": 0,
-    "d": 0,
-    "l": "",
+    "s": "DkB",
+    "c": "B",
+    "x": "G",
+    "h": 17.2,
+    "d": 2011,
+    "l": "BBFF",
     "z": 0,
-    "a": ""
+    "b": "DWB",
+    "a": "Owned by Aistis since he was 5."
   },
   {
     "n": "DHI Purple Rain",
     "f": "104ZX55",
-    "s": "",
-    "c": "",
-    "x": "",
-    "h": 0,
-    "d": 0,
-    "l": "",
+    "s": "Prince",
+    "c": "Bl",
+    "x": "G",
+    "h": 16.2,
+    "d": 2010,
+    "l": "BBBB",
     "z": 0,
-    "a": ""
+    "b": "KWPN",
+    "a": "'Loves everyone and everything', especially cuddles. Registered black, but 'dark bay' on Francis's website - I think maybe he just sun-fades."
   },
   {
     "n": "Mai Baum",
     "f": "104AO61",
-    "s": "",
-    "c": "",
-    "x": "",
-    "h": 0,
-    "d": 0,
-    "l": "",
+    "s": "Lexus",
+    "c": "Bl",
+    "x": "G",
+    "h": 16.1,
+    "d": 2006,
+    "l": "BFSC",
     "z": 0,
-    "a": ""
+    "b": "DSP",
+    "a": "Tamie's 'horse of a lifetime'. 'Wiggly' on the flat, Tamie reckons his flash looks help his scores."
   },
   {
     "n": "Cancaras Girl",
     "f": "105IV64",
-    "s": "",
-    "c": "",
-    "x": "",
-    "h": 0,
+    "s": "Cara",
+    "c": "Br",
+    "x": "M",
+    "h": 16.0,
     "d": 0,
-    "l": "",
-    "z": 0,
-    "a": ""
+    "l": "BBCB",
+    "z": 2010,
+    "b": "HOLST",
+    "a": "Bought off a Facebook post from a showjumper, aged 5."
   },
   {
     "n": "EG Michealangelo",
     "f": "105TZ95",
     "s": "",
-    "c": "",
-    "x": "",
+    "c": "B",
+    "x": "G",
     "h": 0,
-    "d": 0,
-    "l": "",
+    "d": 2011,
+    "l": "SSSS",
     "z": 0,
-    "a": "'Micheal' is the registered spelling - does get misreported."
+    "b": "ISH",
+    "a": "'Micheal' is the registered spelling - does get misreported. DOB is New Year's Day. Leg markings are estimated, please correct after dressage."
   },
   {
     "n": "Woodcourt Garrison",
@@ -22938,11 +22960,11 @@
     "n": "Charly Van Ter Heiden",
     "f": "105IG55",
     "s": "",
-    "c": "",
+    "c": "Br",
     "x": "",
     "h": 0,
     "d": 0,
-    "l": "",
+    "l": "SFSS",
     "z": 0,
     "a": ""
   },
@@ -23103,14 +23125,14 @@
     "a": ""
   },
   {
-    "n": "Cola",
+    "n": "Cola III",
     "f": "105PX78",
     "s": "",
-    "c": "",
+    "c": "BrB",
     "x": "",
     "h": 0,
     "d": 0,
-    "l": "",
+    "l": "CCCF",
     "z": 0,
     "a": ""
   },
@@ -23273,14 +23295,15 @@
   {
     "n": "Opposition Loire",
     "f": "105TB84",
-    "s": "",
-    "c": "",
-    "x": "",
-    "h": 0,
-    "d": 0,
+    "s": "Daisy",
+    "c": "Br",
+    "x": "M",
+    "h": 16.3,
+    "d": 2011,
     "l": "",
     "z": 0,
-    "a": ""
+    "b": "TRAK",
+    "a": "Bred at Kirsty Chabert's stud, by Opposition Heracles (son of Fleetwater Opposition). Owned by the Daisy Chain syndicate. First 5*, horse is so low-profile I can't find its leg markings recorded."
   },
   {
     "n": "HHS Noble Call",
@@ -23292,7 +23315,7 @@
     "d": 0,
     "l": "",
     "z": 0,
-    "a": ""
+    "a": "By an Olympic team jumping stallion. Padraig: 'big and white'."
   },
   {
     "n": "Erano M",
@@ -23309,26 +23332,28 @@
   {
     "n": "Lordships Graffalo",
     "f": "106EB79",
-    "s": "",
+    "s": "Walter",
     "c": "",
     "x": "",
     "h": 0,
-    "d": 0,
+    "d": 2012,
     "l": "",
     "z": 0,
-    "a": ""
+    "b": "SHBGB",
+    "a": "Started and produced by Ros Canter, ridden by Tom McEwen while Ros was pregnant."
   },
   {
     "n": "Galileo Nieuwmoed",
     "f": "105RK10",
-    "s": "",
-    "c": "",
-    "x": "",
-    "h": 0,
+    "s": "Galileo",
+    "c": "DkB",
+    "x": "G",
+    "h": 17.0,
     "d": 0,
     "l": "",
     "z": 0,
-    "a": ""
+    "b": "KWPN",
+    "a": "David was asked by the owner if he'd take this one to sell, and ended up keeping it (doesn't own). Wasn't impressed at first - straight hind legs and corrective shoes in front! Friendly if you take time to say hello."
   },
   {
     "n": "Brookfield Inocent",
@@ -23357,14 +23382,15 @@
   {
     "n": "Calmaro",
     "f": "105TU82",
-    "s": "",
-    "c": "",
-    "x": "",
-    "h": 0,
-    "d": 0,
-    "l": "",
+    "s": "Mario",
+    "c": "G",
+    "x": "G",
+    "h": 16.1,
+    "d": 2011,
+    "l": "SSSS",
     "z": 0,
-    "a": ""
+    "a": "Joseph: 'a very sensitive type'.",
+    "b": "DSP"
   },
   {
     "n": "Lates Quin",
