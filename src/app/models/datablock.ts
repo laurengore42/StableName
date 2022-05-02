@@ -6,9 +6,15 @@ import { EventSeries, EventSeriesDTO } from './eventseries';
 import { ScoreDTO, Score, Result } from './score';
 import { HorseDTO, Horse } from './horse';
 import { RiderDTO, Rider } from './rider';
-import { RegexPattern } from '../enums';
+import { PhotoDTO, Photo } from './photo';
+import { RegexPattern } from 'src/app/enums';
 
-import datajson from '../data/datablock.json';
+import scoresjson from 'src/app/data/scores.json';
+import horsesjson from 'src/app/data/horses.json';
+import photosjson from 'src/app/data/photos.json';
+import ridersjson from 'src/app/data/riders.json';
+import competitionsjson from 'src/app/data/competitions.json';
+import eventseriesesjson from 'src/app/data/eventserieses.json';
 
 class DatablockDTO {
     public c: CompetitionDTO[];
@@ -16,6 +22,7 @@ class DatablockDTO {
     public s: ScoreDTO[];
     public h: HorseDTO[];
     public r: RiderDTO[];
+    public p: PhotoDTO[];
 
     constructor(db: Datablock) {
         this.c = [];
@@ -28,6 +35,8 @@ class DatablockDTO {
         db.riders.forEach(ri => this.r.push(ri.Dto));
         this.s = [];
         db.scores.forEach(sc => this.s.push(sc.Dto));
+        this.p = [];
+        db.photos.forEach(ph => this.p.push(ph.Dto));
     }
 }
 
@@ -37,6 +46,7 @@ export class Datablock {
     public scores: Score[];
     public horses: Horse[];
     public riders: Rider[];
+    public photos: Photo[];
 
     constructor(private http: HttpClient, filename: string, competitionFei: string, competitionName: string, competitionPattern: string) {
         this.buildFromJson();
@@ -47,11 +57,12 @@ export class Datablock {
     }
 
     private buildFromJson() {
-        this.scores = datajson.s.map((s: ScoreDTO) => new Score(s.c, [s.t.p, s.r, '', s.h, '', ''], s.t, s.d));
-        this.horses = datajson.h.map((h: HorseDTO) => new Horse(h));
-        this.riders = datajson.r.map((r: RiderDTO) => new Rider(r));
-        this.competitions = datajson.c.map((c: CompetitionDTO) => new Competition(c));
-        this.eventseries = datajson.e.map((e: EventSeriesDTO) => new EventSeries(e));
+        this.scores = scoresjson.map((s: ScoreDTO) => new Score(s.c, [s.t.p, s.r, '', s.h, '', ''], s.t, s.d));
+        this.horses = horsesjson.map((h: HorseDTO) => new Horse(h));
+        this.riders = ridersjson.map((r: RiderDTO) => new Rider(r));
+        this.competitions = competitionsjson.map((c: CompetitionDTO) => new Competition(c));
+        this.eventseries = eventseriesesjson.map((e: EventSeriesDTO) => new EventSeries(e));
+        this.photos = photosjson.map((p: PhotoDTO) => new Photo(p));
 
         this.horses.forEach(h => {
             h.scores = this.scores.filter(s => s.Horse.Fei === h.Fei);
@@ -168,6 +179,12 @@ export class Datablock {
 
     private printOut() {
         let jsonStringify = require('json-pretty');
-        saveAs(new Blob([jsonStringify(new DatablockDTO(this))], {type: 'application/json'}), 'datablock.json');
+        let dto = new DatablockDTO(this);
+        saveAs(new Blob([jsonStringify(dto.c)], {type: 'application/json'}), 'competitions.json');
+        saveAs(new Blob([jsonStringify(dto.e)], {type: 'application/json'}), 'eventserieses.json');
+        saveAs(new Blob([jsonStringify(dto.h)], {type: 'application/json'}), 'horses.json');
+        saveAs(new Blob([jsonStringify(dto.p)], {type: 'application/json'}), 'photos.json');
+        saveAs(new Blob([jsonStringify(dto.r)], {type: 'application/json'}), 'riders.json');
+        saveAs(new Blob([jsonStringify(dto.s)], {type: 'application/json'}), 'scores.json');
     }
 }

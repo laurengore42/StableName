@@ -1,4 +1,4 @@
-import { Studbook, Colour, Legmarking, Sex } from '../enums';
+import { Studbook, Colour, Legmarking, Sex } from 'src/app/enums';
 import { Score } from './score';
 
 export class Height {
@@ -6,8 +6,16 @@ export class Height {
     public Inches: number;
 
     constructor(decimal: number) {
-        this.Hands = Math.floor(decimal);
-        this.Inches = Math.floor(10 * (decimal - Math.floor(decimal)));
+        if (decimal > 0) {
+            const wholeHands = Math.floor(decimal);
+            const partHands = decimal - wholeHands;
+
+            // this has to be rounded because of Javascript floating point handling
+            const displayPartHands = Math.round(10 * partHands);
+    
+            this.Hands = wholeHands;
+            this.Inches = displayPartHands;
+        }
     }
 }
 
@@ -40,9 +48,8 @@ export class HorseDTO {
     public b?: string; // studbook, per Studbook enum
     public z?: number; // deceased
     public a?: string; // notes
-    public p?: string; // photograph, as base64 JPG
 
-    constructor(regdName: string, fei: string, stableName: string, sex: string, height: number, foaled: number, colour: string, legs: string, studbook: string, deceased: number, notes: string, photo: string) {
+    constructor(regdName: string, fei: string, stableName: string, sex: string, height: number, foaled: number, colour: string, legs: string, studbook: string, deceased: number, notes: string) {
         this.n = regdName;
         this.f = fei;
         this.s = stableName;
@@ -54,7 +61,6 @@ export class HorseDTO {
         this.b = studbook;
         this.z = deceased;
         this.a = notes;
-        this.p = photo;
     }
 }
 
@@ -70,7 +76,6 @@ export class Horse {
     private _studbook?: string;
     private _deceased?: number;
     private _notes?: string;
-    private _photo?: string;
     private _dto: HorseDTO;
 
     public scores: Score[];
@@ -89,7 +94,6 @@ export class Horse {
         this._studbook = dto.b;
         this._deceased = dto.z;
         this._notes = dto.a;
-        this._photo = dto.p;
     }
 
     get Dto(): HorseDTO {
@@ -158,13 +162,6 @@ export class Horse {
         return this._notes;
     }
 
-    get Photo(): string {
-        if (!this._photo) {
-            return '';
-        }
-        return this._photo;
-    }
-
     get Nearfore(): string {
         return this._legs.nearfore ? this._legs.nearfore.toLocaleLowerCase() : 'none';
     }
@@ -183,15 +180,10 @@ export class Horse {
 
     static sortHorsesByRecent(horses: Horse[], riderScores: Score[]): Horse[] {
         return horses.sort((a, b) => {
-            const sortScoresByRecent = (x: Score, y: Score) => { if (x.Competition.Fei > y.Competition.Fei) { return -1; } else if (y.Competition.Fei > x.Competition.Fei) { return 1; } return 0; };
+            const sortScoresByRecent = (x: Score, y: Score) => y.Competition.Fei.localeCompare(x.Competition.Fei);
             const horseAMostRecentCompetitionYear = riderScores.filter(s => s.Horse.Fei === a.Fei).sort(sortScoresByRecent)[0].Competition.Fei.substring(0, 4);
             const horseBMostRecentCompetitionYear = riderScores.filter(s => s.Horse.Fei === b.Fei).sort(sortScoresByRecent)[0].Competition.Fei.substring(0, 4);
-            if (horseAMostRecentCompetitionYear > horseBMostRecentCompetitionYear) {
-                return -1;
-            } else if (horseBMostRecentCompetitionYear > horseAMostRecentCompetitionYear) {
-                return 1;
-            }
-            return 0;
+            return +horseBMostRecentCompetitionYear - +horseAMostRecentCompetitionYear;
         });
     }
 }
