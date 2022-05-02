@@ -47,7 +47,7 @@ export class RiderHorseComponent implements OnInit {
     window.open('https://data.fei.org/Horse/Performance.aspx?horsefeiid=' + this.horse.Fei);
     window.open('https://www.google.co.uk/search?btnG=Search+Images&tbm=isch&q=' + '"' + horseSearchableName + '"' + '+' + this.ridername);
     window.open('https://www.google.co.uk/search?q=' + '"' + horseSearchableName + '"' + '+' + this.ridername);
-    window.open('https://www.google.co.uk/search?q=' + this.ridername);
+    window.open('https://www.google.co.uk/search?q=' + this.ridername + '+' + 'eventing');
     window.open('https://www.google.co.uk/search?q=' + '"' + horseSearchableName + '"' + '+' + 'British+Eventing');
   }
 }
