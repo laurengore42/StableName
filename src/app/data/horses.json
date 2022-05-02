@@ -24,7 +24,7 @@
     "b": "TB",
     "p": null,
     "z": 2022,
-    "a": "OTTB, over hurdles in Ireland. Bites at slightest provocation, AKA 'Sharkface'. Cause of death: collapsed after winning Weston 2022, suspected heart attack."
+    "a": "OTTB, over hurdles in Ireland. Bites at slightest provocation, AKA 'Sharkface'.<br />Cause of death: collapsed after winning Weston 2022, suspected heart attack."
   },
   {
     "n": "Chilli Morning",
@@ -37,7 +37,7 @@
     "l": "CBSS",
     "b": "DSP",
     "z": 2020,
-    "a": "Legendary eventing sire. First ever stallion to win Badminton. Cause of death: sudden collapse in paddock.",
+    "a": "Legendary eventing sire. First ever stallion to win Badminton.<br />Cause of death: sudden collapse in paddock.",
     "p": null
   },
   {
@@ -516,7 +516,8 @@
     "d": 2004,
     "l": "BBCC",
     "b": "SF",
-    "p": null
+    "p": null,
+    "a": "Very hot. Has now done two Olympics."
   },
   {
     "n": "Biarritz",
@@ -1175,9 +1176,10 @@
     "x": "G",
     "h": 16.3,
     "d": 2007,
-    "l": "FFBF",
+    "l": "FSBF",
     "b": "ISH",
-    "p": null
+    "p": null,
+    "a": "When bought as a 5 year old, had been hunting for a couple of years in Ireland but never seen a coloured pole. Can still be spooky SJ. Digs in his stable, rolls on his tack."
   },
   {
     "n": "Stinger",
@@ -1527,13 +1529,15 @@
   {
     "n": "Soladoun",
     "f": "104BF55",
-    "s": "",
+    "s": "Alfie",
     "c": "G",
-    "x": "",
-    "h": 0,
-    "d": 0,
+    "x": "G",
+    "h": 16.2,
+    "d": 2007,
     "l": "",
-    "p": null
+    "p": null,
+    "b": "TB",
+    "a": "French Thoroughbred OTTB."
   },
   {
     "n": "Quantum Solace",
@@ -1793,7 +1797,7 @@
     "n": "Toledo de Kerser",
     "f": "104IR52",
     "s": "Toledo",
-    "c": "B",
+    "c": "BrB",
     "x": "G",
     "h": 16.1,
     "d": 2007,
@@ -2614,7 +2618,7 @@
     "h": 16.3,
     "d": 2009,
     "l": "BBBB",
-    "a": "Out of a Thoroughbred. William Fox-Pitt won Pau on his sire, the Selle Francais Oslo Biats. Owned by the Oratorio II syndicate. Started by Laura Collett but he was too big for her.",
+    "a": "Out of a Thoroughbred. William won Pau on his sire, the Selle Francais Oslo Biats. Owned by the Oratorio II syndicate. Started by Laura Collett but he was too big for her.",
     "p": null
   },
   {
@@ -2652,7 +2656,8 @@
     "d": 2009,
     "l": "SSSS",
     "b": "AES",
-    "p": null
+    "p": null,
+    "a": "An Alex Bragg ride before Cathal took the ride in 2020. Also showjumps, sire line is Galoubet A. 17.2 on his BE registration, occasionally 16.3 in other sources."
   },
   {
     "n": "Kaiser HDB 4175",
@@ -2749,9 +2754,9 @@
     "p": null
   },
   {
-    "n": "Horseware Stellor Rebound",
+    "n": "Stellor Rebound",
     "f": "102WY09",
-    "s": "",
+    "s": "Rocket",
     "c": "",
     "x": "",
     "h": 0,
@@ -8269,14 +8274,15 @@
   {
     "n": "Dynasty",
     "f": "104NF22",
-    "s": "",
-    "c": "",
-    "x": "",
-    "h": 0,
-    "d": 0,
-    "l": "",
+    "s": "Raffles",
+    "c": "G",
+    "x": "G",
+    "h": 16.3,
+    "d": 2008,
+    "l": "BBBB",
     "b": "KWPN",
-    "p": null
+    "p": null,
+    "a": "Successfully produced by William Fox-Pitt as a young horse, William bought him aged 6 and rode him until the fall in 2015. Hector thinks he may be over 17hh, and he can be rude and pushy on the ground."
   },
   {
     "n": "Papillon",
@@ -10251,14 +10257,15 @@
   {
     "n": "Just Kidding",
     "f": "103XL95",
-    "s": "",
-    "c": "",
-    "x": "",
-    "h": 0,
-    "d": 0,
-    "l": "",
+    "s": "Ferg",
+    "c": "B",
+    "x": "G",
+    "h": 15.3,
+    "d": 2006,
+    "l": "BBFF",
     "b": "TB",
-    "p": null
+    "p": null,
+    "a": "Australian Thoroughbred. Sold for $100,000 as a racing yearling, much cheaper when Amanda bought him as an OTTB aged 5. Named because of his mood swings in training: would suddenly plant."
   },
   {
     "n": "Class Action Lp",
@@ -11010,7 +11017,8 @@
     "d": 2007,
     "l": "BBCS",
     "b": "ISH",
-    "p": null
+    "p": null,
+    "a": "PFun because he's fun: reliable and not quirky to ride. Not naturally fast, had to be given a lot of gallop training."
   },
   {
     "n": "Tsunami",
@@ -12107,7 +12115,7 @@
     "d": 1997,
     "l": "BBBB",
     "z": 2014,
-    "a": "By the TRAK stallion Fleetwater Opposition out of a Thoroughbred. 'The ugliest foal you've ever seen' with an enormous head and mismatched front feet. Cause of death: seizure.",
+    "a": "By the TRAK stallion Fleetwater Opposition out of a Thoroughbred. 'The ugliest foal you've ever seen' with an enormous head and mismatched front feet.<br />Cause of death: seizure.",
     "p": null
   },
   {
@@ -13165,11 +13173,12 @@
     "c": "",
     "x": "",
     "h": 0,
-    "d": 0,
+    "d": 1998,
     "l": "",
-    "b": "ISH",
-    "z": 0,
-    "p": null
+    "b": "TB",
+    "z": 2014,
+    "p": null,
+    "a": "Elizabeth's first 5* horse and first OTTB.<br />Cause of death: pleuropneumonia."
   },
   {
     "n": "Kings Gem",
@@ -18447,16 +18456,18 @@
     "p": null
   },
   {
-    "n": "RSH Contend Or",
+    "n": "RSH Contend'Or",
     "f": "104YB92",
-    "s": "",
-    "c": "",
-    "x": "",
-    "h": 0,
-    "d": 0,
+    "s": "Mickey",
+    "c": "DkB",
+    "x": "G",
+    "h": 16.2,
+    "d": 2009,
     "l": "",
     "z": 0,
-    "p": null
+    "b": "OLDBG",
+    "p": null,
+    "a": "Sharp, can be spooky."
   },
   {
     "n": "DHI Babette K",
@@ -22894,103 +22905,111 @@
     "l": "SSSS",
     "z": 0,
     "b": "ISH",
-    "a": "'Micheal' is the registered spelling - does get misreported. DOB is New Year's Day. Leg markings are estimated, please correct after dressage."
+    "a": "'Micheal' is the registered spelling - does get misreported. Leg markings are estimated, please correct after dressage."
   },
   {
     "n": "Woodcourt Garrison",
     "f": "104TB94",
-    "s": "",
-    "c": "",
-    "x": "",
-    "h": 0,
-    "d": 0,
-    "l": "",
+    "s": "Tyson",
+    "c": "B",
+    "x": "G",
+    "h": 14.3,
+    "d": 2009,
+    "l": "BBBB",
     "z": 0,
-    "a": ""
+    "b": "ISH",
+    "a": "Tiny. Genuinely tiny. Went to the Olympics with Sarah Ennis in 2021."
   },
   {
-    "n": "Shadow Man",
+    "n": "Shadow Man II",
     "f": "105IR24",
-    "s": "",
-    "c": "",
-    "x": "",
-    "h": 0,
-    "d": 0,
-    "l": "",
+    "s": "Fidgy",
+    "c": "Ch",
+    "x": "G",
+    "h": 17.1,
+    "d": 2010,
+    "l": "BBBB",
     "z": 0,
-    "a": ""
+    "b": "BWP",
+    "a": "Bought unbroken at two and produced by Ben. Has a share-buying system for 500 fans to get premium blog posts and course walks, but no ownership."
   },
   {
     "n": "My Ernie",
     "f": "106XE47",
     "s": "",
-    "c": "",
-    "x": "",
-    "h": 0,
-    "d": 0,
-    "l": "",
+    "c": "Bl",
+    "x": "G",
+    "h": 15.3,
+    "d": 2009,
+    "l": "BBBB",
     "z": 0,
-    "a": ""
+    "b": "KWPN",
+    "a": "Previous name was Edento. Bought as a hunter, turned to eventing in 2019. 'A feral little beast who refuses to be caught.'"
   },
   {
     "n": "Carjatan S",
     "f": "105DV72",
     "s": "",
-    "c": "",
-    "x": "",
-    "h": 0,
-    "d": 0,
-    "l": "",
+    "c": "G",
+    "x": "G",
+    "h": 17.3,
+    "d": 2009,
+    "l": "BBBB",
     "z": 0,
-    "a": ""
+    "b": "HOLST",
+    "a": "Huge, if his Badminton card is right. That's all I've got."
   },
   {
     "n": "DHI Mighty Dwight",
     "f": "102XB42",
-    "s": "",
-    "c": "",
-    "x": "",
-    "h": 0,
-    "d": 0,
-    "l": "",
+    "s": "Dwight",
+    "c": "G",
+    "x": "G",
+    "h": 16.3,
+    "d": 2005,
+    "l": "BBBB",
     "z": 0,
-    "a": ""
+    "b": "KWPN",
+    "a": "Sofia's 'once in a lifetime horse', described as more like a Labrador in the stable."
   },
   {
     "n": "Charly Van Ter Heiden",
     "f": "105IG55",
-    "s": "",
+    "s": "Charly",
     "c": "Br",
-    "x": "",
-    "h": 0,
-    "d": 0,
+    "x": "G",
+    "h": 16.1,
+    "d": 2009,
     "l": "SFSS",
     "z": 0,
-    "a": ""
+    "b": "HANN",
+    "a": "Had never jumped when he was bought as a 5 year old in Germany. Difficult at first, Mollie fell off him a lot."
   },
   {
     "n": "Mama's Magic Way",
     "f": "105WF67",
-    "s": "",
-    "c": "",
-    "x": "",
-    "h": 0,
-    "d": 0,
+    "s": "Mason",
+    "c": "B",
+    "x": "G",
+    "h": 16.3,
+    "d": 2011,
     "l": "",
     "z": 0,
-    "a": ""
+    "b": "HANN",
+    "a": "Produced through 2018 by Andreas Dibowski. Still a bit green."
   },
   {
     "n": "Creevagh Silver De Haar",
     "f": "104KN35",
-    "s": "",
-    "c": "",
-    "x": "",
-    "h": 0,
-    "d": 0,
+    "s": "Hero",
+    "c": "G",
+    "x": "G",
+    "h": 16.1,
+    "d": 2008,
     "l": "",
     "z": 0,
-    "a": ""
+    "b": "ISH",
+    "a": "Similar breeding to Vanir Kamira - same sire, dams were full sisters. Rider-owned."
   },
   {
     "n": "Valmy Biats",

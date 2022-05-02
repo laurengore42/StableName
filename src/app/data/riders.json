@@ -272,7 +272,7 @@
     "g": "F",
     "b": 1982,
     "t": "GBR",
-    "a": "No relation."
+    "a": "No relation. Mother Jane also went to Badminton and Burghley. Married to Ben King, who rides National Hunt. First rider to represent Team GB at Pony, Junior, Young Rider and Senior Europeans."
   },
   {
     "n": "Elmo Jankari",
@@ -301,7 +301,7 @@
     "g": "F",
     "b": 1987,
     "t": "ITA",
-    "a": "Entitled to ride in Italian police uniform."
+    "a": "Entitled to ride in Italian police uniform. Moved to France in 2010 as it has better competing. Father was a high jumper (not puissance - track and field)."
   },
   {
     "n": "Camilla Kruger",
@@ -595,7 +595,8 @@
     "f": "10020180",
     "g": "M",
     "b": 1987,
-    "t": "GBR"
+    "t": "GBR",
+    "a": "Dad and brother are equine vets, mother hunted. Did work experience with Nicola Wilson, then worked for Oliver Townend for a bit. Based in Yorkshire."
   },
   {
     "n": "Nicola Wilson",
@@ -703,7 +704,8 @@
     "f": "10039872",
     "g": "M",
     "b": 1990,
-    "t": "GBR"
+    "t": "GBR",
+    "a": "Based near Cirencester. Eventing geek - says he can list every Badminton winner."
   },
   {
     "n": "Ben Hobday",
@@ -711,7 +713,7 @@
     "g": "M",
     "b": 1988,
     "t": "GBR",
-    "a": "Survived cancer in 2015. Rides cobs. Big deal on the Insta. #yehBoi"
+    "a": "Born in Lancashire. Sells sport horses under the Shadow prefix. Was 'the cob guy' until Mulrys Error retired in 2018. Big deal on the Insta. #yehBoi Survived cancer in 2015."
   },
   {
     "n": "Roo Fox",
@@ -867,7 +869,8 @@
     "a": "Burghley first-time blogger for H&H in 2019. Gave up the day job as a quantity surveyor to start her eventing yard after her mother died in 2014. Her father James evented. Also snowboards."
   },
   {
-    "n": "Elizabeth Power",
+    "n": "Esib Power",
+    "m": "Elizabeth Power",
     "f": "10004059",
     "g": "F",
     "b": 1985,
@@ -1276,7 +1279,8 @@
     "f": "10005414",
     "g": "F",
     "b": 1975,
-    "t": "IRL"
+    "t": "IRL",
+    "a": "Was pure dressage until she was 18. Also a qualified dive master. Has a tiny dog called Timmy."
   },
   {
     "n": "Cathal Daniels",
@@ -1521,7 +1525,7 @@
     "g": "F",
     "b": 1989,
     "t": "GBR",
-    "a": "Runs the Opposition stud near Salisbury, founded with the TRAK stallion Fleetwater Opposition by father John Johnston. Mum Debbie rode GP dressage. Married to fellow competitor Arthur Chabert (FRA)."
+    "a": "Runs the Opposition stud near Salisbury, founded with the Trakehner stallion Fleetwater Opposition by father John Johnston. Mum Debbie rode GP dressage. Married to fellow competitor Arthur Chabert (FRA)."
   },
   {
     "n": "Hanne Wind Ramsgaard",
@@ -3679,7 +3683,8 @@
     "f": "10043953",
     "g": "M",
     "b": 1992,
-    "t": "GBR"
+    "t": "GBR",
+    "a": "Has three brothers who all also ride. Close ties to William Fox-Pitt, Hector's father owned one of William's Burghley winners and Hector rode some of William's horses after the 2015 fall. Broke a femur in a fall in early 2021."
   },
   {
     "n": "Polly Jackson-Griffin",
@@ -4364,11 +4369,12 @@
   },
   {
     "n": "Amanda Pottinger",
+    "m": "Muzi",
     "f": "10032362",
     "g": "F",
     "b": 1992,
     "t": "NZL",
-    "a": "Mother is Olympic eventer Tinks Pottinger."
+    "a": "BSc in agriculture science, works (worked?) as a business analyst at a dairy farming business with 8000 cows. Currently based near Cheltenham. Mother is Olympic eventer Tinks Pottinger née White, grandmother is national dressage champion Tiny White née Groome."
   },
   {
     "n": "Hayley Frielick",
@@ -4707,7 +4713,7 @@
     "g": "M",
     "b": 1981,
     "t": "USA",
-    "a": "Broke his neck falling from Hans Dampf at Five Points September 2015. Got a skull and crossbones tattoo for his comeback. Likes Captain Hook."
+    "a": "Grew up on a cattle ranch in west Texas, now based in North Carolina. Was a student under Philip Dutton. TBI and months of rehab in 1999, lightning burned his house down in 2004, broke his neck falling from Hans Dampf at Five Points in 2015. Got a skull and crossbones tattoo for his comeback. Likes Captain Hook."
   },
   {
     "n": "Sally Cousins",
@@ -6819,7 +6825,8 @@
     "f": "10099960",
     "g": "F",
     "b": 1998,
-    "t": "GBR"
+    "t": "GBR",
+    "a": "Based in East Sussex. Mum Vicky also rode at Badminton. Uses the South Downs as her gallops."
   },
   {
     "n": "Susie Berry",
@@ -7394,11 +7401,12 @@
   },
   {
     "n": "Fiona Kashel",
-    "m": "",
+    "m": "Fiona Breach",
     "f": "10004136",
     "g": "F",
     "b": 1983,
-    "t": "GBR"
+    "t": "GBR",
+    "a": "Manages a livery in Surrey."
   },
   {
     "n": "Ian Wills",
@@ -7961,12 +7969,12 @@
   },
   {
     "n": "Helen Wilson",
-    "m": "",
+    "m": "Helen Witchell",
     "f": "10004321",
     "g": "F",
     "b": 1980,
     "t": "GBR",
-    "a": ""
+    "a": "Works at the Billy stud. Mother and sister also event. Website is full of template text and JPEG artifacts."
   },
   {
     "n": "Christoph Wahler",
@@ -7975,7 +7983,7 @@
     "g": "M",
     "b": 1994,
     "t": "GER",
-    "a": ""
+    "a": "Studied Agriculture. The Wahler line runs a Trakehner stud."
   },
   {
     "n": "Sofia Sjoborg",
@@ -7984,7 +7992,7 @@
     "g": "F",
     "b": 1998,
     "t": "SWE",
-    "a": ""
+    "a": "A pupil of Michi Jung. Lives in Germany, competes for Sweden through heritage."
   },
   {
     "n": "Mollie Summerland",
@@ -7993,7 +8001,7 @@
     "g": "F",
     "b": 1998,
     "t": "GBR",
-    "a": ""
+    "a": "Based near Swindon. Riding school kid, been BE since she was 12. Trains with Carl Hester and likes watching dressage - not mad keen on showjumping, and very tempted by dark horses with white feet. Lost her stabling in 2020 and lived in her lorry for a couple of months. Owns three chihuahuas."
   },
   {
     "n": "Alice Casburn",
