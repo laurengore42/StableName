@@ -6,6 +6,12 @@
     "m": 2
   },
   {
+    "i": "4LKr",
+    "n": "Kronenberg",
+    "l": "NED",
+    "m": 2
+  },
+  {
     "i": "4LMn",
     "n": "Montelibretti",
     "l": "ITA",
@@ -18,10 +24,28 @@
     "m": 3
   },
   {
+    "i": "4LVa",
+    "n": "Vairano",
+    "l": "ITA",
+    "m": 3
+  },
+  {
+    "i": "4LSy",
+    "n": "Sydney",
+    "l": "AUS",
+    "m": 3
+  },
+  {
     "i": "5LK",
     "n": "Kentucky",
     "l": "USA",
     "m": 3
+  },
+  {
+    "i": "4LTp",
+    "n": "Taupo",
+    "l": "NZL",
+    "m": 4
   },
   {
     "i": "4LAl",
@@ -60,6 +84,12 @@
     "m": 5
   },
   {
+    "i": "4LMb",
+    "n": "Melbourne",
+    "l": "AUS",
+    "m": 5
+  },
+  {
     "i": "5LLh",
     "n": "Luhmühlen",
     "l": "GER",
@@ -72,16 +102,27 @@
     "m": 5
   },
   {
+    "i": "4LBr",
+    "n": "Bromont",
+    "l": "CAN",
+    "m": 5
+  },
+  {
     "i": "4LC",
     "n": "Camphire",
     "l": "IRE",
     "m": 6
   },
   {
-    "i": "4LCq",
-    "n": "Cappoquin",
-    "l": "IRE",
+    "i": "O",
+    "n": "Olympics",
     "m": 6
+  },
+  {
+    "i": "4LPi",
+    "n": "Le Pin au Haras",
+    "l": "FRA",
+    "m": 7
   },
   {
     "i": "4LBl",
@@ -93,6 +134,17 @@
     "i": "4LM",
     "n": "Millstreet",
     "l": "IRE",
+    "m": 7
+  },
+  {
+    "i": "4LSp",
+    "n": "Sopot",
+    "l": "POL",
+    "m": 7
+  },
+  {
+    "i": "WEGC",
+    "n": "World Equestrian Games",
     "m": 7
   },
   {
@@ -121,7 +173,7 @@
   },
   {
     "i": "4LBnm",
-    "n": "Burnham Market (2)",
+    "n": "Burnham Market (3)",
     "l": "Norfolk",
     "m": 8
   },
@@ -132,9 +184,14 @@
     "m": 8
   },
   {
-    "i": "4LBo",
-    "n": "Boekelo",
-    "l": "NED",
+    "i": "CHEU",
+    "n": "European Championships",
+    "m": 8
+  },
+  {
+    "i": "4LGo",
+    "n": "Goulburn",
+    "l": "AUS",
     "m": 9
   },
   {
@@ -174,11 +231,27 @@
     "m": 10
   },
   {
-    "i": "O",
-    "n": "Olympics"
+    "i": "4LPr",
+    "n": "Pratoni",
+    "l": "ITA",
+    "m": 10
   },
   {
-    "i": "W",
-    "n": "World Equestrian Games"
+    "i": "4LRv",
+    "n": "Ravenna",
+    "l": "ITA",
+    "m": 10
+  },
+  {
+    "i": "4LOc",
+    "n": "Ocala-Reddick",
+    "l": "USA",
+    "m": 10
+  },
+  {
+    "i": "4LPh",
+    "n": "Puhinui",
+    "l": "NZL",
+    "m": 11
   }
 ]
