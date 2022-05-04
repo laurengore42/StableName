@@ -1301,7 +1301,7 @@
     "l": "BBBB",
     "b": "AA",
     "p": null,
-    "a": "French-bred. Has Fleetwater Opposition on his sire line somewhere."
+    "a": "French-bred. Has Fleetwater Opposition on his sire line somewhere, and a matching star."
   },
   {
     "n": "D.A. Duras",
@@ -1456,7 +1456,7 @@
     "l": "BBCC",
     "b": "ISH",
     "p": null,
-    "a": "An Andrew Nicholson ride towards the end of Nicholson's 5* career. Oliver says he's beautifully produced. Andrew: 'You can be coming to a difficult fence and his mind is off getting an ice-cream', but he's improving."
+    "a": "An Andrew Nicholson ride towards the end of Nicholson's 5* career. Oliver says he's beautifully produced. Andrew: 'You can be coming to a difficult fence and his mind is off getting an ice-cream', but he's improving. Sire's name was Chillout."
   },
   {
     "n": "Frog Rock",
@@ -1749,7 +1749,7 @@
   {
     "n": "Allstar B",
     "f": "103JE62",
-    "s": "Alby",
+    "s": "Albie",
     "c": "Br",
     "x": "G",
     "h": 17.1,
@@ -2129,7 +2129,7 @@
   {
     "n": "Billy Walk On",
     "f": "104UE29",
-    "s": "",
+    "s": "Feale",
     "c": "B",
     "x": "G",
     "h": 16.3,
@@ -2503,7 +2503,7 @@
     "l": "BBBF",
     "b": "DSP",
     "p": null,
-    "a": "Galoubet A sire line. Damsire is Stan the Man."
+    "a": "Galoubet A sire line. Damsire is Stan the Man. 'Desperately spooky', but 'not malicious - he was just born bright'. Tina won't let anyone else ride him 'in case anything happens'. To them, not to him..."
   },
   {
     "n": "Qwanza",
@@ -2623,7 +2623,7 @@
     "h": 16.3,
     "d": 2009,
     "l": "BBBB",
-    "a": "Out of a Thoroughbred. William won Pau on his sire, the Selle Francais Oslo Biats. Owned by the Oratorio II syndicate. Started by Laura Collett but he was too big for her.",
+    "a": "Out of a Thoroughbred. William won Pau on his sire, the Selle Francais Oslo Biats. Owned by the Oratorio II syndicate. Started by Laura Collett because his dam was 15.2 and William thought he might end up small. William: 'A double handful - sometimes the 'whoa' can take 25 strides'.",
     "p": null
   },
   {
@@ -18394,7 +18394,7 @@
   {
     "n": "Colorado Blue",
     "f": "104YC94",
-    "s": "",
+    "s": "Salty",
     "c": "G",
     "x": "G",
     "h": 16.3,
@@ -22835,7 +22835,7 @@
     "l": "BBBC",
     "z": 0,
     "b": "HOLST",
-    "a": "Nicola's European champion. JL prefix stands for his owners' names as BE already registered a Dublin. Can get overexcited and noisy in the warmup."
+    "a": "JL prefix stands for his owners' names as BE already registered a Dublin. Can get overexcited and noisy in the warmup."
   },
   {
     "n": "Carden Earl Grey",
@@ -22917,7 +22917,7 @@
   {
     "n": "EG Michealangelo",
     "f": "105TZ95",
-    "s": "",
+    "s": "Jack",
     "c": "B",
     "x": "G",
     "h": 0,
@@ -22938,7 +22938,7 @@
     "l": "BBBB",
     "z": 0,
     "b": "ISH",
-    "a": "Tiny. Genuinely tiny."
+    "a": "'Pocket rocket'. His registration and several other sources say 14.3, but Tilly Berendt seems to have misread it as 15.3 and says Mouse is smaller than him. Who knows?"
   },
   {
     "n": "Shadow Man II",
@@ -23019,7 +23019,7 @@
     "a": "Produced through 2018 by Andreas Dibowski. Still a bit green."
   },
   {
-    "n": "Creevagh Silver De Haar",
+    "n": "Creevagh Silver de Haar",
     "f": "104KN35",
     "s": "Hero",
     "c": "G",
@@ -23145,7 +23145,7 @@
     "l": "BBBB",
     "z": 0,
     "b": "ISH",
-    "a": "Bought in Ireland as a four year old. 'A pretty laid-back dude' - 'was the laziest horse I've ever ridden' when first bought. Now based in Florida, so wakes up a bit anywhere colder. Loves cheering crowds, goes nuts on victory laps."
+    "a": "Bought in Ireland as a four year old. 'A pretty laid-back dude' - 'was the laziest horse I've ever ridden' when first bought. Now based in Florida, so wakes up a bit anywhere colder. Loves cheering crowds, goes nuts on victory laps. Sire's name was Chacoa."
   },
   {
     "n": "True Blue Too II",
@@ -23222,7 +23222,8 @@
     "d": 2012,
     "l": "BBBB",
     "z": 0,
-    "b": "ZANG"
+    "b": "ZANG",
+    "a": "Tilly: 'None of us outside of France know who this horse is.'"
   },
   {
     "n": "Creator GS",
@@ -23370,7 +23371,7 @@
   {
     "n": "HHS Noble Call",
     "f": "106BK08",
-    "s": "",
+    "s": "Ben",
     "c": "G",
     "x": "G",
     "h": 18,
@@ -39438,6 +39439,438 @@
     "d": 0,
     "l": "",
     "b": "ISH",
+    "z": 0,
+    "a": ""
+  },
+  {
+    "n": "House Of Tudor",
+    "f": "103LX36",
+    "s": "",
+    "c": "",
+    "x": "",
+    "h": 0,
+    "d": 0,
+    "l": "",
+    "z": 0,
+    "a": ""
+  },
+  {
+    "n": "Cosmic Order",
+    "f": "104DO02",
+    "s": "",
+    "c": "",
+    "x": "",
+    "h": 0,
+    "d": 0,
+    "l": "",
+    "b": "HOLST",
+    "z": 0,
+    "a": ""
+  },
+  {
+    "n": "Skyhills Cavalier",
+    "f": "103PY10",
+    "s": "",
+    "c": "",
+    "x": "",
+    "h": 0,
+    "d": 0,
+    "l": "",
+    "b": "ISH",
+    "z": 0,
+    "a": ""
+  },
+  {
+    "n": "Bandit King",
+    "f": "102VR07",
+    "s": "",
+    "c": "",
+    "x": "",
+    "h": 0,
+    "d": 0,
+    "l": "",
+    "b": "ISH",
+    "z": 0,
+    "a": ""
+  },
+  {
+    "n": "Asilomar Independence",
+    "f": "IRL40629",
+    "s": "",
+    "c": "",
+    "x": "",
+    "h": 0,
+    "d": 0,
+    "l": "",
+    "b": "ISH",
+    "z": 0,
+    "a": ""
+  },
+  {
+    "n": "Wiverna",
+    "f": "103MK95",
+    "s": "",
+    "c": "",
+    "x": "",
+    "h": 0,
+    "d": 0,
+    "l": "",
+    "b": "KWPN",
+    "z": 0,
+    "a": ""
+  },
+  {
+    "n": "Zoe",
+    "f": "103BD60",
+    "s": "",
+    "c": "",
+    "x": "",
+    "h": 0,
+    "d": 0,
+    "l": "",
+    "b": "KWPN",
+    "z": 0,
+    "a": ""
+  },
+  {
+    "n": "Boleybawn Fernhill",
+    "f": "103OG75",
+    "s": "",
+    "c": "",
+    "x": "",
+    "h": 0,
+    "d": 0,
+    "l": "",
+    "b": "ISH",
+    "z": 0,
+    "a": ""
+  },
+  {
+    "n": "Clover Curtis",
+    "f": "GBR12552",
+    "s": "",
+    "c": "",
+    "x": "",
+    "h": 0,
+    "d": 0,
+    "l": "",
+    "b": "ISH",
+    "z": 0,
+    "a": ""
+  },
+  {
+    "n": "Woodside Alcatraz",
+    "f": "GBR14028",
+    "s": "",
+    "c": "",
+    "x": "",
+    "h": 0,
+    "d": 0,
+    "l": "",
+    "b": "ISH",
+    "z": 0,
+    "a": ""
+  },
+  {
+    "n": "Mr. Mac 4",
+    "f": "GER19043",
+    "s": "",
+    "c": "",
+    "x": "",
+    "h": 0,
+    "d": 0,
+    "l": "",
+    "z": 0,
+    "a": ""
+  },
+  {
+    "n": "Ballyscartan Hero",
+    "f": "GER21892",
+    "s": "",
+    "c": "",
+    "x": "",
+    "h": 0,
+    "d": 0,
+    "l": "",
+    "z": 0,
+    "a": ""
+  },
+  {
+    "n": "Park Pageboy",
+    "f": "GBR09692",
+    "s": "",
+    "c": "",
+    "x": "",
+    "h": 0,
+    "d": 0,
+    "l": "",
+    "b": "ISH",
+    "z": 0,
+    "a": ""
+  },
+  {
+    "n": "Autumn Sunrise",
+    "f": "GBR11270",
+    "s": "",
+    "c": "",
+    "x": "",
+    "h": 0,
+    "d": 0,
+    "l": "",
+    "b": "ISH",
+    "z": 0,
+    "a": ""
+  },
+  {
+    "n": "Derby De Longueval",
+    "f": "FRA06365",
+    "s": "",
+    "c": "",
+    "x": "",
+    "h": 0,
+    "d": 0,
+    "l": "",
+    "b": "SF",
+    "z": 0,
+    "a": ""
+  },
+  {
+    "n": "Heide-prinz",
+    "f": "GER24194",
+    "s": "",
+    "c": "",
+    "x": "",
+    "h": 0,
+    "d": 0,
+    "l": "",
+    "b": "TRAK",
+    "z": 0,
+    "a": ""
+  },
+  {
+    "n": "Bingo Bongo",
+    "f": "AUT05494",
+    "s": "",
+    "c": "",
+    "x": "",
+    "h": 0,
+    "d": 0,
+    "l": "",
+    "z": 0,
+    "a": ""
+  },
+  {
+    "n": "Ready To Travel",
+    "f": "SUI06982",
+    "s": "",
+    "c": "",
+    "x": "",
+    "h": 0,
+    "d": 0,
+    "l": "",
+    "b": "ISH",
+    "z": 0,
+    "a": ""
+  },
+  {
+    "n": "Sportsfield Sandyman",
+    "f": "IRL03115",
+    "s": "",
+    "c": "",
+    "x": "",
+    "h": 0,
+    "d": 0,
+    "l": "",
+    "b": "ISH",
+    "z": 0,
+    "a": ""
+  },
+  {
+    "n": "Golden Hue",
+    "f": "GBR40116",
+    "s": "",
+    "c": "",
+    "x": "",
+    "h": 0,
+    "d": 0,
+    "l": "",
+    "b": "ISH",
+    "z": 0,
+    "a": ""
+  },
+  {
+    "n": "Flambeau H 3",
+    "f": "GER20462",
+    "s": "",
+    "c": "",
+    "x": "",
+    "h": 0,
+    "d": 0,
+    "l": "",
+    "b": "WESTF",
+    "z": 0,
+    "a": ""
+  },
+  {
+    "n": "Jackson D'allez",
+    "f": "FRA12036",
+    "s": "",
+    "c": "",
+    "x": "",
+    "h": 0,
+    "d": 0,
+    "l": "",
+    "b": "AA",
+    "z": 0,
+    "a": ""
+  },
+  {
+    "n": "Grand Joca",
+    "f": "AUS01485",
+    "s": "",
+    "c": "",
+    "x": "",
+    "h": 0,
+    "d": 0,
+    "l": "",
+    "z": 0,
+    "a": ""
+  },
+  {
+    "n": "Sinjang 2",
+    "f": "GER22041",
+    "s": "",
+    "c": "",
+    "x": "",
+    "h": 0,
+    "d": 0,
+    "l": "",
+    "b": "HOLST",
+    "z": 0,
+    "a": ""
+  },
+  {
+    "n": "Marsh Mayfly",
+    "f": "GBR13437",
+    "s": "",
+    "c": "",
+    "x": "",
+    "h": 0,
+    "d": 0,
+    "l": "",
+    "b": "SHBGB",
+    "z": 0,
+    "a": ""
+  },
+  {
+    "n": "Sir Roselier",
+    "f": "GBR08715",
+    "s": "",
+    "c": "",
+    "x": "",
+    "h": 0,
+    "d": 0,
+    "l": "",
+    "b": "ISH",
+    "z": 0,
+    "a": ""
+  },
+  {
+    "n": "Young Man",
+    "f": "IRL02699",
+    "s": "",
+    "c": "",
+    "x": "",
+    "h": 0,
+    "d": 0,
+    "l": "",
+    "b": "ISH",
+    "z": 0,
+    "a": ""
+  },
+  {
+    "n": "Classic Diamond Charm",
+    "f": "GBR14405",
+    "s": "",
+    "c": "",
+    "x": "",
+    "h": 0,
+    "d": 0,
+    "l": "",
+    "b": "SHBGB",
+    "z": 0,
+    "a": ""
+  },
+  {
+    "n": "The Cointreau Challenge",
+    "f": "GBR11202",
+    "s": "",
+    "c": "",
+    "x": "",
+    "h": 0,
+    "d": 0,
+    "l": "",
+    "b": "ISH",
+    "z": 0,
+    "a": ""
+  },
+  {
+    "n": "Bean Admired",
+    "f": "GBR11027",
+    "s": "",
+    "c": "",
+    "x": "",
+    "h": 0,
+    "d": 0,
+    "l": "",
+    "z": 0,
+    "a": ""
+  },
+  {
+    "n": "HORSENAME 2",
+    "f": "105RK10",
+    "s": "",
+    "c": "",
+    "x": "",
+    "h": 0,
+    "d": 0,
+    "l": "",
+    "z": 0,
+    "a": ""
+  },
+  {
+    "n": "HORSENAME 3",
+    "f": "105DE15",
+    "s": "",
+    "c": "",
+    "x": "",
+    "h": 0,
+    "d": 0,
+    "l": "",
+    "z": 0,
+    "a": ""
+  },
+  {
+    "n": "HORSENAME 4",
+    "f": "105GS14",
+    "s": "",
+    "c": "",
+    "x": "",
+    "h": 0,
+    "d": 0,
+    "l": "",
+    "z": 0,
+    "a": ""
+  },
+  {
+    "n": "HORSENAME 5",
+    "f": "103VF67",
+    "s": "",
+    "c": "",
+    "x": "",
+    "h": 0,
+    "d": 0,
+    "l": "",
     "z": 0,
     "a": ""
   }

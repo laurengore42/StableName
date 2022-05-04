@@ -79,7 +79,7 @@
   },
   {
     "i": "4LSz",
-    "n": "Strzegom",
+    "n": "Strzegom (1)",
     "l": "POL",
     "m": 5
   },
@@ -98,6 +98,12 @@
   {
     "i": "4LBcn",
     "n": "Bicton",
+    "l": "Devon",
+    "m": 5
+  },
+  {
+    "i": "4LBcnn",
+    "n": "Bicton for Bramham",
     "l": "Devon",
     "m": 5
   },
@@ -166,14 +172,8 @@
     "m": 8
   },
   {
-    "i": "4LAv",
-    "n": "Avenches",
-    "l": "SUI",
-    "m": 8
-  },
-  {
     "i": "4LBnm",
-    "n": "Burnham Market (3)",
+    "n": "Burnham Market for Blenheim",
     "l": "Norfolk",
     "m": 8
   },
@@ -187,6 +187,12 @@
     "i": "CHEU",
     "n": "European Championships",
     "m": 8
+  },
+  {
+    "i": "4LSzg",
+    "n": "Strzegom (2)",
+    "l": "POL",
+    "m": 9
   },
   {
     "i": "4LGo",
@@ -247,6 +253,12 @@
     "n": "Ocala-Reddick",
     "l": "USA",
     "m": 10
+  },
+  {
+    "i": "4LBca",
+    "n": "Barroca Additional",
+    "l": "POR",
+    "m": 11
   },
   {
     "i": "4LPh",

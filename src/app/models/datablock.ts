@@ -73,9 +73,14 @@ export class Datablock {
 
         this.riders.forEach(r => {
             r.horses = [];
-            r.scores.filter(s => s.Rider.Fei === r.Fei).map(s => s.Horse.Fei).forEach(f => {
-              if (!r.horses.some(h => h.Fei === f)) {
+            var previousFeiAdd = "";
+            r.scores.filter(s => s.Rider.Fei === r.Fei).map(s => s.Horse?.Fei).forEach(f => {
+                if (r.horses.some(h => h === undefined)) {
+                    console.log('Error: horse undefined at ' + previousFeiAdd);
+                }
+              if (!r.horses.some(h => h !== undefined && h.Fei === f)) {
                 r.horses.push(this.horses.find(h => h.Fei === f));
+                previousFeiAdd = f;
               }
             });
             r.horses.sort((a, b) => { if (a.Name.toLocaleLowerCase() > b.Name.toLocaleLowerCase()) { return 1; } if (a.Name.toLocaleLowerCase() < b.Name.toLocaleLowerCase()) { return -1; } return 0; });
