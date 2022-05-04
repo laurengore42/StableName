@@ -130,7 +130,7 @@
     "g": "M",
     "b": 1969,
     "t": "GBR",
-    "a": "Full name is William Speed Lane Fox-Pitt. Went to Eton, and the 'Pitt' is the same line as the former PM. Usually the tallest in the field at 6'5\". Suffered head trauma falling from Reinstated at Le Lion d'Angers October 2015, two weeks in ICU."
+    "a": "Full name is William Speed Lane Fox-Pitt. Went to Eton, and the 'Pitt' is the same line as the former PM. Usually the tallest in the field at 6'5\". Also breeds chickens. Suffered head trauma falling from Reinstated at Le Lion d'Angers October 2015, two weeks in ICU."
   },
   {
     "n": "Thibaut Vallette",
@@ -1153,7 +1153,7 @@
     "g": "M",
     "b": 1993,
     "t": "GBR",
-    "a": "Trained by Pippa Funnell. Dad is a farrier and does his horse's shoes. Trying to cut down on superstition, but throws new purchases on the floor so they've fallen once. Broke his leg falling from Newmarket Prospect at Hartpury August 2019. "
+    "a": "Trained by Pippa Funnell. Dad is a farrier and does his horse's shoes. Trying to cut down on superstition, but throws new purchases on the floor so they've fallen once. Literal party trick: can juggle. Broke his leg falling from Newmarket Prospect at Hartpury August 2019. "
   },
   {
     "n": "Harry Dzenis",
@@ -1574,7 +1574,7 @@
     "g": "M",
     "b": 1963,
     "t": "AUS",
-    "a": "Based in the UK since 1994. Writes a blog at BillLevett.com, with loads of photos of the horses and reports on events. Good singing voice, has done panto. Used to drive cattle in Australia."
+    "a": "Based in the UK since 1994. Also works for the Monart Sales. Writes a blog at BillLevett.com, with loads of photos of the horses and reports on events. Good singing voice, has done panto. Used to drive cattle in Australia."
   },
   {
     "n": "Vittoria Panizzon",
@@ -4390,7 +4390,7 @@
     "g": "F",
     "b": 1992,
     "t": "NZL",
-    "a": "BSc in agriculture science, works (worked?) as a business analyst at a dairy farming business with 8000 cows. Currently based near Cheltenham. Mother is Olympic eventer Tinks Pottinger née White, grandmother is national dressage champion Tiny White née Groome."
+    "a": "BSc in agriculture science, works as a business analyst at a dairy farming business with 8000 cows. Currently on sabbatical and based near Cheltenham. Mother is Olympic eventer Tinks Pottinger née White, grandmother is national dressage champion Tiny White née Groome."
   },
   {
     "n": "Hayley Frielick",
@@ -12640,6 +12640,96 @@
     "g": "",
     "b": 0,
     "t": "USA",
+    "a": ""
+  },
+  {
+    "n": "Fraser Duffy",
+    "m": "",
+    "f": "10004171",
+    "g": "",
+    "b": 0,
+    "t": "IRL",
+    "a": ""
+  },
+  {
+    "n": "Janet Wiesner",
+    "m": "",
+    "f": "10004429",
+    "g": "",
+    "b": 0,
+    "t": "GER",
+    "a": ""
+  },
+  {
+    "n": "Johanna Wasmuth",
+    "m": "",
+    "f": "10009659",
+    "g": "",
+    "b": 0,
+    "t": "GER",
+    "a": ""
+  },
+  {
+    "n": "Christoph Heiden",
+    "m": "",
+    "f": "10012533",
+    "g": "",
+    "b": 0,
+    "t": "AUT",
+    "a": ""
+  },
+  {
+    "n": "Paolo Valentini",
+    "m": "",
+    "f": "10016134",
+    "g": "",
+    "b": 0,
+    "t": "ITA",
+    "a": ""
+  },
+  {
+    "n": "Mirella Vrolijk",
+    "m": "",
+    "f": "10008021",
+    "g": "",
+    "b": 0,
+    "t": "NED",
+    "a": ""
+  },
+  {
+    "n": "Tobias Bachler",
+    "m": "",
+    "f": "10002946",
+    "g": "",
+    "b": 0,
+    "t": "AUT",
+    "a": ""
+  },
+  {
+    "n": "Jacopo Buss",
+    "m": "",
+    "f": "10008881",
+    "g": "",
+    "b": 0,
+    "t": "SUI",
+    "a": ""
+  },
+  {
+    "n": "George Russell",
+    "m": "",
+    "f": "10004212",
+    "g": "",
+    "b": 0,
+    "t": "IRL",
+    "a": ""
+  },
+  {
+    "n": "Charlotte Tyson",
+    "m": "",
+    "f": "10009448",
+    "g": "",
+    "b": 0,
+    "t": "GBR",
     "a": ""
   }
 ]
