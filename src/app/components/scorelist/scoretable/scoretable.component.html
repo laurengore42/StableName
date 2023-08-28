@@ -13,16 +13,16 @@
                     <td class="score-left">{{ score.substring(0,score.indexOf(':')).replace(' ', '&nbsp;') }}</td>
                     <td *ngIf="score.substring(score.indexOf(':') + 1,score.length).indexOf(':') === -1" colspan=4>
                         {{ score.substring(score.indexOf(':') + 1,score.length).replace(' ', '&nbsp;') }}</td>
-                    <td class="score-part"
+                    <td class="score-part score-part-position"
                         *ngIf="score.substring(score.indexOf(':') + 1,score.length).indexOf(':') > -1">
                         {{ score.substring(score.indexOf(':') + 1,score.length).split(':')[0] }}</td>
-                    <td class="score-part"
+                    <td class="score-part score-part-dr"
                         *ngIf="score.substring(score.indexOf(':') + 1,score.length).indexOf(':') > -1">
                         {{ score.substring(score.indexOf(':') + 1,score.length).split(':')[1].split('|')[0] }}</td>
-                    <td class="score-part"
+                    <td class="score-part score-part-xc"
                         *ngIf="score.substring(score.indexOf(':') + 1,score.length).indexOf(':') > -1">
                         {{ score.substring(score.indexOf(':') + 1,score.length).split(':')[1].split('|')[1] }}</td>
-                    <td class="score-part"
+                    <td class="score-part score-part-sj"
                         *ngIf="score.substring(score.indexOf(':') + 1,score.length).indexOf(':') > -1">
                         {{ score.substring(score.indexOf(':') + 1,score.length).split(':')[1].split('|')[2] }}</td>
                 </tr>
