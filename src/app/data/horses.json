@@ -1757,7 +1757,8 @@
     "l": "CBFF",
     "b": "KWPN",
     "p": null,
-    "a": "Ros's World Champion and king of the yard. Loves big events, a good boy who wouldn't hurt a fly. By a Selle Francais showjumper, the Galoubet A line."
+    "z": 2022,
+    "a": "Ros's World Champion and king of the yard. Loved big events, a good boy who wouldn't hurt a fly. By a Selle Francais showjumper, the Galoubet A line. Put down after an injury incurred in a cross-country run-out at Aachen."
   },
   {
     "n": "Cillnabradden Evo",
@@ -23406,7 +23407,7 @@
     "l": "BBBB",
     "z": 0,
     "b": "SHBGB",
-    "a": "Started and produced by Ros Canter, ridden by Tom McEwen while Ros was pregnant. 'A weird personality' - can gallop off round the lorry park, jump out of stables, so on."
+    "a": "Started and produced by Ros Canter, ridden by Tom McEwen while Ros was pregnant. 'A weird personality' - can gallop off round the lorry park, jump out of stables, so on. Nibbles people. Pencos Crown Jewel's 'annoying little brother'."
   },
   {
     "n": "Galileo Nieuwmoed",
@@ -24844,14 +24845,14 @@
   {
     "n": "Skip Mill",
     "f": "104NB74",
-    "s": "",
-    "c": "",
-    "x": "",
-    "h": 0,
-    "d": 0,
-    "l": "",
+    "s": "Millen",
+    "c": "B",
+    "x": "G",
+    "h": 17.2,
+    "d": 2008,
+    "l": "BFSS",
     "z": 0,
-    "a": ""
+    "a": "By an Irish Draught, out of a Mill Law mare. Mill Law sired Bradeley Law - lot of white feet in that line."
   },
   {
     "n": "By My Side 2",
@@ -25241,15 +25242,15 @@
   {
     "n": "Quindiva",
     "f": "106DX74",
-    "s": "",
-    "c": "",
-    "x": "",
-    "h": 0,
-    "d": 0,
+    "s": "Diva",
+    "c": "B",
+    "x": "M",
+    "h": 16.2,
+    "d": 2010,
     "l": "",
     "b": "OLDBG",
     "z": 0,
-    "a": ""
+    "a": "Irish bred by Quintender. Eventing since 2017 after a bit of showjumping - well named, selective about who she likes. Confirm leg markings after dressage."
   },
   {
     "n": "Sportsfield Top Notch",
@@ -25647,13 +25648,13 @@
     "n": "Cooley For Sure",
     "f": "105HW05",
     "s": "",
-    "c": "",
-    "x": "",
-    "h": 0,
-    "d": 0,
-    "l": "",
+    "c": "BrB",
+    "x": "G",
+    "h": 16.1,
+    "d": 2007,
+    "l": "BBBB",
     "z": 0,
-    "a": ""
+    "a": "Would just eat carrots if you let him - they grate them into his feed. Can get worked up, excited to go out and jump."
   },
   {
     "n": "Cooley Timepiece",
@@ -27553,15 +27554,15 @@
   {
     "n": "Pencos Crown Jewel",
     "f": "104WR69",
-    "s": "",
-    "c": "",
-    "x": "",
-    "h": 0,
-    "d": 0,
-    "l": "",
+    "s": "Jasmine",
+    "c": "DkB",
+    "x": "M",
+    "h": 16.2,
+    "d": 2009,
+    "l": "BBBF",
     "b": "SHBGB",
     "z": 0,
-    "a": ""
+    "a": "Out of the same mare as Lordships Graffalo. Not very similar to him - fussy, picky eater, likes her own space. Broken in by Ros Canter as a three year old. Check leg markings after dressage."
   },
   {
     "n": "Grafennacht",
