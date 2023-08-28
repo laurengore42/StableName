@@ -23252,7 +23252,7 @@
     "a": "Cyrielle has had him since he was four."
   },
   {
-    "n": "Ballybolger Talisman",
+    "n": "SAP Talisman",
     "f": "106DL87",
     "s": "Podge",
     "c": "B",
@@ -23262,7 +23262,7 @@
     "l": "BBBB",
     "z": 0,
     "b": "ISH",
-    "a": "Bought 'unsat on' at four - 'and we couldn't really sit on him for two years'."
+    "a": "Bought 'unsat on' at four - 'and we couldn't really sit on him for two years'. Was Ballybolger Talisman until (an ownership change?)."
   },
   {
     "n": "King Of The Mill",
@@ -40279,6 +40279,114 @@
   {
     "n": "Dunedin Black Watch",
     "f": "105UW27",
+    "s": "",
+    "c": "",
+    "x": "",
+    "h": 0,
+    "d": 0,
+    "l": "",
+    "z": 0,
+    "a": ""
+  },
+  {
+    "n": "Luna Mist",
+    "f": "105YU88",
+    "s": "",
+    "c": "",
+    "x": "",
+    "h": 0,
+    "d": 0,
+    "l": "",
+    "z": 0,
+    "a": ""
+  },
+  {
+    "n": "Shanbeg Cooley",
+    "f": "106NB16",
+    "s": "",
+    "c": "",
+    "x": "",
+    "h": 0,
+    "d": 0,
+    "l": "",
+    "z": 0,
+    "a": ""
+  },
+  {
+    "n": "Con Classic 2",
+    "f": "106NS94",
+    "s": "",
+    "c": "",
+    "x": "",
+    "h": 0,
+    "d": 0,
+    "l": "",
+    "z": 0,
+    "a": ""
+  },
+  {
+    "n": "Bally Louis",
+    "f": "105SL52",
+    "s": "",
+    "c": "",
+    "x": "",
+    "h": 0,
+    "d": 0,
+    "l": "",
+    "z": 0,
+    "a": ""
+  },
+  {
+    "n": "Icarus X",
+    "f": "106PS42",
+    "s": "",
+    "c": "",
+    "x": "",
+    "h": 0,
+    "d": 0,
+    "l": "",
+    "z": 0,
+    "a": ""
+  },
+  {
+    "n": "Billy Beaufort",
+    "f": "106EO67",
+    "s": "",
+    "c": "",
+    "x": "",
+    "h": 0,
+    "d": 0,
+    "l": "",
+    "z": 0,
+    "a": ""
+  },
+  {
+    "n": "Hacien",
+    "f": "106EU29",
+    "s": "",
+    "c": "",
+    "x": "",
+    "h": 0,
+    "d": 0,
+    "l": "",
+    "z": 0,
+    "a": ""
+  },
+  {
+    "n": "Poetry In Motion II",
+    "f": "106VA27",
+    "s": "",
+    "c": "",
+    "x": "",
+    "h": 0,
+    "d": 0,
+    "l": "",
+    "z": 0,
+    "a": ""
+  },
+  {
+    "n": "Game Changer",
+    "f": "106BR08",
     "s": "",
     "c": "",
     "x": "",
