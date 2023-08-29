@@ -568,12 +568,13 @@
     "t": "SWE"
   },
   {
-    "n": "William Oakden",
+    "n": "Wills Oakden",
+    "m": "William Oakden",
     "f": "10038218",
     "g": "M",
     "b": 1990,
     "t": "GBR",
-    "a": "Born in Cumbria of Scottish heritage."
+    "a": "Born in Cumbria of Scottish heritage, now based in Perth. Enjoys golf and pickleball. Dad James completed Badminton, but it's his mum and stepdad who come to his shows. Aunt is Frances Hay-Smith, though I don't know on which side."
   },
   {
     "n": "Piggy March",
@@ -754,7 +755,7 @@
     "g": "M",
     "b": 1991,
     "t": "GBR",
-    "a": "Dad Bobby is an event vet."
+    "a": "Dad Bobby is an event vet. Based at Gatcombe."
   },
   {
     "n": "Dee Kennedy",
@@ -788,7 +789,7 @@
     "g": "M",
     "b": 1978,
     "t": "GBR",
-    "a": "Also trained as an equine dentist."
+    "a": "Also trained as an equine dentist. Was reserve for the 2008 and 2012 Olympics. Sister Bryony also competes. Listed 'sleeping' on his interests when asked."
   },
   {
     "n": "Joseph Murphy",
@@ -928,7 +929,7 @@
     "g": "F",
     "b": 1986,
     "t": "GBR",
-    "a": "Only 5'2\" and can't run fast enough to trot up Allstar B. 'Naturally a slowcoach', gets time faults if she's not careful."
+    "a": "Only 5'2\" and not a fast enough runner to trot up Allstar B. 'Naturally a slowcoach', gets time faults if she's not careful."
   },
   {
     "n": "Imogen Murray",
@@ -952,7 +953,7 @@
     "g": "M",
     "b": 1984,
     "t": "GBR",
-    "a": "Wears brightly coloured trousers at trot-ups. Was apprenticed to William Fox-Pitt. Proposed to his girlfriend during a Badminton course walk. 'Probably the nicest man in BE.' Head girl Jess Errington blogs at The Gaitpost. Shattered both elbows in a rotational at Wellington August 2013 - was told he might never ride again, got third at Badminton in 2014."
+    "a": "Wears brightly coloured trousers at trot-ups. Son of Richard Meade, was apprenticed to William Fox-Pitt. Proposed to his girlfriend during a Badminton course walk. 'Probably the nicest man in BE.' Head girl Jess Errington blogs at The Gaitpost. Shattered both elbows in a rotational at Wellington August 2013 - was told he might never ride again, got third at Badminton in 2014."
   },
   {
     "n": "Dani Evans",
@@ -1046,7 +1047,7 @@
     "g": "M",
     "b": 1981,
     "t": "GBR",
-    "a": "Farrier and ex semi-pro rugby player."
+    "a": "Farrier and ex semi-pro rugby player. Introduced to eventing by his wife. Three daughters in Pony Club."
   },
   {
     "n": "Dan Jocelyn",
@@ -3921,7 +3922,8 @@
     "f": "10016082",
     "g": "",
     "b": 0,
-    "t": "SWE"
+    "t": "SWE",
+    "a": "5* debut at Burghley 2023. Taller than his horse, who is 'normal sized' according to Tilly Berendt - genuinely can't find a height for the animal. Has two metal plates in his right hip after a 2013 fall."
   },
   {
     "n": "Tim Rusbridge",
@@ -5164,12 +5166,13 @@
     "t": "IRL"
   },
   {
-    "n": "Timothy Cheffings",
-    "m": "",
+    "n": "Tim Cheffings",
+    "m": "Timothy Cheffings",
     "f": "10005601",
-    "g": "",
+    "g": "M",
     "b": 0,
-    "t": "GBR"
+    "t": "GBR",
+    "a": "Used to ride a spotted eventer named Colby II. Based in Devon, also coaches."
   },
   {
     "n": "Katherine Hague",
@@ -5517,8 +5520,8 @@
     "t": "GBR"
   },
   {
-    "n": "Lauren Yallop",
-    "m": "",
+    "n": "Lauren Lillywhite",
+    "m": "Lauren Yallop",
     "f": "10013784",
     "g": "",
     "b": 0,
@@ -7276,11 +7279,12 @@
   },
   {
     "n": "Philip Brown",
-    "m": "",
+    "m": "Phil",
     "f": "10071585",
-    "g": "",
-    "b": 0,
-    "t": "GBR"
+    "g": "M",
+    "b": 1987,
+    "t": "GBR",
+    "a": "Burghley first-timer in 2022 - nearly qualified in 2016 but had a horse injury. Non-horsey parents, though Dad's in agricultural machinery. Came up through Pony Club. Born in Yorkshire, and lives in Stamford now! Seems like a really nice boy."
   },
   {
     "n": "Ian Bennett",
@@ -8122,7 +8126,7 @@
     "g": "F",
     "b": 1991,
     "t": "NZL",
-    "a": "Amateur - has a masters in investment banking, a day job at KPMG, and no groom! Originally rode GBR, switched to NZL in 2022 (her dad is Kiwi). Hero-worshipped Pippa Funnell and Mary King as a kid."
+    "a": "Amateur - has a masters in investment banking, a day job at KPMG, and no groom! Originally rode GBR, switched to NZL in 2022 (her dad is Kiwi). Hero-worshipped Pippa Funnell and Mary King as a kid. Birthday is 1st September, so overlapped Burghley in 2023."
   },
   {
     "n": "Lea Siegl",
@@ -8536,7 +8540,7 @@
     "g": "",
     "b": 0,
     "t": "GBR",
-    "a": ""
+    "a": "5* debut at Burghley 2023. Based in Yorkshire. Won Best Dressed at Bramham once."
   },
   {
     "n": "Johannes Hayessen",
@@ -8686,10 +8690,10 @@
     "n": "Greta Mason",
     "m": "",
     "f": "10143064",
-    "g": "",
-    "b": 0,
+    "g": "F",
+    "b": 1998,
     "t": "GBR",
-    "a": ""
+    "a": "Born in Australia, moved to the UK aged 8 and learned to ride. Has a twin brother Silas who's an equine vet. Was in pony club at Burghley."
   },
   {
     "n": "Lucy Robinson",
@@ -12730,6 +12734,366 @@
     "g": "",
     "b": 0,
     "t": "GBR",
+    "a": ""
+  },
+  {
+    "n": "Marc Grandia",
+    "m": "",
+    "f": "10014868",
+    "g": "",
+    "b": 0,
+    "t": "USA",
+    "a": ""
+  },
+  {
+    "n": "Alina Dibowski",
+    "m": "",
+    "f": "10120267",
+    "g": "",
+    "b": 0,
+    "t": "GER",
+    "a": ""
+  },
+  {
+    "n": "Sophie Leube",
+    "m": "",
+    "f": "10077606",
+    "g": "",
+    "b": 0,
+    "t": "GER",
+    "a": ""
+  },
+  {
+    "n": "Jerome Robine",
+    "m": "",
+    "f": "10089901",
+    "g": "",
+    "b": 0,
+    "t": "GER",
+    "a": ""
+  },
+  {
+    "n": "Arne Bergendahl",
+    "m": "",
+    "f": "10016615",
+    "g": "",
+    "b": 0,
+    "t": "GER",
+    "a": ""
+  },
+  {
+    "n": "Seppe Vilain",
+    "m": "",
+    "f": "10139010",
+    "g": "",
+    "b": 0,
+    "t": "BEL",
+    "a": ""
+  },
+  {
+    "n": "Emma Brüssau",
+    "m": "",
+    "f": "10093271",
+    "g": "",
+    "b": 0,
+    "t": "GER",
+    "a": ""
+  },
+  {
+    "n": "Sam Lyle",
+    "m": "",
+    "f": "10009573",
+    "g": "",
+    "b": 0,
+    "t": "AUS",
+    "a": ""
+  },
+  {
+    "n": "Sophia Hill",
+    "m": "",
+    "f": "10113806",
+    "g": "",
+    "b": 0,
+    "t": "AUS",
+    "a": ""
+  },
+  {
+    "n": "Kenya Wilson",
+    "m": "",
+    "f": "10083424",
+    "g": "",
+    "b": 0,
+    "t": "AUS",
+    "a": ""
+  },
+  {
+    "n": "Kirilee Hosier",
+    "m": "",
+    "f": "10103734",
+    "g": "",
+    "b": 0,
+    "t": "AUS",
+    "a": ""
+  },
+  {
+    "n": "Gordon Bishop",
+    "m": "",
+    "f": "10004250",
+    "g": "",
+    "b": 0,
+    "t": "AUS",
+    "a": ""
+  },
+  {
+    "n": "Sam Woods",
+    "m": "",
+    "f": "10166593",
+    "g": "",
+    "b": 0,
+    "t": "AUS",
+    "a": ""
+  },
+  {
+    "n": "Cathryn Herbert",
+    "m": "",
+    "f": "10088778",
+    "g": "",
+    "b": 0,
+    "t": "AUS",
+    "a": ""
+  },
+  {
+    "n": "Courtney Slattery",
+    "m": "",
+    "f": "10091762",
+    "g": "",
+    "b": 0,
+    "t": "AUS",
+    "a": ""
+  },
+  {
+    "n": "Lizzie Baugh",
+    "m": "",
+    "f": "10112179",
+    "g": "",
+    "b": 0,
+    "t": "GBR",
+    "a": ""
+  },
+  {
+    "n": "Sam Gillespie",
+    "m": "",
+    "f": "10121102",
+    "g": "",
+    "b": 0,
+    "t": "GBR",
+    "a": ""
+  },
+  {
+    "n": "Laura Birley",
+    "m": "",
+    "f": "10088544",
+    "g": "",
+    "b": 0,
+    "t": "GBR",
+    "a": ""
+  },
+  {
+    "n": "Sarah Gairdner",
+    "m": "",
+    "f": "10005406",
+    "g": "",
+    "b": 0,
+    "t": "GBR",
+    "a": ""
+  },
+  {
+    "n": "Freddie Powell",
+    "m": "",
+    "f": "10101103",
+    "g": "",
+    "b": 0,
+    "t": "GBR",
+    "a": ""
+  },
+  {
+    "n": "Roberto Scalisi",
+    "m": "",
+    "f": "10078318",
+    "g": "",
+    "b": 0,
+    "t": "ITA",
+    "a": ""
+  },
+  {
+    "n": "Sammy Oliver",
+    "m": "",
+    "f": "10031432",
+    "g": "",
+    "b": 0,
+    "t": "GBR",
+    "a": ""
+  },
+  {
+    "n": "Emily Jane Corbett",
+    "m": "",
+    "f": "10010370",
+    "g": "",
+    "b": 0,
+    "t": "IRL",
+    "a": ""
+  },
+  {
+    "n": "Matteo Orlandi",
+    "m": "",
+    "f": "10104861",
+    "g": "",
+    "b": 0,
+    "t": "ITA",
+    "a": ""
+  },
+  {
+    "n": "Edie Campbell",
+    "m": "",
+    "f": "10091786",
+    "g": "",
+    "b": 0,
+    "t": "GBR",
+    "a": ""
+  },
+  {
+    "n": "Julien Wergifosse",
+    "m": "",
+    "f": "10131736",
+    "g": "",
+    "b": 0,
+    "t": "BEL",
+    "a": ""
+  },
+  {
+    "n": "Lisa Held",
+    "m": "",
+    "f": "10090743",
+    "g": "",
+    "b": 0,
+    "t": "AUT",
+    "a": ""
+  },
+  {
+    "n": "Stephanie Stammschroer",
+    "m": "",
+    "f": "10119017",
+    "g": "",
+    "b": 0,
+    "t": "Stephanie STAMMSCHROER (",
+    "a": ""
+  },
+  {
+    "n": "Imo Brook",
+    "m": "",
+    "f": "10175407",
+    "g": "",
+    "b": 0,
+    "t": "GBR",
+    "a": ""
+  },
+  {
+    "n": "Jamie Kellock",
+    "m": "",
+    "f": "10094834",
+    "g": "",
+    "b": 0,
+    "t": "CAN",
+    "a": ""
+  },
+  {
+    "n": "Fabrice Saintemarie",
+    "m": "",
+    "f": "10070530",
+    "g": "",
+    "b": 0,
+    "t": "FRA",
+    "a": ""
+  },
+  {
+    "n": "Sasha Hargreaves",
+    "m": "",
+    "f": "10143878",
+    "g": "",
+    "b": 0,
+    "t": "GBR",
+    "a": ""
+  },
+  {
+    "n": "Thomas Martin",
+    "m": "",
+    "f": "10098068",
+    "g": "",
+    "b": 0,
+    "t": "GBR",
+    "a": ""
+  },
+  {
+    "n": "Scott Wallace",
+    "m": "",
+    "f": "10100584",
+    "g": "",
+    "b": 0,
+    "t": "GBR",
+    "a": ""
+  },
+  {
+    "n": "",
+    "m": "",
+    "f": "10111602",
+    "g": "",
+    "b": 0,
+    "t": "",
+    "a": ""
+  },
+  {
+    "n": "Alex Holman",
+    "m": "",
+    "f": "10155563",
+    "g": "",
+    "b": 0,
+    "t": "GBR",
+    "a": ""
+  },
+  {
+    "n": "Kate Rowe",
+    "m": "",
+    "f": "10177326",
+    "g": "",
+    "b": 0,
+    "t": "GBR",
+    "a": ""
+  },
+  {
+    "n": "Gillian Beale King",
+    "m": "",
+    "f": "10025518",
+    "g": "",
+    "b": 0,
+    "t": "USA",
+    "a": ""
+  },
+  {
+    "n": "Amanda Staam",
+    "m": "",
+    "f": "10031631",
+    "g": "",
+    "b": 0,
+    "t": "SWE",
+    "a": ""
+  },
+  {
+    "n": "Kajsa Månsby Svedberg",
+    "m": "",
+    "f": "10110149",
+    "g": "",
+    "b": 0,
+    "t": "Kajsa MÅNSBY SVEDBERG (",
     "a": ""
   }
 ]
