@@ -160,7 +160,7 @@
     "g": "M",
     "b": 1979,
     "t": "USA",
-    "a": "Married to a Grand Prix dressage rider. Co-hosts on the Eventing Radio Show."
+    "a": "Married to a Grand Prix dressage rider. Co-hosts on the Eventing Radio Show. Lost six horses in a barn fire in 2011, then came 7th at Burghley with a horse that had suffered smoke inhalation."
   },
   {
     "n": "Jonelle Price",
@@ -1610,8 +1610,9 @@
     "n": "Andrew Heffernan",
     "f": "10003591",
     "g": "M",
-    "b": 0,
-    "t": "NED"
+    "b": 1975,
+    "t": "NED",
+    "a": "Based out of Somerford Park. Brand is AH Eventing. Has done the Olympics."
   },
   {
     "n": "Alice Dunsdon",
@@ -1904,12 +1905,13 @@
     "t": "GER"
   },
   {
-    "n": "Matthew Heath",
+    "n": "Matt Heath",
+    "m": "Matthew Heath",
     "f": "10016671",
     "g": "M",
     "b": 1983,
     "t": "GBR",
-    "a": "Got suspended in 2013 after a fistfight at a party."
+    "a": "Was exercising racehorses at 11, grew up on a racing yard. Dad rode National Hunt. Got suspended in 2013 after a fistfight at a party."
   },
   {
     "n": "Gary Parsonage",
@@ -3436,11 +3438,13 @@
     "t": "USA"
   },
   {
-    "n": "Sophie Jenman",
+    "n": "Sophie Fouracre",
+    "m": "Sophie Jenman",
     "f": "10039528",
-    "g": "",
-    "b": 0,
-    "t": "GBR"
+    "g": "F",
+    "b": 1991,
+    "t": "GBR",
+    "a": "Events the King's horses - Marley isn't one of them. Completed Burghley in 2013, would have been back sooner but she had an injury (then a pandemic, then a baby)."
   },
   {
     "n": "Lucy McCarthy",
@@ -3920,8 +3924,8 @@
   {
     "n": "Christoffer Forsberg",
     "f": "10016082",
-    "g": "",
-    "b": 0,
+    "g": "M",
+    "b": 1991,
     "t": "SWE",
     "a": "5* debut at Burghley 2023. Taller than his horse, who is 'normal sized' according to Tilly Berendt - genuinely can't find a height for the animal. Has two metal plates in his right hip after a 2013 fall."
   },
@@ -4278,11 +4282,13 @@
     "t": "USA"
   },
   {
-    "n": "Jennie Brannigan",
+    "n": "Jennie Saville",
+    "m": "Jennie Brannigan",
     "f": "10013055",
-    "g": "",
-    "b": 0,
-    "t": "USA"
+    "g": "F",
+    "b": 1987,
+    "t": "USA",
+    "a": "Strong feelings on treating horses right - they get three months off in the field in the off season. Married to a racehorse trainer."
   },
   {
     "n": "Barbara Crabo",
@@ -5170,7 +5176,7 @@
     "m": "Timothy Cheffings",
     "f": "10005601",
     "g": "M",
-    "b": 0,
+    "b": 1984,
     "t": "GBR",
     "a": "Used to ride a spotted eventer named Colby II. Based in Devon, also coaches."
   },
@@ -5523,9 +5529,10 @@
     "n": "Lauren Lillywhite",
     "m": "Lauren Yallop",
     "f": "10013784",
-    "g": "",
-    "b": 0,
-    "t": "GBR"
+    "g": "F",
+    "b": 1989,
+    "t": "GBR",
+    "a": "Took some time off to have daughter Florence in 2021."
   },
   {
     "n": "Eddy Sans",
@@ -7048,9 +7055,10 @@
     "n": "Grace Taylor",
     "m": "",
     "f": "10080572",
-    "g": "",
-    "b": 0,
-    "t": "GBR"
+    "g": "F",
+    "b": 1996,
+    "t": "USA",
+    "a": "Has dual nationality, now riding for the USA. Dad Nigel runs Aston-le-Walls and mum competed for the US."
   },
   {
     "n": "Toby Pigott",
@@ -7064,9 +7072,10 @@
     "n": "Richard Coney",
     "m": "",
     "f": "10106682",
-    "g": "",
-    "b": 0,
-    "t": "GBR"
+    "g": "M",
+    "b": 2010,
+    "t": "GBR",
+    "a": "Burghley debut in 2023. Based in Lincolnshire on his parents' farm. Loves Formula 1, will be trying to watch the racing between rides."
   },
   {
     "n": "Simon Ashworth",
@@ -7380,8 +7389,9 @@
     "m": "",
     "f": "10046686",
     "g": "M",
-    "b": 0,
-    "t": "GBR"
+    "b": 1982,
+    "t": "GBR",
+    "a": "Parents not horsey, was self-taught as a child on borrowed ponies. Worked weekends for the Pox-Pitts and saved up for one of his own. Now lives very near Burghley."
   },
   {
     "n": "Sophie Beaty",
@@ -8051,10 +8061,10 @@
     "n": "Luc Château",
     "m": "",
     "f": "10060608",
-    "g": "",
-    "b": 0,
+    "g": "M",
+    "b": 1984,
     "t": "FRA",
-    "a": ""
+    "a": "Based out of France."
   },
   {
     "n": "Karl Slezak",
@@ -8420,10 +8430,10 @@
     "n": "Sarah Clark",
     "m": "",
     "f": "10043014",
-    "g": "",
-    "b": 0,
+    "g": "F",
+    "b": 1988,
     "t": "AUS",
-    "a": ""
+    "a": "Based in Wiltshire. Dreamed of Badminton and Burghley - has an aunt in England."
   },
   {
     "n": "Tanya Schmidt",
@@ -8537,8 +8547,8 @@
     "n": "Christopher Whittle",
     "m": "",
     "f": "10044404",
-    "g": "",
-    "b": 0,
+    "g": "M",
+    "b": 1987,
     "t": "GBR",
     "a": "5* debut at Burghley 2023. Based in Yorkshire. Won Best Dressed at Bramham once."
   },
@@ -8615,13 +8625,13 @@
     "a": ""
   },
   {
-    "n": "Kristina Hall-jackson",
+    "n": "Kristina Hall-Jackson",
     "m": "",
     "f": "10093857",
-    "g": "",
-    "b": 0,
+    "g": "F",
+    "b": 1997,
     "t": "GBR",
-    "a": ""
+    "a": "Based in West Yorkshire. Ridden since she was 18 months, evented since she was 14. Idolises Pippa Funnell - felt lucky to have the same birthday."
   },
   {
     "n": "Molly Faulkner",
@@ -8669,13 +8679,13 @@
     "a": ""
   },
   {
-    "n": "Emma T V Thomas",
-    "m": "",
+    "n": "Emma Thomas",
+    "m": "Emma T V Thomas",
     "f": "10143979",
-    "g": "",
-    "b": 0,
+    "g": "F",
+    "b": 1999,
     "t": "GBR",
-    "a": ""
+    "a": "5* debut at Burghley 2023. Turned pro in 2021."
   },
   {
     "n": "Saffron Cresswell",
@@ -10868,10 +10878,10 @@
     "n": "Tom Bird",
     "m": "",
     "f": "10142018",
-    "g": "",
-    "b": 0,
+    "g": "M",
+    "b": 2002,
     "t": "GBR",
-    "a": ""
+    "a": "5* debut Burghley 2023. Coached by his mum."
   },
   {
     "n": "Anna-katharina Vogel",
@@ -12191,10 +12201,10 @@
     "n": "Holly Richardson",
     "m": "",
     "f": "10128928",
-    "g": "",
-    "b": 0,
+    "g": "F",
+    "b": 1994,
     "t": "GBR",
-    "a": ""
+    "a": "Burghley first-timer in 2023. Blames herself for Bally Louis's showjumping issues. Another fan of leather leggings at trot-ups."
   },
   {
     "n": "Tamara Acklin",
@@ -13094,6 +13104,276 @@
     "g": "",
     "b": 0,
     "t": "Kajsa MÅNSBY SVEDBERG (",
+    "a": ""
+  },
+  {
+    "n": "Ian Cassells",
+    "m": "",
+    "f": "10075812",
+    "g": "",
+    "b": 0,
+    "t": "IRL",
+    "a": ""
+  },
+  {
+    "n": "Helen Bates",
+    "m": "",
+    "f": "10100404",
+    "g": "",
+    "b": 0,
+    "t": "GBR",
+    "a": ""
+  },
+  {
+    "n": "India Wishart",
+    "m": "",
+    "f": "10090445",
+    "g": "",
+    "b": 0,
+    "t": "GBR",
+    "a": ""
+  },
+  {
+    "n": "Molly Evans",
+    "m": "",
+    "f": "10157451",
+    "g": "",
+    "b": 0,
+    "t": "IRL",
+    "a": ""
+  },
+  {
+    "n": "Alex Houston",
+    "m": "",
+    "f": "10036262",
+    "g": "",
+    "b": 0,
+    "t": "IRL",
+    "a": ""
+  },
+  {
+    "n": "Julie Simonet",
+    "m": "",
+    "f": "10119172",
+    "g": "",
+    "b": 0,
+    "t": "FRA",
+    "a": ""
+  },
+  {
+    "n": "Mathieu Chombart",
+    "m": "",
+    "f": "10011313",
+    "g": "",
+    "b": 0,
+    "t": "FRA",
+    "a": ""
+  },
+  {
+    "n": "Jennifer Kuehnle",
+    "m": "",
+    "f": "10118089",
+    "g": "",
+    "b": 0,
+    "t": "IRL",
+    "a": ""
+  },
+  {
+    "n": "Wouter De Cleene",
+    "m": "",
+    "f": "10010761",
+    "g": "",
+    "b": 0,
+    "t": "BEL",
+    "a": ""
+  },
+  {
+    "n": "Isabelle Bosley",
+    "m": "",
+    "f": "10202374",
+    "g": "",
+    "b": 0,
+    "t": "USA",
+    "a": ""
+  },
+  {
+    "n": "Andi Lawrence",
+    "m": "",
+    "f": "10083417",
+    "g": "",
+    "b": 0,
+    "t": "USA",
+    "a": ""
+  },
+  {
+    "n": "Amanda Beale",
+    "m": "",
+    "f": "10108169",
+    "g": "",
+    "b": 0,
+    "t": "USA",
+    "a": ""
+  },
+  {
+    "n": "Shenae Lowings",
+    "m": "",
+    "f": "10086866",
+    "g": "",
+    "b": 0,
+    "t": "AUS",
+    "a": ""
+  },
+  {
+    "n": "Tara Rogers",
+    "m": "",
+    "f": "10062324",
+    "g": "",
+    "b": 0,
+    "t": "AUS",
+    "a": ""
+  },
+  {
+    "n": "Niki Rose",
+    "m": "",
+    "f": "10005116",
+    "g": "",
+    "b": 0,
+    "t": "AUS",
+    "a": ""
+  },
+  {
+    "n": "Annabel Cargill",
+    "m": "",
+    "f": "10007132",
+    "g": "",
+    "b": 0,
+    "t": "AUS",
+    "a": ""
+  },
+  {
+    "n": "Hannah Klep",
+    "m": "",
+    "f": "10150488",
+    "g": "",
+    "b": 0,
+    "t": "AUS",
+    "a": ""
+  },
+  {
+    "n": "Joel Funnell",
+    "m": "",
+    "f": "10081461",
+    "g": "",
+    "b": 0,
+    "t": "AUS",
+    "a": ""
+  },
+  {
+    "n": "Penelope Johnson",
+    "m": "",
+    "f": "10058627",
+    "g": "",
+    "b": 0,
+    "t": "AUS",
+    "a": ""
+  },
+  {
+    "n": "Sophie Fox",
+    "m": "",
+    "f": "10094095",
+    "g": "",
+    "b": 0,
+    "t": "AUS",
+    "a": ""
+  },
+  {
+    "n": "Charlotte Edwards",
+    "m": "",
+    "f": "10140523",
+    "g": "",
+    "b": 0,
+    "t": "NZL",
+    "a": ""
+  },
+  {
+    "n": "Samuel Jeffree",
+    "m": "",
+    "f": "10103434",
+    "g": "",
+    "b": 0,
+    "t": "AUS",
+    "a": ""
+  },
+  {
+    "n": "Simon Tainsh",
+    "m": "",
+    "f": "10023932",
+    "g": "",
+    "b": 0,
+    "t": "AUS",
+    "a": ""
+  },
+  {
+    "n": "Callum Buczak",
+    "m": "",
+    "f": "10047556",
+    "g": "",
+    "b": 0,
+    "t": "AUS",
+    "a": ""
+  },
+  {
+    "n": "Florence Goodwin",
+    "m": "",
+    "f": "10117782",
+    "g": "",
+    "b": 0,
+    "t": "AUS",
+    "a": ""
+  },
+  {
+    "n": "Matthew Gaske",
+    "m": "",
+    "f": "10084107",
+    "g": "",
+    "b": 0,
+    "t": "AUS",
+    "a": ""
+  },
+  {
+    "n": "Chelsea Priestley",
+    "m": "",
+    "f": "10043016",
+    "g": "",
+    "b": 0,
+    "t": "AUS",
+    "a": ""
+  },
+  {
+    "n": "Mattea Davidson",
+    "m": "",
+    "f": "10037824",
+    "g": "",
+    "b": 0,
+    "t": "AUS",
+    "a": ""
+  },
+  {
+    "n": "Kathryn Ingham",
+    "m": "",
+    "f": "10009551",
+    "g": "",
+    "b": 0,
+    "t": "AUS",
+    "a": ""
+  },
+  {
+    "n": "Clare Anderson",
+    "m": "",
+    "f": "10047527",
+    "g": "",
+    "b": 0,
+    "t": "AUS",
     "a": ""
   }
 ]
