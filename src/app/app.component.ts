@@ -24,6 +24,6 @@ export class AppComponent {
     // this.datablock = new Datablock(http, 'assets/input.txt', '2019_CI_0065_C_S_01_01', '5LBy', RegexPattern.Eventing);
 
     // show entries for a single event
-    this.compfei = '2022_Badminton';
+    this.compfei = '2023_CI_0020_C_S_01_01';
   }
 }
