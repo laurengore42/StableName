@@ -1,8 +1,4 @@
 export enum Dnf {
-  "1st HI" = "1st HI",
-  "2nd HI" = "2nd HI",
-  "Dressage" = "Dressage",
-  "XC" = "XC",
   "XC-EC" = "XC error",
   "XC-OT" = "XC error",
   "XC-GJ" = "XC ground jury",
@@ -13,7 +9,6 @@ export enum Dnf {
   "XC-AH" = "XC abuse of horse",
   "XC-FOF" = "XC fall on flat",
   "XC-TH" = "XC trapped horse",
-  "SJ" = "SJ",
   "SJ-EC" = "SJ error",
   "SJ-OT" = "SJ error",
   "SJ-GJ" = "SJ ground jury",

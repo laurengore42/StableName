@@ -34,7 +34,7 @@ export class ScorelistScoretableComponent implements OnInit {
               c => c.Fei === s.Competition.Fei
             ).Year + ':' + (
               s.Dnf
-                ? s.Result.p + '\xa0-\xa0' + s.DnfDescription 
+                ? s.DnfDescription 
                 : s.Result.p + ': ' + s.Result.a + ' | ' + (
                   s.Result.b + s.Result.c
                 ) + ' | ' + (

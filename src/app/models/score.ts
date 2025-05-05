@@ -69,7 +69,11 @@ export class Score {
     }
 
     get DnfDescription() {
-      return this.Dnf ? Dnf[this._result.o] : "";
+      return this.Dnf 
+        ? Dnf[this._result.o] !== undefined
+          ? this._result.p + '\xa0-\xa0' + Dnf[this._result.o] 
+          : this._result.p + '\xa0-\xa0' + this._result.o
+        : "";
     }
 
     get Dto() {

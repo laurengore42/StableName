@@ -34,7 +34,17 @@ export class RiderHorseComponent implements OnInit {
 
     const scores: Score[] = this.horse.scores.filter(s => s.Rider.Fei === this.riderfei && s.Result.p !== 'PEND').sort((a, b) => { if (a.Competition.Fei > b.Competition.Fei) { return -1; } else if (b.Competition.Fei > a.Competition.Fei) { return 1; } return 0; });
 
-    this.scoresShow = scores.map(s => eventserieses.find(e => e.Id === comps.find(c => c.Fei === s.Competition.Fei).EventSeries).Name + '\xa0' + comps.find(c => c.Fei === s.Competition.Fei).Year + ':' + (s.Result.p === 'EL' || s.Result.p === 'WD' || s.Result.p === 'RET' || s.Result.p === 'DSQ' ? s.Result.p + '\xa0-\xa0' + s.Result.o : s.Result.p));
+    this.scoresShow = scores.map(
+      s => eventserieses.find(
+        e => e.Id === comps.find(
+          c => c.Fei === s.Competition.Fei
+        ).EventSeries
+      ).Name + '\xa0' + comps.find(
+        c => c.Fei === s.Competition.Fei
+      ).Year + ':' + (
+        s.Dnf
+          ? s.DnfDescription
+          : s.Result.p));
   }
 
   openDataPages(): void {
