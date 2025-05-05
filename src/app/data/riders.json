@@ -7,7 +7,8 @@
     "t": "GBR"
   },
   {
-    "n": "Gemma Tattersall",
+    "n": "Gemma Stevens",
+    "m": "Gemma Tattersall",
     "f": "10004203",
     "g": "F",
     "b": 1985,
@@ -636,11 +637,12 @@
     "t": "NZL"
   },
   {
-    "n": "Georgie Spence",
+    "n": "Georgie Goss",
+    "m": "Georgie Spence",
     "f": "10013306",
     "g": "F",
     "b": 1989,
-    "t": "GBR",
+    "t": "IRL",
     "a": "Personal colour is baby pink."
   },
   {
@@ -12774,7 +12776,7 @@
     "a": ""
   },
   {
-    "n": "Jerome Robine",
+    "n": "Jérôme Robiné",
     "m": "",
     "f": "10089901",
     "g": "",
@@ -13103,7 +13105,7 @@
     "f": "10110149",
     "g": "",
     "b": 0,
-    "t": "Kajsa MÅNSBY SVEDBERG (",
+    "t": "SWE",
     "a": ""
   },
   {
@@ -13374,6 +13376,51 @@
     "g": "",
     "b": 0,
     "t": "AUS",
+    "a": ""
+  },
+  {
+    "n": "Nadja Minder",
+    "m": "",
+    "f": "10123129",
+    "g": "F",
+    "b": 0,
+    "t": "SUI",
+    "a": ""
+  },
+  {
+    "n": "Tom Woodward",
+    "m": "",
+    "f": "10194518",
+    "g": "M",
+    "b": 0,
+    "t": "GBR",
+    "a": ""
+  },
+  {
+    "n": "Jack Mantel",
+    "m": "",
+    "f": "10108902",
+    "g": "M",
+    "b": 0,
+    "t": "GBR",
+    "a": ""
+  },
+  {
+    "n": "Samantha Cesnik",
+    "m": "",
+    "f": "10026644",
+    "g": "F",
+    "b": 0,
+    "t": "AUS",
+    "a": ""
+  },
+  {
+    "n": "Daragh Byrne",
+    "m": "",
+    "f": "10096136",
+    "g": "M",
+    "b": 0,
+    "t": "IRL",
     "a": ""
   }
 ]
