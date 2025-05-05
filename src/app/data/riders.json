@@ -393,7 +393,7 @@
     "g": "M",
     "b": 0,
     "t": "JPN",
-    "a": "Badminton debut in 2025."
+    "a": "Badminton debut in 2025. Based locally near Tetbury. Went to the Olympics in 2016."
   },
   {
     "n": "Frida Andersen",
@@ -723,7 +723,7 @@
     "g": "M",
     "b": 1988,
     "t": "GBR",
-    "a": "Born in Lancashire. Sells sport horses under the Shadow prefix. Was 'the cob guy' until Mulrys Error retired in 2018. Big deal on the Insta. #yehBoi Survived cancer in 2015."
+    "a": "Born in Lancashire. Dad raced motor cars. Sells sport horses under the Shadow prefix. Was 'the cob guy' until Mulrys Error retired in 2018. Big deal on the Insta. #yehBoi Survived cancer in 2015."
   },
   {
     "n": "Roo Fox",
@@ -1062,7 +1062,7 @@
     "g": "M",
     "b": 0,
     "t": "NZL",
-    "a": "Runs a livery yard in Wiltshire."
+    "a": "Born in Australia. Runs a livery yard in Wiltshire. Went to the Olympics in 2004 with Silence."
   },
   {
     "n": "Dag Albert",
@@ -1516,10 +1516,12 @@
   },
   {
     "n": "Lara de Liedekerke-Meier",
+    "m": "Lara de Liedekerke",
     "f": "10009961",
     "g": "F",
-    "b": 0,
-    "t": "BEL"
+    "b": 1988,
+    "t": "BEL",
+    "a": "First ever Belgian 5* winner, after going double clear at Luhmuhlen. Married to Kai-Steffen Meier."
   },
   {
     "n": "Libby Head",
@@ -1610,7 +1612,7 @@
     "g": "F",
     "b": 1996,
     "t": "GBR",
-    "a": "Daughter of Mary King."
+    "a": "Daughter of Mary King. Personal colour is lavender. Based in Cheshire with her boyfriend. Ran the London Marathon in 2024."
   },
   {
     "n": "Andrew Heffernan",
@@ -4061,11 +4063,12 @@
   },
   {
     "n": "Yasmin Ingham",
+    "m": "Yas",
     "f": "10088533",
-    "g": "",
-    "b": 0,
+    "g": "F",
+    "b": 1998,
     "t": "GBR",
-    "a": "Badminton debut in 2025."
+    "a": "Badminton debut in 2025, as reigning World Champion (with Banzai Du Loir). Won British championships at U16, U18 and U21. Grew up on the Isle of Man, now based in Cheshire. Was reserve for the Olympics in 2024."
   },
   {
     "n": "Kimberly Severson",
@@ -4193,9 +4196,9 @@
     "n": "Joe Meyer",
     "f": "10004540",
     "g": "M",
-    "b": 0,
+    "b": 1971,
     "t": "NZL",
-    "a": "Personal colour: red. AKA Smokey Joe, after Smokey Joe Myers."
+    "a": "Personal colour: red. AKA Smokey Joe, after Smokey Joe Myers. Family owns the stud that bred Charisma (Mark Todd) and Silence (Dan Jocelyn). Now based in Florida. Also snowboards. Website is a Web 1.0 clunker and he doesn't keep it up to date."
   },
   {
     "n": "Bella English",
@@ -6945,9 +6948,10 @@
     "n": "Will Rawlin",
     "m": "",
     "f": "10059731",
-    "g": "",
-    "b": 0,
-    "t": "GBR"
+    "g": "M",
+    "b": 1994,
+    "t": "GBR",
+    "a": "Runs a yard near Marlborough. Non-horsey family but dad was an Olympic cross-country skier. Does Crossfit, as if eventing wasn't dangerous enough."
   },
   {
     "n": "Eilidh-jane Costelloe",
@@ -7328,7 +7332,7 @@
     "g": "F",
     "b": 1982,
     "t": "GBR",
-    "a": "Keeps getting misprinted as 'Kyle'. Definitely a girl. Also teaches - yard website is authentically hideous. Hero-worshipped Nick Skelton. 'Not academic' - likes to make things."
+    "a": "Keeps getting misprinted as 'Kyle'. Definitely a girl. Also teaches - yard website is authentically hideous. Hero-worshipped Nick Skelton. 'Not academic' - likes to make things. Breeding prefix is Kinda."
   },
   {
     "n": "Hayley Parker",
@@ -8656,10 +8660,10 @@
     "n": "Gaspard Maksud",
     "m": "",
     "f": "10058568",
-    "g": "",
-    "b": 0,
+    "g": "M",
+    "b": 1993,
     "t": "FRA",
-    "a": ""
+    "a": "Learned from Andrew Nicholson and Sam Griffiths, these days has his own yard in Surrey. Grew up in Mayenne, so he's Mayennais. Also showjumps."
   },
   {
     "n": "Charlotte Rowe",
@@ -12787,28 +12791,28 @@
     "n": "Jérôme Robiné",
     "m": "",
     "f": "10089901",
-    "g": "",
-    "b": 0,
+    "g": "M",
+    "b": 1998,
     "t": "GER",
-    "a": "Badminton debut in 2025."
+    "a": "Badminton debut in 2025, holding 'most accented characters in name'. Dad also competed. Based out of the German state riding school at Warendorf. Trots up in uniform as a 'sports soldier' (?)."
   },
   {
     "n": "Arne Bergendahl",
     "m": "",
     "f": "10016615",
-    "g": "",
-    "b": 0,
+    "g": "M",
+    "b": 1991,
     "t": "GER",
-    "a": "Badminton debut in 2025."
+    "a": "Badminton debut in 2025. Comes from a family that produces showjumpers and eventers, and he helps ride the youngsters, but Arne has a Masters and works full time for the council."
   },
   {
     "n": "Seppe Vilain",
     "m": "",
     "f": "10139010",
-    "g": "",
-    "b": 0,
+    "g": "M",
+    "b": 2000,
     "t": "BEL",
-    "a": "Badminton debut in 2025."
+    "a": "Badminton debut in 2025. An amateur with a Masters in supply chain engineering and a full-time job. Plays padel. Dad and granddad both competed. Trains with Kai-Steffan Meier, based in Belgium."
   },
   {
     "n": "Emma Brüssau",
@@ -12895,10 +12899,10 @@
     "n": "Lizzie Baugh",
     "m": "",
     "f": "10112179",
-    "g": "",
-    "b": 0,
+    "g": "F",
+    "b": 1998,
     "t": "GBR",
-    "a": ""
+    "a": "Local to Burghley. Mother and sister are also equestrians. Showjumped on ponies as a kid. First moved up to advanced with Quarry Man."
   },
   {
     "n": "Sam Gillespie",
@@ -13400,27 +13404,27 @@
     "m": "",
     "f": "10194518",
     "g": "M",
-    "b": 0,
+    "b": 2002,
     "t": "GBR",
-    "a": ""
+    "a": "5* debut at Badminton 2025. Gloucestershire-based, supports Man United, and couldn't think of anything interesting to say on his bio - 'likes socialising with friends'? Well, he is only 23."
   },
   {
     "n": "Jack Mantel",
     "m": "",
     "f": "10108902",
     "g": "M",
-    "b": 0,
+    "b": 1995,
     "t": "GBR",
-    "a": "Badminton debut in 2025."
+    "a": "Badminton debut in 2025. Non-horsey family, but partner hunts (queer???) Runs Jack Mantel Sport Horses."
   },
   {
     "n": "Samantha Cesnik",
     "m": "",
     "f": "10026644",
     "g": "F",
-    "b": 0,
+    "b": 1986,
     "t": "AUS",
-    "a": "Badminton debut in 2025."
+    "a": "Badminton debut in 2025. Based in Dorset. Also rides and teaches dressage."
   },
   {
     "n": "Daragh Byrne",
@@ -13960,6 +13964,42 @@
     "g": "",
     "b": 0,
     "t": "BEL",
+    "a": ""
+  },
+  {
+    "n": "Jarno Verwimp",
+    "m": "",
+    "f": "10118451",
+    "g": "",
+    "b": 0,
+    "t": "BEL",
+    "a": ""
+  },
+  {
+    "n": "Lina Forsberg",
+    "m": "",
+    "f": "10119545",
+    "g": "",
+    "b": 0,
+    "t": "SWE",
+    "a": ""
+  },
+  {
+    "n": "Federico Sacchetti",
+    "m": "",
+    "f": "10098066",
+    "g": "",
+    "b": 0,
+    "t": "ITA",
+    "a": ""
+  },
+  {
+    "n": "Fosco Girardi",
+    "m": "",
+    "f": "10078334",
+    "g": "",
+    "b": 0,
+    "t": "ITA",
     "a": ""
   }
 ]

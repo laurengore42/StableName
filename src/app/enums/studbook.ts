@@ -2,6 +2,7 @@ export enum Studbook {
     AA = 'Anglo-Arab',
     AAFE = 'Argentinian',
     ABPSL = 'Lusitano',
+    ACE = 'Australian Warmblood',
     AES = 'Anglo-European',
     AHHA = 'Holsteiner',
     AHS = 'Hanoverian',
