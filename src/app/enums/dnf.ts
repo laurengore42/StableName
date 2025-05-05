@@ -1,0 +1,21 @@
+export enum Dnf {
+  "1st HI" = "1st HI",
+  "2nd HI" = "2nd HI",
+  "Dressage" = "Dressage",
+  "XC" = "XC",
+  "XC-OT" = "XC error",
+  "XC-R" = "XC refusal",
+  "XC-FR" = "XC horse fall",
+  "XC-FH" = "XC rider fall",
+  "XC-DR" = "XC dangerous riding",
+  "XC-AH" = "XC abuse of horse",
+  "XC-FOF" = "XC fall on flat",
+  "SJ" = "SJ",
+  "SJ-OT" = "SJ error",
+  "SJ-R" = "SJ refusal",
+  "SJ-FR" = "SJ rider fall",
+  "SJ-FH" = "SJ horse fall",
+  "SJ-DR" = "SJ dangerous riding",
+  "SJ-AH" = "SJ abuse of horse",
+  "SJ-FOF" = "SJ fall on flat"
+}

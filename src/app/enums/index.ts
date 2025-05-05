@@ -1,5 +1,6 @@
 export * from './studbook';
 export * from './colour';
+export * from './dnf';
 export * from './sex';
 export * from './gender';
 export * from './nationality';

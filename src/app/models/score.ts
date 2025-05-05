@@ -1,4 +1,4 @@
-import { Studbook } from 'src/app/enums';
+import { Dnf, Studbook } from 'src/app/enums';
 import { Horse, HorseDTO } from './horse';
 import { Rider, RiderDTO } from './rider';
 import { Competition, CompetitionDTO } from './competition';
@@ -66,6 +66,10 @@ export class Score {
 
     get Dnf() {
         return this._result.p === 'EL' || this._result.p === 'WD' || this._result.p === 'RET' || this._result.p === 'DSQ';
+    }
+
+    get DnfDescription() {
+      return this.Dnf ? Dnf[this._result.o] : "";
     }
 
     get Dto() {
