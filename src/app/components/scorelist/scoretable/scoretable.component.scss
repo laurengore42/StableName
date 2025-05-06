@@ -12,10 +12,18 @@ div.scoretable {
 td {
     border-bottom: 1px solid #0d3532;
     &.score-left {
-      padding-right: 10px;
+      padding-right: 16px;
+    }
+    &.score-part-position {
+      font-weight: bold;
+    }
+    &.score-dnf {
+      font-style: italic;
     }
     &.score-part {
-      padding-right: 6px;
+      padding-right: 16px;
+      font-family: monospace;
+      text-align: right;
     }
   }
 }

@@ -42,9 +42,9 @@ export class ScorelistScoretableComponent implements OnInit {
           ).Year + ':' + (
             s.Dnf
               ? s.DnfDescription 
-              : s.Result.p + ': ' + s.Result.a + ' | ' + (
+              : s.Result.p + ': ' + s.Result.a.toFixed(1) + ' | ' + (
                 s.Result.b + s.Result.c
-              ) + ' | ' + (
+              ).toFixed(1) + ' | ' + (
                 s.Result.d + s.Result.e + (
                   s.Result.f === undefined ? 0 : s.Result.f
                 ) + (
