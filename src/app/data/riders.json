@@ -364,7 +364,8 @@
     "f": "10017019",
     "g": "M",
     "b": 0,
-    "t": "SUI"
+    "t": "SUI",
+    "a": "Younger brother of Felix."
   },
   {
     "n": "Lauren Billys",
@@ -391,7 +392,7 @@
     "n": "Ryuzo Kitajima",
     "f": "10095136",
     "g": "M",
-    "b": 0,
+    "b": 1986,
     "t": "JPN",
     "a": "Badminton debut in 2025. Based locally near Tetbury. Went to the Olympics in 2016."
   },
@@ -464,8 +465,9 @@
     "n": "Felix Vogg",
     "f": "10010431",
     "g": "M",
-    "b": 0,
-    "t": "SUI"
+    "b": 1991,
+    "t": "SUI",
+    "a": "Three Olympics, the first Swiss 5* win in recent memory at Luhmuhlen in 2022, the World Cup in 2012, and multiple appearances at European Championships. Has a Golden Riding Badge, trained at Warendorf with Michi. Also showjumps internationally."
   },
   {
     "n": "Albert Hermoso Farras",
@@ -647,7 +649,7 @@
     "g": "F",
     "b": 1989,
     "t": "IRL",
-    "a": "Personal colour is baby pink."
+    "a": "Personal colour is baby pink. Based in Wiltshire. Won the Nations Cup in 2017 with Halltown Harley. Changed nationality in 2022 after marrying an Irish rider, Toby Goss."
   },
   {
     "n": "Sara Squires",
@@ -706,7 +708,7 @@
     "g": "F",
     "b": 1990,
     "t": "GBR",
-    "a": "Also schools racehorses. Had a rotational fall with Tis A Beauty at Tweseldown July 2013, collapsed lung, six days in ICU."
+    "a": "Also schools racehorses. Team gold at Tokyo with London 52. Had a rotational fall with Tis A Beauty at Tweseldown July 2013, collapsed lung, six days in ICU."
   },
   {
     "n": "Tom Rowland",
@@ -935,7 +937,7 @@
     "g": "F",
     "b": 1986,
     "t": "GBR",
-    "a": "Has been world number 1, and has won three 5* in one season. Only 5'2\" and not a fast enough runner to trot up Allstar B. 'Naturally a slowcoach', gets time faults if she's not careful."
+    "a": "Has been world number 1, and has won three 5* in one season. Only 5'2\" and could never run fast enough to trot up Allstar B. 'Naturally a slowcoach', gets time faults if she's not careful."
   },
   {
     "n": "Imogen Murray",
@@ -951,7 +953,7 @@
     "g": "M",
     "b": 1998,
     "t": "GBR",
-    "a": "Based in Tyne and Wear. Only started riding in 2011, when he was 13. Great-nephew of Badminton veteran Eric Thompson."
+    "a": "Based in Tyne and Wear. Only started riding in 2011, when he was 13. Great-nephew of Badminton veteran Eric Thompson. Rides a motorbike and wants to do an Ironman race."
   },
   {
     "n": "Harry Meade",
@@ -1053,14 +1055,14 @@
     "g": "M",
     "b": 1981,
     "t": "GBR",
-    "a": "Farrier and ex semi-pro rugby player. Introduced to eventing by his wife. Three daughters in Pony Club."
+    "a": "Farrier and ex semi-pro rugby player. Introduced to eventing by his wife. Three daughters who all ride. He's a farrier, you know (he's not a farrier any more)"
   },
   {
     "n": "Dan Jocelyn",
     "m": "Daniel Jocelyn",
     "f": "10000262",
     "g": "M",
-    "b": 0,
+    "b": 1971,
     "t": "NZL",
     "a": "Born in Australia. Runs a livery yard in Wiltshire. Went to the Olympics in 2004 with Silence."
   },
@@ -1297,7 +1299,7 @@
     "g": "F",
     "b": 1975,
     "t": "IRL",
-    "a": "Was pure dressage until she was 18. Also a qualified dive master. Has a tiny dog called Timmy."
+    "a": "Was pure dressage until she was 18. Also a qualified dive master. Goes mountain biking with her adult son."
   },
   {
     "n": "Cathal Daniels",
@@ -1833,7 +1835,7 @@
     "g": "M",
     "b": 1986,
     "t": "IRL",
-    "a": "Based at the Ballybolger stud. Married to Hannah AKA Sparkles. Founded EquiRatings in 2014 with Diarm Byrne. Co-hosts on the EquiRatings Eventing Podcast."
+    "a": "Based at the Ballybolger stud and will only ride Irish blood. Married to Hannah AKA Sparkles. Founded EquiRatings in 2014 with Diarm Byrne. Co-hosts on the EquiRatings Eventing Podcast."
   },
   {
     "n": "Gabriel Figueiredo Silva Cury",
@@ -3687,7 +3689,7 @@
     "g": "F",
     "b": 1998,
     "t": "GBR",
-    "a": "Based in Wiltshire. Full-time job in sales."
+    "a": "Based in Wiltshire. Full-time job in medical device sales, but did grow up hunting. Schools on grass and says this improves calmness in dressage."
   },
   {
     "n": "Sarah Pickard",
@@ -3954,10 +3956,10 @@
   {
     "n": "Nicolai Aldinger",
     "f": "10012367",
-    "g": "",
-    "b": 0,
+    "g": "M",
+    "b": 1989,
     "t": "GER",
-    "a": "Badminton debut in 2025."
+    "a": "Badminton debut in 2025. Comes from a horsey family near Stuttgart. Nations Cup team in 2022."
   },
   {
     "n": "Dirk Schrade",
@@ -4091,7 +4093,7 @@
     "g": "F",
     "b": 1992,
     "t": "GBR",
-    "a": "Not from a horsey family, started lessons at four and got her first horse at 18."
+    "a": "Not from a horsey family, started lessons at four and got her first horse at 18 (produced by Louise Skelton). Also showjumps to a high level."
   },
   {
     "n": "Sian Coleman",
@@ -4370,7 +4372,7 @@
     "m": "Samantha Felton",
     "f": "10041737",
     "g": "F",
-    "b": 0,
+    "b": 1992,
     "t": "NZL",
     "a": "Born in Australia but doesn't like to talk about it - identifies strongly as Kiwi, though now based in GB. Spent two years living on a boat on the Pacific as a kid. Badminton debut in 2025."
   },
@@ -5067,7 +5069,7 @@
     "g": "F",
     "b": 1975,
     "t": "GBR",
-    "a": "Husband Scott is an equine vet. Brother Greig is a farrier for Team GB."
+    "a": "Husband Scott is an equine vet. Brother Greig is a farrier for Team GB. Enjoys producing young horses."
   },
   {
     "n": "Peter Atkins",
@@ -5703,9 +5705,10 @@
     "n": "Aaron Millar",
     "m": "",
     "f": "10012795",
-    "g": "",
-    "b": 0,
-    "t": "GBR"
+    "g": "M",
+    "b": 1987,
+    "t": "GBR",
+    "a": "Lost some of his rides in 2015 while recovering from a car accident. Did his first Badminton with Stormstay in 2009."
   },
   {
     "n": "Hannah Dickinson",
@@ -5951,11 +5954,12 @@
   },
   {
     "n": "Harald Ambros",
-    "m": "",
+    "m": "Dr. Harald Ambros",
     "f": "10004290",
-    "g": "",
-    "b": 0,
-    "t": "AUT"
+    "g": "M",
+    "b": 1980,
+    "t": "AUT",
+    "a": "Not seen at Badminton since 2007 (Miss Ferrari). Is a dentist in real life."
   },
   {
     "n": "Stella Benatti",
@@ -6877,7 +6881,7 @@
     "g": "F",
     "b": 1996,
     "t": "IRL",
-    "a": "From Country Down, grew up on a National Hunt yard. Now based near Kettering. Trained with Piggy French."
+    "a": "From Country Down, grew up on a National Hunt yard. Now based near Kettering. Trained with Piggy French. Went to the Olympics 2024 with Wellfields Lincoln. Max Warburton's girlfriend."
   },
   {
     "n": "Arthur Chabert",
@@ -7127,9 +7131,10 @@
     "n": "Kate Rocher-Smith",
     "m": "",
     "f": "10011317",
-    "g": "",
-    "b": 0,
-    "t": "GBR"
+    "g": "F",
+    "b": 1985,
+    "t": "GBR",
+    "a": "Badminton debut in 2025 aged 40. Set up Dassett Eventing in 2008, there are many Dassett ISH on this list. Based in Warwickshire."
   },
   {
     "n": "Maddy Taylor",
@@ -7986,9 +7991,9 @@
     "m": "",
     "f": "10007268",
     "g": "F",
-    "b": 0,
+    "b": 1982,
     "t": "GBR",
-    "a": "Badminton debut in 2025."
+    "a": "Badminton debut in 2025. Based in County Durham. Non-horsey background and non-horsey husband (although she's converted him now)."
   },
   {
     "n": "George Hilton-Jones",
@@ -8033,7 +8038,7 @@
     "g": "M",
     "b": 1994,
     "t": "GER",
-    "a": "Studied Agriculture. The Wahler line runs a Trakehner stud."
+    "a": "Studied Agriculture. Holds the German Golden Riding Badge. The Wahler line runs a Trakehner stud."
   },
   {
     "n": "Sofia Sjoborg",
@@ -8270,13 +8275,13 @@
     "a": ""
   },
   {
-    "n": "Rafael Mamprin Losano",
-    "m": "",
+    "n": "Rafael Losano",
+    "m": "Rafa Losano, Rafael Mamprin Losano",
     "f": "10095930",
-    "g": "",
-    "b": 0,
+    "g": "M",
+    "b": 1997,
     "t": "BRA",
-    "a": ""
+    "a": "Grew up on a farm in Brazil. Met Mark Todd when he was coaching the national team, trained under him in Wiltshire then under William Fox-Pitt."
   },
   {
     "n": "Robin Godel",
@@ -8399,10 +8404,10 @@
     "n": "Tayla Mason",
     "m": "",
     "f": "10043393",
-    "g": "",
-    "b": 0,
+    "g": "F",
+    "b": 1994,
     "t": "NZL",
-    "a": ""
+    "a": "Trains with Andrew Nicholson and the Prices."
   },
   {
     "n": "Charlotte East",
@@ -8417,10 +8422,10 @@
     "n": "Jack Pinkney",
     "m": "",
     "f": "10091548",
-    "g": "",
-    "b": 0,
+    "g": "M",
+    "b": 1993,
     "t": "GBR",
-    "a": ""
+    "a": "Badminton debut in 2025. Yard is in Berkshire. Also boxes."
   },
   {
     "n": "Diane Gilder",
@@ -8633,10 +8638,10 @@
     "n": "Georgia Bartlett",
     "m": "",
     "f": "10139285",
-    "g": "",
-    "b": 0,
+    "g": "F",
+    "b": 2001,
     "t": "GBR",
-    "a": ""
+    "a": "Badminton debut in 2023. Parents met at a British Juniors team training camp, whole family is industry - Georgia was on ponies before she could walk, and won a lot on them."
   },
   {
     "n": "Kristina Hall-Jackson",
@@ -9659,10 +9664,10 @@
     "n": "Patrick Whelan",
     "m": "",
     "f": "10140981",
-    "g": "",
-    "b": 0,
+    "g": "M",
+    "b": 1997,
     "t": "IRL",
-    "a": ""
+    "a": "5* debut in 2024. Based in County Wexford. Also plays squash."
   },
   {
     "n": "Patrick Rüegg",
@@ -9965,10 +9970,10 @@
     "n": "Max Warburton",
     "m": "",
     "f": "10111996",
-    "g": "",
-    "b": 0,
+    "g": "M",
+    "b": 1999,
     "t": "GBR",
-    "a": ""
+    "a": "5* debut in 2024 on Monbeg Exclusive. Goes to the World Young Horse Championships. Susie Berry's boyfriend."
   },
   {
     "n": "Victor Burtin",
@@ -10895,7 +10900,7 @@
     "g": "M",
     "b": 2002,
     "t": "GBR",
-    "a": "5* debut Burghley 2023. Coached by his mum."
+    "a": "5* debut Burghley 2023, Badminton debut in 2025 as the youngest rider in the field. Coached by mum Fran. Plays hockey."
   },
   {
     "n": "Anna-katharina Vogel",
@@ -12575,8 +12580,8 @@
     "n": "Arthur Marx",
     "m": "",
     "f": "10072230",
-    "g": "",
-    "b": 0,
+    "g": "M",
+    "b": 1994,
     "t": "FRA",
     "a": "Son of Philippe Marx. Runs his own yard near Paris. Part-time job in a stationery shop, but would like to quit!"
   },
@@ -13124,19 +13129,19 @@
     "n": "Ian Cassells",
     "m": "",
     "f": "10075812",
-    "g": "",
-    "b": 0,
+    "g": "M",
+    "b": 1995,
     "t": "IRL",
-    "a": ""
+    "a": "Badminton debut in 2025. Was captain of the equestrian club at uni. Ireland's leading rider in 2020. Always goes to the world young horse championships."
   },
   {
     "n": "Helen Bates",
     "m": "",
     "f": "10100404",
-    "g": "",
-    "b": 0,
+    "g": "F",
+    "b": 1996,
     "t": "GBR",
-    "a": ""
+    "a": "Yard is near Cirencester. Non-horsey background, got lessons starting when she was eight. Parents sold their car to buy her a Cooley when she was 17. Went to the European Cup in 2019 with Geluk G. Has a dog named Dora."
   },
   {
     "n": "India Wishart",
@@ -13196,10 +13201,10 @@
     "n": "Wouter De Cleene",
     "m": "",
     "f": "10010761",
-    "g": "",
-    "b": 0,
+    "g": "M",
+    "b": 1988,
     "t": "BEL",
-    "a": "Badminton debut in 2025."
+    "a": "Badminton debut in 2025. Amateur based in Belgium, works for a road-building company. Wouter's uncle Dirk was the first Belgian to compelte Badminton, and Wouter dreamed of following him. Was European champion on ponies in 2002."
   },
   {
     "n": "Isabelle Bosley",
@@ -13431,9 +13436,9 @@
     "m": "",
     "f": "10096136",
     "g": "M",
-    "b": 0,
+    "b": 1997,
     "t": "IRL",
-    "a": "Badminton debut in 2025."
+    "a": "5* debut in 2024. Based in County Meath. Also plays Gaelic football."
   },
   {
     "n": "Libussa Lübbeke",

@@ -1759,7 +1759,7 @@
     "b": "KWPN",
     "p": null,
     "z": 2022,
-    "a": "Ros's World Champion and king of the yard. Loved big events, a good boy who wouldn't hurt a fly. By a Selle Francais showjumper, the Galoubet A line. Put down after an injury incurred in a cross-country run-out at Aachen."
+    "a": "Ros's first World Champion and king of the yard. Loved big events, a good boy who wouldn't hurt a fly. By a Selle Francais showjumper, the Galoubet A line.<br />Cause of death: put down after an injury incurred in a cross-country run-out at Aachen."
   },
   {
     "n": "Cillnabradden Evo",
@@ -9414,7 +9414,7 @@
     "d": 2008,
     "l": "BBBB",
     "b": "ISH",
-    "a": "Bad at being caught. Jumps fences to get away unless you tempt him with a bucket of food.",
+    "a": "Bad at being caught. Jumps fences to get away unless you tempt him with a bucket of food. 'If there's trouble on the yard, you can guarantee it's down to him.'",
     "p": null
   },
   {
@@ -18407,7 +18407,7 @@
     "b": "SHBGB",
     "z": 0,
     "p": null,
-    "a": "Son of Jaguar Mail. Owned by the Salty syndicate."
+    "a": "Son of Jaguar Mail. Owned by the Salty syndicate. 'Horse of a lifetime' for Austin O'Connor, who bought his dam and passed her on to the current owner as a broodmare."
   },
   {
     "n": "Tzinga D'auzay",
@@ -20188,7 +20188,7 @@
     "p": null
   },
   {
-    "n": "Hhs Dassett Appeal",
+    "n": "HHS Dassett Appeal",
     "f": "103IZ38",
     "s": "",
     "c": "",
@@ -22778,7 +22778,7 @@
     "d": 2010,
     "l": "BBCS",
     "z": 0,
-    "a": "Won Burghley Young Horse at 5."
+    "a": "Won Burghley Young Horse at 5. Still young but promising."
   },
   {
     "n": "Classic VI",
@@ -23107,13 +23107,13 @@
     "f": "105DZ65",
     "s": "",
     "c": "B",
-    "x": "S",
+    "x": "G",
     "h": 17.1,
     "d": 2009,
     "l": "BBBB",
     "z": 0,
     "b": "SF",
-    "a": "'A really big horse, not the most conventional looking animal but with a huge heart and a huge stride.'"
+    "a": "'A really big horse, not the most conventional looking animal but with a huge heart and a huge stride' per old jockey Maxime Livio. Harald says 'a special and sensitive character'."
   },
   {
     "n": "El Mundo",
@@ -23170,7 +23170,7 @@
   {
     "n": "Heartbreaker Star Quality",
     "f": "106DN20",
-    "s": "",
+    "s": "Angel",
     "c": "G",
     "x": "M",
     "h": 16.1,
@@ -23178,7 +23178,7 @@
     "l": "BBBB",
     "z": 0,
     "b": "ISH",
-    "a": "Came to Libby as a sales livery aged five, and never left."
+    "a": "Came to Libby as a sales livery aged five, and never left - got an eye infection on one side which prevented an early sale, and has permanently clouded it over. Now owned by Libby's parents. Has an ET foal on the ground by a Chilli Morning son."
   },
   {
     "n": "Cola III",
@@ -23412,7 +23412,7 @@
     "l": "BBBB",
     "z": 0,
     "b": "SHBGB",
-    "a": "Started and produced by Ros Canter, ridden by Tom McEwen while Ros was pregnant. 'A weird personality' - can gallop off round the lorry park, jump out of stables, so on. Nibbles people. Pencos Crown Jewel's 'annoying little brother'."
+    "a": "Started and produced by Ros Canter, ridden by Tom McEwen while Ros was pregnant. 'A weird personality' - can gallop off round the lorry park, eat tack, rugby tackle grooms. Nibbles people. Pencos Crown Jewel's 'annoying little brother' (Pennie has the same dam, and was also with Ros when Walter was being broken). 2024 Burghley score broke the course record."
   },
   {
     "n": "Galileo Nieuwmoed",
@@ -24204,13 +24204,14 @@
     "n": "Centennial",
     "f": "105ME29",
     "s": "",
-    "c": "",
-    "x": "",
-    "h": 0,
-    "d": 0,
-    "l": "",
+    "c": "B",
+    "x": "G",
+    "h": 17,
+    "d": 2011,
+    "l": "BBBB",
     "z": 0,
-    "a": ""
+    "b": "NZWB",
+    "a": "Homebred New Zealander, family-owned and born on the Mason family farm. Initially a show jumper."
   },
   {
     "n": "Cannavaro",
@@ -24393,15 +24394,15 @@
   {
     "n": "Jalapeño III",
     "f": "104IM41",
-    "s": "",
+    "s": "Jala",
     "c": "Ch",
     "x": "M",
     "h": 16.3,
     "d": 2008,
-    "l": "",
+    "l": "BBBB",
     "b": "SHBGB",
     "z": 0,
-    "a": "By - say it with me - Chilli Morning!"
+    "a": "By - say it with me - Chilli Morning! Has had stable accidents, including a splint and a spleen. 'Her natural high cruising speed is so great.'"
   },
   {
     "n": "Leporis",
@@ -25209,15 +25210,15 @@
   {
     "n": "Spano De Nazca",
     "f": "104QX30",
-    "s": "",
-    "c": "",
-    "x": "",
-    "h": 0,
-    "d": 0,
-    "l": "",
+    "s": "Nono",
+    "c": "Ch",
+    "x": "G",
+    "h": 15.3,
+    "d": 2006,
+    "l": "BBHH",
     "b": "AA",
     "z": 0,
-    "a": ""
+    "a": "Georgia's first horse off ponies, an older, smaller Anglo-Arab with a lot of chrome. More scope than you'd think."
   },
   {
     "n": "Rehy Royal Diamond",
@@ -28971,14 +28972,14 @@
     "n": "Cartania",
     "f": "105TG71",
     "s": "",
-    "c": "",
-    "x": "",
-    "h": 0,
-    "d": 0,
-    "l": "",
+    "c": "DkB",
+    "x": "M",
+    "h": 16.2,
+    "d": 2011,
+    "l": "BBBB",
     "b": "HOLST",
     "z": 0,
-    "a": ""
+    "a": "By a showjumper in Germany."
   },
   {
     "n": "Chicuelo",
@@ -29985,14 +29986,14 @@
     "n": "Dreamliner",
     "f": "105FD92",
     "s": "",
-    "c": "",
-    "x": "",
-    "h": 0,
-    "d": 0,
-    "l": "",
+    "c": "G",
+    "x": "G",
+    "h": 17.1,
+    "d": 2010,
+    "l": "BBBB",
     "b": "SHBGB",
     "z": 0,
-    "a": ""
+    "a": "By Jumbo, previously a Townend ride ('a very genuine horse') and owned by his breeders who used to work with Andrew Nicholson."
   },
   {
     "n": "Zelandnew Bk",
@@ -33168,15 +33169,15 @@
   {
     "n": "Cowling Hot Gossip",
     "f": "106FC17",
-    "s": "",
-    "c": "",
-    "x": "",
-    "h": 0,
-    "d": 0,
-    "l": "",
+    "s": "Jasper",
+    "c": "DkB",
+    "x": "G",
+    "h": 16.1,
+    "d": 2012,
+    "l": "BBBB",
     "b": "SHBGB",
     "z": 0,
-    "a": ""
+    "a": "Bought untouched out of a field at 5 for 'about £1000'. Grandsire is full RID. First horse that Tom ever backed."
   },
   {
     "n": "Dsp Quintana P",
@@ -38951,14 +38952,14 @@
     "n": "Timmo",
     "f": "105UC47",
     "s": "",
-    "c": "",
-    "x": "",
-    "h": 0,
-    "d": 0,
-    "l": "",
+    "c": "G",
+    "x": "G",
+    "h": 16.3,
+    "d": 2010,
+    "l": "BBBS",
     "b": "HOLST",
     "z": 0,
-    "a": ""
+    "a": "Pink-nosed grey with a big blaze and a sock."
   },
   {
     "n": "Box Leo",
@@ -40315,14 +40316,14 @@
   {
     "n": "Shanbeg Cooley",
     "f": "106NB16",
-    "s": "",
+    "s": "Jager",
     "c": "B",
     "x": "G",
     "h": 16.3,
     "d": 2014,
     "l": "BBBC",
     "z": 0,
-    "a": "I swear Harry Mutch has two identical bay horses. This one has a tiny fleck of white on the forehead."
+    "a": "I swear Harry Mutch has two identical bay horses. This one has a tiny fleck of white on the forehead. Was the youngest competitor at Burghley in 2023, and completed. 'A serious jumper' with long, powerful hind legs."
   },
   {
     "n": "Con Classic 2",
@@ -40351,7 +40352,7 @@
   {
     "n": "Icarus X",
     "f": "106PS42",
-    "s": "Sticky",
+    "s": "Sticky, Stixxy",
     "c": "B",
     "x": "G",
     "h": 15.2,
@@ -40359,7 +40360,7 @@
     "l": "BBCC",
     "z": 0,
     "b": "KWPN",
-    "a": "Another horse that's a bit of a bastard to find on Google Images. Owned by Emma since he was five. Doesn't go in the XC warmup, very enthusiastic indeed. His only 4* result is an U25 so it doesn't even show on this profile!"
+    "a": "I think this is the fourth Icarus on my horse list. Owned by Emma since he was five. Doesn't go in the XC warmup, very enthusiastic indeed - 'politely impatient', doesn't want to wait to be tacked up. 'The bravest XC horse I will ever hope to ride'."
   },
   {
     "n": "Billy Beaufort",
@@ -40478,15 +40479,15 @@
   {
     "n": "Clever Trick",
     "f": "106MH22",
-    "s": "",
-    "c": "",
-    "x": "",
-    "h": 0,
-    "d": 0,
-    "l": "",
+    "s": "Owl",
+    "c": "Br",
+    "x": "M",
+    "h": 16.2,
+    "d": 2012,
+    "l": "BBCB",
     "b": "ISH",
     "z": 0,
-    "a": ""
+    "a": "75% blood (sire and damsire). 'A bit of a Ferrari', not much for dressage. Can be looky at the water XC. Bought in Ireland from Alex Kennedy."
   },
   {
     "n": "Cooley Lafitte",
@@ -40566,15 +40567,15 @@
   {
     "n": "Rehy Revelation",
     "f": "106ZN26",
-    "s": "",
-    "c": "",
-    "x": "",
-    "h": 0,
-    "d": 0,
-    "l": "",
+    "s": "Alex",
+    "c": "B",
+    "x": "G",
+    "h": 16.2,
+    "d": 2014,
+    "l": "FFFF",
     "b": "ISH",
     "z": 0,
-    "a": ""
+    "a": "By a Holsteiner showjumper. Bought at a sale in Ireland aged 6. Owned by Simon and Mags Hope, who breed TBs. Big white nose."
   },
   {
     "n": "Chillis Gem",
@@ -40822,15 +40823,15 @@
   {
     "n": "Feloupe",
     "f": "105KR51",
-    "s": "",
-    "c": "",
-    "x": "",
-    "h": 0,
-    "d": 0,
-    "l": "",
+    "s": "Lulu Lemon",
+    "c": "B",
+    "x": "M",
+    "h": 16.2,
+    "d": 2010,
+    "l": "BBBB",
     "b": "KWPN",
     "z": 0,
-    "a": ""
+    "a": "Beautiful dressage. Georgie acquired the ride in 2019 from Ben Leahy."
   },
   {
     "n": "Kilcandra Capitol",
@@ -40912,14 +40913,14 @@
     "n": "Ardeo Premier",
     "f": "106OQ19",
     "s": "",
-    "c": "",
-    "x": "",
-    "h": 0,
-    "d": 0,
-    "l": "",
+    "c": "B",
+    "x": "G",
+    "h": 16.2,
+    "d": 2013,
+    "l": "BBFF",
     "b": "ISH",
     "z": 0,
-    "a": ""
+    "a": "Only young, but a lot of potential. Bought from Ardeo Sporthorses over in Ireland as a four year old. 'A sociable and kind horse who enjoys a nap after breakfast.'"
   },
   {
     "n": "Divali",
@@ -41091,14 +41092,14 @@
     "n": "Gelmer",
     "f": "105VK41",
     "s": "",
-    "c": "",
-    "x": "",
-    "h": 0,
-    "d": 0,
-    "l": "",
+    "c": "B",
+    "x": "G",
+    "h": 16.3,
+    "d": 2011,
+    "l": "BBCC",
     "b": "KWPN",
     "z": 0,
-    "a": ""
+    "a": "Came in off the wait list, I don't know much about him."
   },
   {
     "n": "Capitaine De Hus Z",
@@ -41182,14 +41183,14 @@
     "n": "A Class Cooley",
     "f": "106LM38",
     "s": "",
-    "c": "",
-    "x": "",
-    "h": 0,
-    "d": 0,
-    "l": "",
+    "c": "G",
+    "x": "G",
+    "h": 16.3,
+    "d": 2012,
+    "l": "BBBB",
     "b": "ISH",
     "z": 0,
-    "a": ""
+    "a": "Lovely typey ISH from the Cooley farm. One of his owners is 'Auntie Frances'."
   },
   {
     "n": "Summer Bay",
@@ -41577,28 +41578,28 @@
   {
     "n": "Master Point",
     "f": "106XM92",
-    "s": "",
-    "c": "",
-    "x": "",
-    "h": 0,
-    "d": 0,
-    "l": "",
+    "s": "Duke",
+    "c": "DkB",
+    "x": "G",
+    "h": 16.2,
+    "d": 2013,
+    "l": "BBCC",
     "b": "ISH",
     "z": 0,
-    "a": ""
+    "a": "By a Thoroughbred, and goes back to Master Imp on the other side."
   },
   {
     "n": "Carpe Diem",
     "f": "105AK92",
-    "s": "",
-    "c": "",
-    "x": "",
-    "h": 0,
-    "d": 0,
-    "l": "",
+    "s": "Diego, Demon",
+    "c": "SBr",
+    "x": "G",
+    "h": 16.1,
+    "d": 2010,
+    "l": "BBFF",
     "b": "HANN",
     "z": 0,
-    "a": ""
+    "a": "Nicknamed for his spook - 'I spent six months just trying to ride a 20 metre circle on him' - 'one-in-a-million horse'. Can still get stage fright but jumps amazingly. Check hind legs."
   },
   {
     "n": "Isazsa",
@@ -41864,14 +41865,14 @@
     "n": "Quintera",
     "f": "106DN60",
     "s": "",
-    "c": "",
-    "x": "",
-    "h": 0,
-    "d": 0,
-    "l": "",
+    "c": "Br",
+    "x": "M",
+    "h": 16.3,
+    "d": 2012,
+    "l": "BBBB",
     "b": "HANN",
     "z": 0,
-    "a": ""
+    "a": "'A special mare with a heart of gold'. Bought in Germany, produced by Wouter since four."
   },
   {
     "n": "Bastia De L'ebat",
@@ -42557,14 +42558,14 @@
     "n": "Viscount Viktor",
     "f": "106YZ38",
     "s": "",
-    "c": "Br",
+    "c": "SBr",
     "x": "G",
     "h": 16.3,
     "d": 2014,
     "l": "BBBB",
     "z": 0,
     "b": "HANN",
-    "a": "Lovely mealy nose. Might be top of the string for a rider who wasn't Tim Price - as it is, still learning."
+    "a": "Lovely mealy nose. Might be top of the string for a rider who wasn't Tim Price - as it is, still learning. 'Very old-fashioned' ground-covering gallop, 'beautiful'."
   },
   {
     "n": "Belline Fighting Spirit",
@@ -42691,9 +42692,9 @@
     "x": "G",
     "h": 16.3,
     "d": 2011,
-    "l": "",
+    "l": "BBSS",
     "z": 0,
-    "a": "",
+    "a": "Produced to 3* by Sam Ecroyd. Interesting wobbly blaze with a 'C' below his eyes.",
     "b": "AES"
   },
   {
@@ -42704,35 +42705,35 @@
     "x": "G",
     "h": 17.1,
     "d": 2012,
-    "l": "",
+    "l": "CFSF",
     "z": 0,
-    "a": "",
+    "a": "Not the showjumper on Rimondo, this one has a tiny shred of a star. Another 'He was on sales livery and somehow I still have him' story, this one in 2022. Big big horse at over 17.",
     "b": "HANN"
   },
   {
     "n": "Dassett Select",
     "f": "106ZS38",
     "s": "JJ",
-    "c": "B",
+    "c": "Br",
     "x": "G",
     "h": 16.2,
     "d": 2014,
-    "l": "",
+    "l": "BFSB",
     "z": 0,
-    "a": "",
+    "a": "Previous paper names: Namastek; Blossom Namaste. Kate has had the ride since 2021 after coming back from mat leave. Kate's mum has now bought him so he's staying Dassett. Can be very hot and throw shapes when not working, gallops hard even though he's low blood.",
     "b": "ISH"
   },
   {
     "n": "Friendship VDL",
     "f": "105TB59",
     "s": "",
-    "c": "B",
+    "c": "DkB",
     "x": "G",
     "h": 16.3,
     "d": 2010,
-    "l": "",
+    "l": "BBCB",
     "z": 0,
-    "a": "",
+    "a": "'Friendship by name and friendly by nature he is very much the yard pet.' Acquired through Padraig McCarthy in 2016.",
     "b": "KWPN"
   },
   {
@@ -42743,61 +42744,61 @@
     "x": "G",
     "h": 17.2,
     "d": 2014,
-    "l": "",
+    "l": "SBSF",
     "z": 0,
-    "a": "",
+    "a": "Huge young dapple-grey ISH gelding, makes his rider look like a doll. A good galloper for his size and can also score in the dressage. Same dam as Pfun.",
     "b": "ISH"
   },
   {
     "n": "Treworra",
     "f": "106ZQ44",
-    "s": "",
-    "c": "B",
+    "s": "Wilf",
+    "c": "DkB",
     "x": "G",
-    "h": 0,
+    "h": 17.2,
     "d": 2014,
-    "l": "",
+    "l": "BBBB",
     "z": 0,
-    "a": "",
+    "a": "By Jaguar Mail (see Colorado Blue). 'Gentle giant', inclined to be dozey, especially the day after an event. Was ridden by Ollie before, Katie is 5'4\" but says her four year old can ride him.",
     "b": "SHBGB"
   },
   {
     "n": "Kilcannon Ramiro",
     "f": "106BK04",
-    "s": "",
+    "s": "Turk",
     "c": "B",
     "x": "G",
-    "h": 0,
+    "h": 16.2,
     "d": 2012,
-    "l": "",
+    "l": "BBBB",
     "z": 0,
-    "a": "",
+    "a": "Bought at Goresbridge sales as a 3 year old and broken in by dad. By Ramiro B. A bit antisocial, grazes on his own.",
     "b": "ISH"
   },
   {
     "n": "Ikoon Lan",
     "f": "107XH17",
-    "s": "",
-    "c": "Ch",
+    "s": "Brutus",
+    "c": "LCh",
     "x": "G",
-    "h": 0,
+    "h": 16.2,
     "d": 2013,
-    "l": "",
+    "l": "BBBB",
     "z": 0,
-    "a": "",
+    "a": "Used to be a Cathal Daniels ride until 2022. Has howjumped.",
     "b": "KWPN"
   },
   {
     "n": "Grantstown Jackson",
     "f": "106DW05",
-    "s": "",
+    "s": "Jackie",
     "c": "B",
     "x": "G",
-    "h": 0,
+    "h": 16.1,
     "d": 2011,
-    "l": "",
+    "l": "BBBB",
     "z": 0,
-    "a": "",
+    "a": "About 80% blood, one of the fastest horses in the field. 'You could give him to a two-year-old to lead; he's so sweet he wants to live in your house.' Likes Polos. Worries a lot, has to have his ears full of cotton. Listen for Sarah saying 'Good boy Jackie' all the way round XC.",
     "b": "ISH"
   },
   {
@@ -42806,11 +42807,11 @@
     "s": "",
     "c": "B",
     "x": "G",
-    "h": 0,
+    "h": 16.3,
     "d": 2014,
-    "l": "",
+    "l": "BBBB",
     "z": 0,
-    "a": "",
+    "a": "Rider-owned. Only young, this is his 5* debut.",
     "b": "ISH"
   },
   {
@@ -42819,11 +42820,11 @@
     "s": "",
     "c": "Ch",
     "x": "M",
-    "h": 0,
+    "h": 16.3,
     "d": 2013,
-    "l": "",
+    "l": "BBBB",
     "z": 0,
-    "a": "",
+    "a": "Bred to replace owner Yvonne's husband's hunter, but matured into a world where 'hunting had changed' (and the husband had a career-ending injury). Laura's ride since 2021. Difficult to bit, showjumps in a hackamore and goes XC in a gag.",
     "b": "SHBGB"
   },
   {
@@ -42840,16 +42841,16 @@
     "b": "AES"
   },
   {
-    "n": "High Time",
+    "n": "High Time V",
     "f": "106DR39",
     "s": "",
     "c": "B",
     "x": "G",
-    "h": 0,
+    "h": 16.2,
     "d": 2012,
-    "l": "",
+    "l": "SCSS",
     "z": 0,
-    "a": "",
+    "a": "Owned by a syndicate. Caroline's ride since 2022.",
     "b": "KWPN"
   },
   {
