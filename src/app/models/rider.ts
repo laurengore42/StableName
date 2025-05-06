@@ -23,75 +23,70 @@ export class RiderDTO {
 }
 
 export class Rider {
-    private _name: string;
-    private _othername: string;
-    private _fei: string;
-    private _born?: number;
-    private _gender?: Gender;
-    private _nationality?: Nationality;
-    private _notes: string;
-    private _dto: RiderDTO;
+  private _name: string;
+  private _othername: string;
+  private _fei: string;
+  private _born?: number;
+  private _gender?: Gender;
+  private _nationality?: Nationality;
+  private _notes: string;
+  private _dto: RiderDTO;
 
-    public horses: Horse[];
-    public scores: Score[];
-    public horseList: string;
+  public horses: Horse[];
+  public scores: Score[];
+  public horseList: string;
 
-    constructor(dto: RiderDTO) {
-        this._dto = dto;
+  constructor(dto: RiderDTO) {
+      this._dto = dto;
 
-        this._name = dto.n;
-        this._othername = dto.m;
-        this._fei = dto.f;
-        this._gender = Gender[dto.g];
-        this._born = dto.b;
-        this._nationality = Nationality[dto.t];
-        this._notes = dto.a;
-    }
+      this._name = dto.n;
+      this._othername = dto.m;
+      this._fei = dto.f;
+      this._gender = Gender[dto.g];
+      this._born = dto.b;
+      this._nationality = Nationality[dto.t];
+      this._notes = dto.a;
+  }
 
-    get Dto(): RiderDTO {
-        return this._dto;
-    }
+  get Dto(): RiderDTO {
+      return this._dto;
+  }
 
-    get Name(): string {
-        return this._name;
-    }
+  get Name(): string {
+      return this._name;
+  }
 
-    get OtherName(): string {
-        return this._othername;
-    }
+  get OtherName(): string {
+      return this._othername;
+  }
 
-    get Fei(): string {
-        return this._fei;
-    }
+  get Fei(): string {
+      return this._fei;
+  }
 
-    get Notes(): string {
-        if (!this._notes) {
-            return '';
-        }
-        return this._notes;
-    }
+  get Notes(): string {
+      if (!this._notes) {
+          return '';
+      }
+      return this._notes;
+  }
 
-    get Nationality(): string {
-        if (!this._nationality) {
-            return '';
-        }
-        return Nationality[this._nationality];
-    }
+  get Nationality(): string {
+      if (!this._nationality) {
+          return '';
+      }
+      return Nationality[this._nationality];
+  }
 
-    get Age(): string {
-        if (!this._born) {
-            return '';
-        }
-        return Math.floor((new Date().getTime() - new Date(this._born, 1, 1).getTime()) / (1000 * 60 * 60 * 24 * 365.26)) + 'yo';
-    }
+  get Age(): string {
+      if (!this._born) {
+          return '';
+      }
+      return Math.floor((new Date().getTime() - new Date(this._born, 1, 1).getTime()) / (1000 * 60 * 60 * 24 * 365.26)) + 'yo';
+  }
 
-    get BaseDescriptor(): string {
-        if (!this._nationality && !this._gender) {
-            return 'rider';
-        }
-        if (!this._gender) {
-            return this._nationality + ' ' + 'rider';
-        }
-        return this._nationality + ' ' + this._gender.toLocaleLowerCase() + ' rider';
-    }
+  get BaseDescriptor(): string {
+    const descriptors = [this.Age ?? "", this._nationality ?? "", this._gender ?? "", 'rider']
+    return descriptors.filter(s => s.length > 0).join(" ");
+  }
 }
