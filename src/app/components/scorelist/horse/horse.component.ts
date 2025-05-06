@@ -21,7 +21,7 @@ export class ScorelistHorseComponent implements OnInit {
   }
 
   ngOnInit() {
-    this.dnf = this.position === 'EL' || this.position === 'WD' || this.position === 'RET' || this.position === 'DSQ';
+    this.dnf = this.position === 'EL' || this.position === 'WD' || this.position === 'RET' || this.position === 'DSQ' || this.position === 'SUBST';
 
     this.horse = this.dbService.GetHorse(this.horsefei);
 

@@ -19,7 +19,7 @@ export class ScorelistRiderComponent implements OnInit {
   }
 
   ngOnInit() {
-    this.dnf = this.position === 'EL' || this.position === 'WD' || this.position === 'RET' || this.position === 'DSQ';
+    this.dnf = this.position === 'EL' || this.position === 'WD' || this.position === 'RET' || this.position === 'DSQ' || this.position === 'SUBST';
 
     this.rider = this.dbService.GetRider(this.riderfei);
   }
