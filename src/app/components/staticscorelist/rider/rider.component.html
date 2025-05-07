@@ -1,0 +1,11 @@
+<div class="col-12">
+  <div class="row" [class.dnf]="dnf">
+    <div class="col-12 rider-desc">
+        <h3 class="rider-name"><ng-container *ngIf="sum !== '0' && sum !== '0.0' && !dnf">[{{ sum }}] </ng-container><ng-container *ngIf="draw > 0">#{{ draw }} </ng-container>{{ rider.Name }}</h3>
+      <ng-container *ngIf="rider.OtherName"> ({{ rider.OtherName }})</ng-container><br/>{{ rider.BaseDescriptor }} {{ rider.Fei }}
+      <p *ngIf="rider.Notes !== ''" innerHTML="{{ rider.Notes }}">
+      </p>
+      <p>Horses: {{ rider.horseList }}</p>
+    </div>
+  </div>
+</div>

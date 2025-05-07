@@ -17,18 +17,15 @@ const routes: Routes = [
         component: ScorelistComponent
     },
     {
-        path: 'scores',
-        component: ScorelistComponent
-    },
-    {
         path: 'events',
         component: EventlistComponent
-    },
-    {
-        path: '',
-        redirectTo: '/events',
-        pathMatch: 'full'
     }
+    // removing for static work
+    // {
+    //     path: '',
+    //     redirectTo: '/events',
+    //     pathMatch: 'full'
+    // }
 ];
 
 @NgModule({

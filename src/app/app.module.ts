@@ -10,6 +10,10 @@ import { ScorelistHorseComponent } from './components/scorelist/horse/horse.comp
 import { ScorelistComponent } from './components/scorelist/scorelist.component';
 import { ScorelistRiderComponent } from './components/scorelist/rider/rider.component';
 import { ScorelistScoretableComponent } from './components/scorelist/scoretable/scoretable.component';
+import { StaticScorelistHorseComponent } from './components/staticscorelist/horse/horse.component';
+import { StaticScorelistComponent } from './components/staticscorelist/scorelist.component';
+import { StaticScorelistRiderComponent } from './components/staticscorelist/rider/rider.component';
+import { StaticScorelistScoretableComponent } from './components/staticscorelist/scoretable/scoretable.component';
 import { EventlistComponent } from './components/eventlist/eventlist.component';
 import { EventComponent } from './components/eventlist/event/event.component';
 
@@ -22,6 +26,10 @@ import { EventComponent } from './components/eventlist/event/event.component';
     ScorelistComponent,
     ScorelistRiderComponent,
     ScorelistScoretableComponent,
+    StaticScorelistHorseComponent,
+    StaticScorelistComponent,
+    StaticScorelistRiderComponent,
+    StaticScorelistScoretableComponent,
     EventlistComponent,
     EventComponent
   ],
