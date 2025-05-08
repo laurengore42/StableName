@@ -260,6 +260,61 @@ div.coat-bay {
     }
 }
 
+div.coat-dun {
+    #mane-tail-fill {
+        path {
+            fill: $fill-black
+        }
+    }
+    #mane-tail-line {
+        path {
+            fill: $highlight-black
+        }
+    }
+    #body-fill {
+        path {
+            fill: $fill-yellow
+        }
+    }
+    #body-highlight {
+        path {
+            fill: $highlight-yellow
+        }
+    }
+    #nearfore-leg-fill,
+    #offfore-leg-fill, 
+    #offhind-leg-fill,
+    #nearhind-leg-fill {
+        path {
+            fill: $fill-yellow
+        }
+    }
+    #nearfore-leg-highlight,
+    #offfore-leg-highlight, 
+    #offhind-leg-highlight,
+    #nearhind-leg-highlight {
+        path {
+            fill: $highlight-yellow
+        }
+    }
+    #nearfore-high-fill, #nearfore-sock-fill, #nearfore-fetlock-fill, #nearfore-coronet-fill,
+    #offfore-high-fill, #offfore-sock-fill, #offfore-fetlock-fill, #offfore-coronet-fill,
+    #offhind-high-fill, #offhind-sock-fill, #offhind-fetlock-fill, #offhind-coronet-fill,
+    #nearhind-high-fill, #nearhind-sock-fill, #nearhind-fetlock-fill, #nearhind-coronet-fill {
+        path {
+            fill: $fill-black
+        }
+    }
+    #nearfore-high-highlight, #nearfore-sock-highlight, #nearfore-fetlock-highlight, #nearfore-coronet-highlight,
+    #offfore-high-highlight, #offfore-sock-highlight, #offfore-fetlock-highlight, #offfore-coronet-highlight,
+    #offhind-high-highlight, #offhind-sock-highlight, #offhind-fetlock-highlight, #offhind-coronet-highlight,
+    #nearhind-high-highlight, #nearhind-sock-highlight, #nearhind-fetlock-highlight, #nearhind-coronet-highlight {
+        path {
+            fill: $highlight-black
+        }
+    }
+}
+
 div.coat-liverchestnut {
     #mane-tail-fill, #body-fill {
         path {
