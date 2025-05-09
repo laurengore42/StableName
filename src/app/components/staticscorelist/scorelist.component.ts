@@ -29,7 +29,9 @@ export class StaticScorelistComponent implements OnInit {
                 s,
                 horses.find(h => h.Fei === s.Horse.Fei), riders.find(r => r.Fei === s.Rider.Fei)
             ))
-            .sort(ScoreHorseRider.sortByResult);
+            // TO DO figure out how to determine if it's Saturday or Sunday
+            //.sort(ScoreHorseRider.sortByResult);
+            .sort(ScoreHorseRider.sortByDrawOrder);
 
         this.scoresShow.map(shr => {
             const riderScores = scores.filter(s => s.Rider.Fei === shr.rider.Fei);

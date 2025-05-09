@@ -13,11 +13,21 @@ export class ScoreHorseRider {
       this.rider = rider;
     }
 
+    public static sortByDrawOrder = (a: ScoreHorseRider, b: ScoreHorseRider) => {
+        const aDrawnOrder = a.score.Draw;
+        const bDrawnOrder = b.score.Draw;
+
+        if (aDrawnOrder > bDrawnOrder) {
+            return 1;
+        } else if (aDrawnOrder < bDrawnOrder) {
+            return -1;
+        }
+        return 0;
+    }
+
     public static sortByResult = (a: ScoreHorseRider, b: ScoreHorseRider) => {
         const aPosition = a.score.Result.p;
         const bPosition = b.score.Result.p;
-        const aDrawnOrder = a.score.Draw;
-        const bDrawnOrder = b.score.Draw;
         const aPenalties = a.score.Sum;
         const bPenalties = b.score.Sum;
         const aDnf = a.score.Dnf;
@@ -33,12 +43,8 @@ export class ScoreHorseRider {
             } else if (aPenalties < bPenalties || (bPenalties === 0 && aPenalties !== 0)) {
                 return 1;
             }
-            if (aDrawnOrder > bDrawnOrder) {
-                return 1;
-            } else if (aDrawnOrder < bDrawnOrder) {
-                return -1;
-            }
-            return 0;
+
+            return this.sortByDrawOrder(a,b);
         }
     }
 }
