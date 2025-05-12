@@ -10,9 +10,9 @@
           <sn-rider-name [name]="rider.Name" [draw]="draw" [sum]="sum" [dnf]="dnf"></sn-rider-name>
       </ng-container>
       <ng-container *ngIf="rider.OtherName"> ({{ rider.OtherName }})</ng-container><br/>{{ rider.BaseDescriptor }} {{ rider.Fei }}
-      <p *ngIf="rider.Notes !== ''" innerHTML="{{ rider.Notes }}">
+      <p *ngIf="rider.Notes !== '' && !dnf" innerHTML="{{ rider.Notes }}">
       </p>
-      <p>Horses: {{ rider.horseList }}</p>
+      <p *ngIf="!dnf">Horses: {{ rider.horseList }}</p>
     </div>
   </div>
 </div>
