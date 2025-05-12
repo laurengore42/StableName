@@ -14,25 +14,15 @@
       </div>
     </div>
     <div class="col-6 horse-image">
-        <ng-container *ngIf="!isStatic">
-          <a target="_blank" rel="noopener" href="https://www.google.co.uk/search?q={{ horse.Name}}+{{ ridername }}&tbm=isch&tbs=isz:l">
-            <sn-horse-drawing [colour]="horse.SvgColour" [nearfore]="horse.Nearfore" [offfore]="horse.Offfore" [offhind]="horse.Offhind" [nearhind]="horse.Nearhind"></sn-horse-drawing>
-          </a>
-        </ng-container>
-        <ng-container *ngIf="isStatic">
+      <ng-container *ngIf="!isStatic">
+        <a target="_blank" rel="noopener" href="https://www.google.co.uk/search?q={{ horse.Name}}+{{ ridername }}&tbm=isch&tbs=isz:l">
           <sn-horse-drawing [colour]="horse.SvgColour" [nearfore]="horse.Nearfore" [offfore]="horse.Offfore" [offhind]="horse.Offhind" [nearhind]="horse.Nearhind"></sn-horse-drawing>
-        </ng-container>
-      <p>
-        <ng-container *ngIf="horse.Age">{{ horse.Age }} </ng-container>
-        <ng-container>{{ horse.Colour }} {{ horse.Sex }}</ng-container>
-        <ng-container *ngIf="horse.Height">,
-          {{ horse.Height }}</ng-container>
-        <ng-container *ngIf="(horse.Age || horse.Colour || horse.Sex || horse.Height) && horse.Studbook">,
-        </ng-container>
-        <ng-container *ngIf="horse.Studbook">{{ horse.Studbook }}</ng-container>
-        <ng-container *ngIf="horse.Age || horse.Height || horse.Colour || horse.Sex || horse.Studbook">, </ng-container>
-        {{ horse.Fei }}
-      </p>
+        </a>
+      </ng-container>
+      <ng-container *ngIf="isStatic">
+        <sn-horse-drawing [colour]="horse.SvgColour" [nearfore]="horse.Nearfore" [offfore]="horse.Offfore" [offhind]="horse.Offhind" [nearhind]="horse.Nearhind"></sn-horse-drawing>
+      </ng-container>
+      <sn-horse-description [horse]="horse"></sn-horse-description>
       <p [innerHTML]="horse.Notes">
       </p>
     </div>

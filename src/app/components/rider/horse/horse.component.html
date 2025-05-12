@@ -10,21 +10,11 @@
     <a target="_blank" rel="noopener" href="https://www.google.co.uk/search?q={{ horse.Name}}+{{ ridername }}&tbm=isch&tbs=isz:l">
       <sn-horse-drawing [colour]="horse.SvgColour" [nearfore]="horse.Nearfore" [offfore]="horse.Offfore" [offhind]="horse.Offhind" [nearhind]="horse.Nearhind"></sn-horse-drawing>
     </a>
-    <p [class.deceased]="horse.Deceased">
-        <ng-container *ngIf="horse.Age">{{ horse.Age }} </ng-container>
-        <ng-container>{{ horse.Colour }} {{ horse.Sex }}</ng-container>
-        <ng-container *ngIf="horse.Height">,
-          {{ horse.Height }}</ng-container>
-        <ng-container *ngIf="(horse.Age || horse.Colour || horse.Sex || horse.Height) && horse.Studbook">, </ng-container>
-        <ng-container *ngIf="horse.Studbook">{{ horse.Studbook }}</ng-container>
-        <ng-container *ngIf="horse.Age || horse.Height || horse.Colour || horse.Sex || horse.Studbook">, </ng-container>
-        {{ horse.Fei }}
-      </p>
-      <p>
-        {{ horse.Notes }}
-      </p>
-      <ng-container *ngIf="scoresShow.length > 0">
-        <table><tr><td colspan=2>Scores:</td></tr><tr *ngFor="let score of scoresShow"><td class="score-left">{{ score.substring(0,score.indexOf(':')).replace(' ', '&nbsp;') }}</td><td class="score-left">{{ score.substring(score.indexOf(':') + 1,score.length).replace(' ', '&nbsp;') }}</td></tr></table>
-      </ng-container>
+    <sn-horse-description [horse]="horse"></sn-horse-description>
+    <p [innerHTML]="horse.Notes">
+    </p>
+    <ng-container *ngIf="scoresShow.length > 0">
+      <table><tr><td colspan=2>Scores:</td></tr><tr *ngFor="let score of scoresShow"><td class="score-left">{{ score.substring(0,score.indexOf(':')).replace(' ', '&nbsp;') }}</td><td class="score-left">{{ score.substring(score.indexOf(':') + 1,score.length).replace(' ', '&nbsp;') }}</td></tr></table>
+    </ng-container>
   </div>
 </div>

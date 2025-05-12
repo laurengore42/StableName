@@ -4,6 +4,7 @@ import { HttpClientModule } from '@angular/common/http';
 
 import { AppRoutingModule } from './app-routing-module';
 import { AppComponent } from './app.component';
+import { HorseDescriptionComponent } from './components/horse/description/description.component';
 import { HorseDrawingComponent } from './components/horse/drawing/drawing.component';
 import { RiderComponent } from './components/rider/rider.component';
 import { RiderNameComponent } from './components/rider/name/name.component';
@@ -18,6 +19,7 @@ import { EventComponent } from './components/eventlist/event/event.component';
 @NgModule({
   declarations: [
     AppComponent,
+    HorseDescriptionComponent,
     HorseDrawingComponent,
     RiderComponent,
     RiderNameComponent,

@@ -1,0 +1,10 @@
+<p [class.deceased]="horse.Deceased">
+  <ng-container *ngIf="horse.Age">{{ horse.Age }} </ng-container>
+  <ng-container>{{ horse.Colour }} {{ horse.Sex }}</ng-container>
+  <ng-container *ngIf="horse.Height">,
+    {{ horse.Height }}</ng-container>
+  <ng-container *ngIf="(horse.Age || horse.Colour || horse.Sex || horse.Height) && horse.Studbook">, </ng-container>
+  <ng-container *ngIf="horse.Studbook">{{ horse.Studbook }}</ng-container>
+  <ng-container *ngIf="horse.Age || horse.Height || horse.Colour || horse.Sex || horse.Studbook">, </ng-container>
+  {{ horse.Fei }}
+</p>

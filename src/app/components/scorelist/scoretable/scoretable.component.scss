@@ -1,18 +1,20 @@
 @import "src/variables.scss";
 
 div.scoretable {
+    overflow-x: auto;
+    border-radius: 0 0 10px 10px;
+    border-bottom: 3px solid black;
+
     div {
         background-color: $background-panels;
         padding: 10px;
     }
-
-    border-radius: 10px 0 0 10px;
-    border-bottom: 3px solid black;
   
 td {
     border-bottom: 1px solid #0d3532;
     &.score-left {
       padding-right: 16px;
+      word-break: break-word;
     }
     &.score-part-position {
       font-weight: bold;
