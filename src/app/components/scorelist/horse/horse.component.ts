@@ -13,6 +13,7 @@ export class ScorelistHorseComponent implements OnInit {
   @Input() position: string;
   @Input() ridername: string;
   @Input() outcome: string;
+  @Input() isStatic: boolean;
   public dnf: boolean;
   public horse: Horse;
   public photoDisplay: string;

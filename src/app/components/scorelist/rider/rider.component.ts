@@ -12,6 +12,7 @@ export class ScorelistRiderComponent implements OnInit {
   @Input() sum: string;
   @Input() position: string;
   @Input() riderfei: string;
+  @Input() isStatic: boolean;
   public dnf: boolean;
   public rider: Rider;
 

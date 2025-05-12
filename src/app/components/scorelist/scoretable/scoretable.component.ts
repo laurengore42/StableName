@@ -41,7 +41,9 @@ export class ScorelistScoretableComponent implements OnInit {
             c => c.Fei === s.Competition.Fei
           ).Year + ':' + (
             s.Dnf
-              ? s.DnfDescription 
+              ? s.Result.o.startsWith("XC") || s.Result.o.startsWith("SJ") || s.Result.o.startsWith("2nd")
+                ? s.Result.a.toFixed(1) + ' | ' + s.DnfDescription
+                : s.DnfDescription 
               : s.Result.p + ': ' + s.Result.a.toFixed(1) + ' | ' + (
                 s.Result.b + s.Result.c
               ).toFixed(1) + ' | ' + (
