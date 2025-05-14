@@ -93,9 +93,13 @@ export class Datablock {
                 const lines: string[] = data.split(/\r?\n/);
                 let currentEntry: string[] = [];
                 lines.forEach((l, i) => {
-                    currentEntry.push(l);
-                    const re: RegExp = new RegExp(competitionPattern, 'g');
-                    const matches = re.exec(l);
+                    let matches: RegExpExecArray = null;
+                    if (l.trim().length > 0)
+                    {
+                        currentEntry.push(l);
+                        const re: RegExp = new RegExp(competitionPattern, 'g');
+                        matches = re.exec(l);
+                    }
 
                     if (matches != null) {
                         // check we're not duplicating existing scores
