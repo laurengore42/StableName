@@ -120,6 +120,12 @@
     "m": 5
   },
   {
+    "i": "5LA",
+    "n": "Adelaide",
+    "l": "AUS",
+    "m": 5
+  },
+  {
     "i": "4LC",
     "n": "Camphire",
     "l": "IRE",
@@ -157,6 +163,12 @@
   {
     "i": "WEGC",
     "n": "World Equestrian Games",
+    "m": 7
+  },
+  {
+    "i": "4LMw",
+    "n": "Mallow",
+    "l": "IRL",
     "m": 7
   },
   {
@@ -243,12 +255,6 @@
     "m": 10
   },
   {
-    "i": "5LA",
-    "n": "Adelaide",
-    "l": "AUS",
-    "m": 5
-  },
-  {
     "i": "4LPr",
     "n": "Pratoni",
     "l": "ITA",
@@ -283,11 +289,5 @@
     "n": "Robertson",
     "l": "AUS",
     "m": 11
-  },
-  {
-    "i": "4LMw",
-    "n": "Mallow",
-    "l": "IRL",
-    "m": 7
   }
 ]
