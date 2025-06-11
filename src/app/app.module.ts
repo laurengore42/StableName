@@ -8,6 +8,7 @@ import { HorseDescriptionComponent } from './components/horse/description/descri
 import { HorseDrawingComponent } from './components/horse/drawing/drawing.component';
 import { RiderComponent } from './components/rider/rider.component';
 import { RiderNameComponent } from './components/rider/name/name.component';
+import { RiderDetailsComponent } from './components/rider/details/details.component';
 import { RiderHorseComponent } from './components/rider/horse/horse.component';
 import { ScorelistComponent } from './components/scorelist/scorelist.component';
 import { ScorelistHorseComponent } from './components/scorelist/horse/horse.component';
@@ -23,6 +24,7 @@ import { EventComponent } from './components/eventlist/event/event.component';
     HorseDrawingComponent,
     RiderComponent,
     RiderNameComponent,
+    RiderDetailsComponent,
     RiderHorseComponent,
     ScorelistComponent,
     ScorelistHorseComponent,

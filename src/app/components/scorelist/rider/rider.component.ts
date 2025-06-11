@@ -1,5 +1,5 @@
 import { Component, Input, Output, OnInit, EventEmitter } from '@angular/core';
-import { Rider } from 'src/app/models';
+import { Horse, Rider } from 'src/app/models';
 import { DbService } from 'src/app/services';
 
 @Component({
@@ -18,6 +18,7 @@ export class ScorelistRiderComponent implements OnInit {
   @Output() showHorse = new EventEmitter<string>();
   public dnf: boolean;
   public rider: Rider;
+  public horse: Horse;
 
   constructor(private dbService: DbService) {
   }
@@ -26,6 +27,7 @@ export class ScorelistRiderComponent implements OnInit {
     this.dnf = this.position === 'EL' || this.position === 'WD' || this.position === 'RET' || this.position === 'DSQ' || this.position === 'SUBST';
 
     this.rider = this.dbService.GetRider(this.riderfei);
+    this.horse = this.dbService.GetHorse(this.horsefei);
   }
 
   showMe() {
