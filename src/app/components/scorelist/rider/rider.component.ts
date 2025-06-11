@@ -29,11 +29,6 @@ export class ScorelistRiderComponent implements OnInit {
   }
 
   showMe() {
-    if (!this.isShown) {
-      this.showHorse.emit(this.horsefei);
-    }
-    else {
-      this.showHorse.emit("");
-    }
+    this.showHorse.emit(!this.isShown ? "" : this.horsefei);
   }
 }
