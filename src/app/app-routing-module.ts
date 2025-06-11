@@ -19,13 +19,13 @@ const routes: Routes = [
     {
         path: 'events',
         component: EventlistComponent
-    },
-    // TO DO remove this last redirect for show mode
-    {
-        path: '',
-        redirectTo: '/events',
-        pathMatch: 'full'
     }
+    // TO DO remove this last redirect for show mode
+    // {
+    //     path: '',
+    //     redirectTo: '/events',
+    //     pathMatch: 'full'
+    // }
 ];
 
 @NgModule({
