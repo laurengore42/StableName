@@ -1,0 +1,10 @@
+@import "src/variables.scss";
+
+.rider-details {
+  background-color: inherit;
+  color: inherit;
+
+  &.closed {
+    display: none;
+  }
+}
