@@ -1,5 +1,5 @@
 <ng-container *ngFor="let scorehorserider of scoresShow">
     <sn-scorelist-rider [isStatic]="isStatic" [isShown]="scorehorserider.horse.Fei == shownHorseFei" [position]="scorehorserider.score.Result.p" [sum]="scorehorserider.score.SumDisplay" [draw]="scorehorserider.score.Draw" [riderfei]="scorehorserider.rider.Fei" [horsefei]="scorehorserider.horse.Fei" (showHorse)="showThisHorse($event)"></sn-scorelist-rider>
     <sn-scorelist-horse [isStatic]="isStatic" [isShown]="scorehorserider.horse.Fei == shownHorseFei" [outcome]="scorehorserider.score.DnfDescription" [position]="scorehorserider.score.Result.p" [ridername]="scorehorserider.rider.Name" [horsefei]="scorehorserider.horse.Fei"></sn-scorelist-horse>
-    <sn-scorelist-scoretable *ngIf="!scorehorserider.score.Dnf" [isShown]="scorehorserider.horse.Fei == shownHorseFei" [horsefei]="scorehorserider.horse.Fei" [riderfei]="scorehorserider.rider.Fei"></sn-scorelist-scoretable>
+    <sn-scorelist-scoretable *ngIf="!scorehorserider.score.Dnf" [isStatic]="isStatic" [isShown]="scorehorserider.horse.Fei == shownHorseFei" [horsefei]="scorehorserider.horse.Fei" [riderfei]="scorehorserider.rider.Fei"></sn-scorelist-scoretable>
 </ng-container>
