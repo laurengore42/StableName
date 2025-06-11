@@ -101,6 +101,10 @@ export class Horse {
         return this._dto;
     }
 
+    get RegdName(): string {
+        return this._regdName;
+    }
+
     get Name(): string {
         return this._regdName + (this._stableName ? ' (' + this._stableName + ')' : '');
     }
