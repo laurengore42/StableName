@@ -43,11 +43,12 @@ export class HorseDTO {
     public c?: string; // colour, per Colour enum
     public x?: string; // sex, per Sex enum
     public h?: number; // height, expressed 16.2
-    public d?: number; // year of birth
+    public d?: number; // date (year) of birth
     public l?: string; // leg markings, as NEAR FORE - OFF FORE - OFF HIND - NEAR HIND
     public b?: string; // studbook, per Studbook enum
     public z?: number; // deceased
     public a?: string; // notes
+    // note: there used to be a 'p' but it's not in use I just haven't removed it from the JSON yet
 
     constructor(regdName: string, fei: string, stableName: string, sex: string, height: number, foaled: number, colour: string, legs: string, studbook: string, deceased: number, notes: string) {
         this.n = regdName;

@@ -1,4 +1,4 @@
-import { Component, Input, OnInit } from '@angular/core';
+import { Component, Input, Output, OnInit, EventEmitter } from '@angular/core';
 import { Rider } from 'src/app/models';
 import { DbService } from 'src/app/services';
 
@@ -12,7 +12,10 @@ export class ScorelistRiderComponent implements OnInit {
   @Input() sum: string;
   @Input() position: string;
   @Input() riderfei: string;
+  @Input() horsefei: string;
   @Input() isStatic: boolean;
+  @Input() isShown: boolean;
+  @Output() showHorse = new EventEmitter<string>();
   public dnf: boolean;
   public rider: Rider;
 
@@ -23,5 +26,14 @@ export class ScorelistRiderComponent implements OnInit {
     this.dnf = this.position === 'EL' || this.position === 'WD' || this.position === 'RET' || this.position === 'DSQ' || this.position === 'SUBST';
 
     this.rider = this.dbService.GetRider(this.riderfei);
+  }
+
+  showMe() {
+    if (!this.isShown) {
+      this.showHorse.emit(this.horsefei);
+    }
+    else {
+      this.showHorse.emit("");
+    }
   }
 }

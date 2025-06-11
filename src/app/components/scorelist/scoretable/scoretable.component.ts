@@ -11,6 +11,7 @@ import { DbService } from 'src/app/services';
 export class ScorelistScoretableComponent implements OnInit {
     @Input() horsefei: string;
     @Input() riderfei: string;
+    @Input() isShown: boolean;
     public scoresShow: string[];
 
     constructor(private dbService: DbService) {

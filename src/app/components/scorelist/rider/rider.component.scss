@@ -1,17 +1,33 @@
 @import "src/variables.scss";
 
 div {
-  &.row {    
-    margin-top: 50px;
+  &.row {
+    margin-top: 10px;
   }
 
   &.rider-desc {
     padding-bottom: 10px;
     border-radius: 10px 10px 0 0;
     background-color: $background-header;
+
+    &.clickable {
+      cursor: pointer;
+    }
   }
 
   &.dnf {
     font-style: italic;
+  }
+
+  &.closed {
+    .rider-desc {
+      border-radius: 10px;
+    }
+    .rider-notes {
+      display: none;
+    }
+    .rider-horselist {
+      display: none;
+    }
   }
 }

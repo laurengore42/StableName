@@ -15,6 +15,7 @@ export class ScorelistComponent implements OnInit {
     public comps: Competition[];
     public eventserieses: EventSeries[];
     public isStatic: boolean;
+    public shownHorseFei: string;
 
     constructor(private dbService: DbService, private route: ActivatedRoute) {
     }
@@ -26,6 +27,7 @@ export class ScorelistComponent implements OnInit {
 
         let compfei = this.compfei;
         this.isStatic = true;
+        this.shownHorseFei = "";
 
         if (compfei === undefined)
         {
@@ -42,12 +44,23 @@ export class ScorelistComponent implements OnInit {
                 horses.find(h => h.Fei === s.Horse.Fei), riders.find(r => r.Fei === s.Rider.Fei)
             ));
 
-        if (!this.isStatic || (this.scoresShow.some(s => s.score.Result.b > 0 || s.score.Result.c > 0)))
+        if (!this.isStatic)
         {
+          // working in dev mode, treat show as completed
+          this.scoresShow = this.scoresShow.sort(ScoreHorseRider.sortByResult).reverse();
+        }
+        else if (this.scoresShow.some(s => s.score.Result.d > 0 || s.score.Result.e > 0 || s.score.Result.f > 0 || s.score.Result.g > 0))
+        {
+          // showjump scores are in, treat show as completed
+          this.scoresShow = this.scoresShow.sort(ScoreHorseRider.sortByResult).reverse();
+        }
+        else if (this.scoresShow.some(s => s.score.Result.b > 0 || s.score.Result.c > 0)) {
+          // XC scores are in, treat show as Sunday
           this.scoresShow = this.scoresShow.sort(ScoreHorseRider.sortByResult);
         }
         else 
         {
+          // XC scores are not in yet, treat show as Thursday / Friday / Saturday
           this.scoresShow = this.scoresShow.sort(ScoreHorseRider.sortByDrawOrder);
         }
 
@@ -60,5 +73,10 @@ export class ScorelistComponent implements OnInit {
 
         this.comps = this.dbService.Competitions;
         this.eventserieses = this.dbService.EventSerieses;
+    }
+
+    showThisHorse(horsefei: string) {
+      console.log(horsefei);
+      this.shownHorseFei = horsefei;
     }
 }
