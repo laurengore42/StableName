@@ -22,12 +22,10 @@ div {
   &.closed {
     .rider-desc {
       border-radius: 10px;
-    }
-    .rider-notes {
-      display: none;
-    }
-    .rider-horselist {
-      display: none;
+
+      p {
+        display: none;
+      }
     }
   }
 }
