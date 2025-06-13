@@ -1,18 +1,14 @@
 <div class="col-12">
-  <div class="row" [class.dnf]="dnf">
-    <div class="col-12 rider-desc">
-      <ng-container *ngIf="!isStatic">
-        <a [routerLink]="['/rider', rider.Fei]">
-          <sn-rider-name [name]="rider.Name" [draw]="draw" [sum]="sum" [dnf]="dnf"></sn-rider-name>
-        </a>
-      </ng-container>
-      <ng-container *ngIf="isStatic">
-          <sn-rider-name [name]="rider.Name" [draw]="draw" [sum]="sum" [dnf]="dnf"></sn-rider-name>
-      </ng-container>
-      <ng-container *ngIf="rider.OtherName"> ({{ rider.OtherName }})</ng-container><br/>{{ rider.BaseDescriptor }} {{ rider.Fei }}
-      <p *ngIf="rider.Notes !== '' && !dnf" innerHTML="{{ rider.Notes }}">
-      </p>
-      <p *ngIf="!dnf">Horses: {{ rider.horseList }}</p>
+  <div class="row" [class.dnf]="dnf" [class.closed]="isStatic && !isShown">
+    <div class="col-12 rider-desc" *ngIf="!isStatic">
+      <a [routerLink]="['/rider', rider.Fei]">
+        <sn-rider-name [name]="rider.Name" [draw]="draw" [sum]="sum" [dnf]="dnf"></sn-rider-name>
+      </a>
+      <sn-rider-details [otherName]="rider.OtherName" [baseDescriptor]="rider.BaseDescriptor" [fei]="rider.Fei" [notes]="rider.Notes" [horseList]="rider.horseList" [dnf]="dnf" [isStatic]="isStatic" [isShown]="isShown"></sn-rider-details>
+    </div>
+    <div class="col-12 rider-desc clickable" *ngIf="isStatic" (click)="showMe()">
+      <sn-rider-name [name]="rider.Name" [draw]="draw" [sum]="sum" [dnf]="dnf"></sn-rider-name><sn-rider-horsename [name]="horse.RegdName"></sn-rider-horsename>
+      <sn-rider-details [otherName]="rider.OtherName" [baseDescriptor]="rider.BaseDescriptor" [fei]="rider.Fei" [notes]="rider.Notes" [horseList]="rider.horseList" [dnf]="dnf" [isStatic]="isStatic" [isShown]="isShown"></sn-rider-details>
     </div>
   </div>
 </div>

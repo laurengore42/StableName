@@ -1,0 +1,6 @@
+<div class="rider-details" [class.closed]="isStatic && !isShown">
+  <ng-container *ngIf="otherName"> ({{ otherName }})</ng-container>
+  <p>{{ baseDescriptor }} {{ fei }}</p>
+  <p *ngIf="notes !== '' && !dnf" innerHTML="{{ notes }}"></p>
+  <p *ngIf="!dnf">Horses: {{ horseList }}</p>
+</div>

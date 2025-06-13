@@ -1,4 +1,4 @@
-<div class="col-12" [class.dnf]="dnf">
+<div class="col-12" [class.dnf]="dnf" [class.closed]="isStatic && !isShown">
   <div class="row">
     <div class="col-12">
         <h4 *ngIf="dnf">Did not finish: {{ outcome }}</h4>

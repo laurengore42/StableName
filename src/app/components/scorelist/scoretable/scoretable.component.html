@@ -1,4 +1,4 @@
-<div class="col-12 scoretable">
+<div class="col-12 scoretable" [class.closed]="isStatic && !isShown">
     <div class="row">
         <div class="col-12">
             <table *ngIf="scoresShow.length > 0">
